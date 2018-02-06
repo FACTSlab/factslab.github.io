@@ -43,14 +43,14 @@ Sid is a graduate student in the [Department of Linguistics](http://www.sas.roch
 <center><b>Scott Grimm</b></center>
 <center>Faculty Affiliate</center>
 
-[Scott](http://www.sas.rochester.edu/lin/sgrimm/) is an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) and Director of the Quantitative Semantics lab at the [University of Rochester](https://www.rochester.edu/). He received his PhD in [Linguistics](https://linguistics.stanford.edu/) from [Stanford University](https://www.stanford.edu/) in 2012.
+[Scott](http://www.sas.rochester.edu/lin/sgrimm/) is an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/), where he is Director of the Quantitative Semantics Lab. He received his PhD in [Linguistics](https://linguistics.stanford.edu/) from [Stanford University](https://www.stanford.edu/) in 2012.
 
 <center>
 <a href="http://sites.krieger.jhu.edu/rawlins/"><img class="people" alt="Kyle Rawlins" src="{{ page.images | relative_url }}kyle-rawlins.jpg" srcset="{{ page.images | relative_url }}kyle-rawlins.jpg" /></a></center>  
 <center><b>Kyle Rawlins</b></center>
 <center>Faculty Affiliate</center>
 
-[Kyle](http://sites.krieger.jhu.edu/rawlins/) is an Associate Professor in the [Department of Cognitive Science](http://cogsci.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). He received his PhD in [Linguistics](https://linguistics.ucsc.edu/) from the [University of California, Santa Cruz](https://www.ucsc.edu/) in 2008.
+[Kyle](http://sites.krieger.jhu.edu/rawlins/) is an Associate Professor in the [Department of Cognitive Science](http://cogsci.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where he is director of the [Semantics Lab](http://sites.krieger.jhu.edu/rawlins/semantics-lab/). He received his PhD in [Linguistics](https://linguistics.ucsc.edu/) from the [University of California, Santa Cruz](https://www.ucsc.edu/) in 2008.
 
 <center>
 <a href="http://www.cs.jhu.edu/~vandurme/"><img class="people" alt="Benjamin Van Durme" src="{{ page.images | relative_url }}benjamin-vandurme.jpg" srcset="{{ page.images | relative_url }}benjamin-vandurme.jpg" /></a></center>  
