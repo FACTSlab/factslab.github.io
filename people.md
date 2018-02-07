@@ -12,7 +12,7 @@ images: assets/img/people/
 <a href="http://aswhite.net"><img class="people" alt="Aaron Steven White" src="{{ page.images | relative_url }}aaron-white.jpg" srcset="{{ page.images | relative_url }}aaron-white.jpg" /></a>
 </center>  
 <center><b>Aaron Steven White</b></center>
-<center>Principal Investigator</center>
+<center>Director</center>
 
 [Aaron](http://aswhite.net) is an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) and the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/). He received his PhD in [Linguistics](http://ling.umd.edu/) from the [University of Maryland, College Park](https://www.umd.edu/) in 2015.
 
@@ -50,7 +50,7 @@ Sid is a graduate student in the [Department of Linguistics](http://www.sas.roch
 <center><b>Kyle Rawlins</b></center>
 <center>Faculty Affiliate</center>
 
-[Kyle](http://sites.krieger.jhu.edu/rawlins/) is an Associate Professor in the [Department of Cognitive Science](http://cogsci.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where he is director of the [Semantics Lab](http://sites.krieger.jhu.edu/rawlins/semantics-lab/). He received his PhD in [Linguistics](https://linguistics.ucsc.edu/) from the [University of California, Santa Cruz](https://www.ucsc.edu/) in 2008.
+[Kyle](http://sites.krieger.jhu.edu/rawlins/) is an Associate Professor in the [Department of Cognitive Science](http://cogsci.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where he is Director of the [Semantics Lab](http://sites.krieger.jhu.edu/rawlins/semantics-lab/). He received his PhD in [Linguistics](https://linguistics.ucsc.edu/) from the [University of California, Santa Cruz](https://www.ucsc.edu/) in 2008.
 
 <center>
 <a href="http://www.cs.jhu.edu/~vandurme/"><img class="people" alt="Benjamin Van Durme" src="{{ page.images | relative_url }}benjamin-vandurme.jpg" srcset="{{ page.images | relative_url }}benjamin-vandurme.jpg" /></a></center>  
