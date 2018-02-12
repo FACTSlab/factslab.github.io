@@ -41,7 +41,7 @@ body {
 //-------------------------------
 
 a, .a {
-  color: #1C3A67; //var(--link-color);
+  color: var(--link-color);
   text-decoration: none;
   position: relative;
   border-bottom: 0.18rem solid transparent;
@@ -54,6 +54,12 @@ a, .a {
     strong {
       color: inherit;
     }
+}
+
+p {
+  a {
+    color: #356EC3;  
+  }
 }
 
 // Headings
