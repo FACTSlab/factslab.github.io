@@ -21,6 +21,6 @@ FACTS.lab is currently located on the University of Rochester's River Campus in 
 
 # Contact
 
-You can follow the latest FACTS.lab news on twitter at [@factsemlab](https://twitter.com/factsemlab). <!-- All code and data FACTS.lab produces can be found on [github](https://github.com/FACTSlab). --> If you're interested in joining FACTS.lab or collaborating with its members, you can send an email to [aaron.white@factslab.io](mailto:aaron.white@factslab.io).
+You can follow the latest FACTS.lab news on twitter at [@factsemlab](https://twitter.com/factsemlab). <!-- All code and data FACTS.lab produces can be found on [github](https://github.com/FACTSlab). --> If you're interested in joining FACTS.lab or collaborating with its members, you can send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu).
 
 </div>
