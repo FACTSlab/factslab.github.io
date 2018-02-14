@@ -22,6 +22,8 @@ Decomp is a large project and so only research products authored by core FACTS.l
 
 ## Papers
 
+[Rudinger, R.](http://www.clsp.jhu.edu/people/graduate-students/rachel-rudinger/), A. S. White, & [B. Van Durme](http://www.cs.jhu.edu/~vandurme/). (2018). Neural Models of Factuality. To appear in _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, New Orleans, LA, June 1 – June 6, 2018.
+
 White, A. S., [P. Rastogi](http://www.cs.jhu.edu/~prastog3/), [K. Duh](http://cs.jhu.edu/~kevinduh/), & [B. Van Durme](http://www.cs.jhu.edu/~vandurme/). (2017). [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](http://aclweb.org/anthology/I/I17/I17-1100.pdf). _Proceedings of the The 8th International Joint Conference on Natural Language Processing_, pages 996–1005, Taipei, Taiwan, November 27 – December 1, 2017.
 
 White, A. S., [K. Rawlins](http://sites.krieger.jhu.edu/rawlins/), & [B. Van Durme](http://www.cs.jhu.edu/~vandurme/). (2017). [The Semantic Proto-Role Linking Model](http://aclweb.org/anthology/E/E17/E17-2015.pdf). _Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics_, pages 92–98, Valencia, Spain, April 3-7, 2017.
@@ -30,7 +32,9 @@ White, A. S., [D. Reisinger](http://pages.jh.edu/~dreisin2/), [K. Sakaguchi](htt
 
 ## Presentations
 
-White, A. S., [P. Rastogi](http://www.cs.jhu.edu/~prastog3/), [K. Duh](http://cs.jhu.edu/~kevinduh/), & [B. Van Durme](http://www.cs.jhu.edu/~vandurme/). (2017). [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](presentations/slides/white_ijcnlp17_slides.pdf). Presented at the _8th International Joint Conference on Natural Language Processing_. Taipei, Taiwan, November 27-December 1, 2017.
+[Rudinger, R.](http://www.clsp.jhu.edu/people/graduate-students/rachel-rudinger/), A. S. White, & [B. Van Durme](http://www.cs.jhu.edu/~vandurme/). (2018). Neural Models of Factuality. To be given at the [2018 Conference of the North American Chapter of the Association for Computational Linguistics](http://naacl2018.org/), New Orleans, LA, June 1 – June 6, 2018.
+
+White, A. S., [P. Rastogi](http://www.cs.jhu.edu/~prastog3/), [K. Duh](http://cs.jhu.edu/~kevinduh/), & [B. Van Durme](http://www.cs.jhu.edu/~vandurme/). (2017). [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](presentations/slides/white_ijcnlp17_slides.pdf). Presented at the 8th International Joint Conference on Natural Language Processing. Taipei, Taiwan, November 27-December 1, 2017.
 
 White, A. S., [K. Rawlins](http://sites.krieger.jhu.edu/rawlins/), & [B. Van Durme](http://www.cs.jhu.edu/~vandurme/). (2017). [The Semantic Proto-Role Linking Model](https://docs.google.com/presentation/d/1lcl-sSI9FFFbSXT9ajoRyFZXbFW-nucFs8Ahe9p5atM/edit?usp=sharing). Presented at the [15th Conference of the European Chapter of the Association for Computational Linguistics](http://eacl2017.org/). Valencia, Spain. April 3-7, 2017.
 
