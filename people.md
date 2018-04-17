@@ -32,6 +32,14 @@ Venkat is a graduate student in the [Department of Linguistics](http://www.sas.r
 
 Sid is a graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. He received his B.Tech and M.Tech in Agricultural and Food Engineering from the [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) in 2014 and worked as a Decision Analytics Consultant at [EXL Services](https://www.exlservice.com/analytics/) from June 2014 to July 2017.
 
+<center>
+<img class="people" alt="LaChelle Stewart" src="{{ page.images | relative_url }}lachelle-stewart.jpg" srcset="{{ page.images | relative_url }}lachelle-stewart.jpg" /></center>  
+<center><b>LaChelle Stewart</b>
+</center>
+<center>Graduate Researcher</center>
+
+LaChelle is an incoming graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing a joint PhD in Linguistics and Computer Science. She received her BA in Linguistics from the University of Delaware in 2018.
+
 <br/>
 <br/>
 
