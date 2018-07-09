@@ -16,25 +16,25 @@ published: true
 
 # Decomp
 
-The [Decompositional Semantics Initiative](http://decomp.net) (Decomp), which is joint work with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/) at Johns Hopkins University, is a collection of efforts aimed at collecting and modeling human annotations of meaning via the decomposition of lexical and phrasal meanings into a small set of component parts. Decomp is supported by [DARPA AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) grant HR001117S0026-AIDA-FP-013.
+The [Decompositional Semantics Initiative](http://decomp.net) (Decomp), which is joint work with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/) at Johns Hopkins University, is a collection of efforts aimed at collecting and modeling human annotations of meaning via the decomposition of lexical and phrasal meanings into a small set of component parts. Decomp is supported by a [DARPA AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) grant (HR001117S0026-AIDA-FP-013).
 
 Decomp is a large project and so only research products authored by core FACTS.lab members are listed below. A full list of publications, presentations, and available data can be found at [decomp.net](http://decomp.net).
 
 ## Papers
 
-Rudinger, R., A. S. White, & B. Van Durme. (2018). [Neural Models of Factuality](http://aaronstevenwhite.io/papers/rudinger_neural_2018.pdf). To appear in _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, New Orleans, LA, June 1 – June 6, 2018.
+Rudinger, R., A. S. White, & B. Van Durme. (2018). [Neural Models of Factuality](http://aaronstevenwhite.io/papers/rudinger_neural_2018.pdf). _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, New Orleans, LA, June 1 – June 6, 2018.
 
-http://www.cs.jhu.edu/~apoliak1/, A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, A. S. White, & B. Van Durme. (2018). [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). [arXiv:1804.08207v1 [cs.CL]](https://arxiv.org/abs/1804.08207)
+Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, A. S. White, & B. Van Durme. (2018). [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). [arXiv:1804.08207v1 [cs.CL]](https://arxiv.org/abs/1804.08207)
 
 White, A. S., P. Rastogi, K. Duh, & B. Van Durme. (2017). [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](http://aclweb.org/anthology/I/I17/I17-1100.pdf). _Proceedings of the The 8th International Joint Conference on Natural Language Processing_, pages 996–1005, Taipei, Taiwan, November 27 – December 1, 2017.
 
 White, A. S., K. Rawlins, & B. Van Durme. (2017). [The Semantic Proto-Role Linking Model](http://aclweb.org/anthology/E/E17/E17-2015.pdf). _Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics_, pages 92–98, Valencia, Spain, April 3-7, 2017.
 
-White, A. S., D. Reisinger, K. Sakaguchi, T. Vieira, S. Zhang, R. Rudinger, K. Rawlins, & B. Van Durme. (2016). [Universal decompositional semantics on universal dependencies](http://aclweb.org/anthology/D/D16/D16-1177.pdf). In _Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing_, pages 1713–1723, Austin, Texas, November 1-5, 2016.
+White, A. S., D. Reisinger, K. Sakaguchi, T. Vieira, S. Zhang, R. Rudinger, K. Rawlins, & B. Van Durme. (2016). [Universal decompositional semantics on universal dependencies](http://aclweb.org/anthology/D/D16/D16-1177.pdf). _Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing_, pages 1713–1723, Austin, Texas, November 1-5, 2016.
 
 ## Presentations
 
-Rudinger, R., A. S. White, & B. Van Durme. (2018). Neural Models of Factuality. To be given at the [2018 Conference of the North American Chapter of the Association for Computational Linguistics](http://naacl2018.org/), New Orleans, LA, June 1 – June 6, 2018.
+Rudinger, R., A. S. White, & B. Van Durme. (2018). [Neural Models of Factuality](http://aaronstevenwhite.io/presentations/slides/rudinger_naacl2018_slides.pdf). To be given at the [2018 Conference of the North American Chapter of the Association for Computational Linguistics](http://naacl2018.org/), New Orleans, LA, June 1 – June 6, 2018.
 
 White, A. S., P. Rastogi, K. Duh, & B. Van Durme. (2017). [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](http://aaronstevenwhite.io/presentations/slides/white_ijcnlp17_slides.pdf). Presented at the 8th International Joint Conference on Natural Language Processing. Taipei, Taiwan, November 27-December 1, 2017.
 
@@ -58,7 +58,7 @@ Starred datasets were collected by FACTS.lab core members.
 
 # MegaAttitude
 
-The [MegaAttitude Project](http://megaattitude.io), which is joint work with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/) at Johns Hopkins University, aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments.
+The [MegaAttitude Project](http://megaattitude.io), which is joint work with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/) at Johns Hopkins University, aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant (BCS-1748969/BCS-1749025).
 
 ## Papers
 
