@@ -16,7 +16,7 @@ published: true
 
 # Decomp
 
-The [Decompositional Semantics Initiative](http://decomp.net) (Decomp), which is joint work with [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/) and [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/) at Johns Hopkins University, is a collection of efforts aimed at collecting and modeling human annotations of meaning via the decomposition of lexical and phrasal meanings into a small set of component parts. Decomp is supported by a [DARPA AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) grant (HR001117S0026-AIDA-FP-013).
+The [Decompositional Semantics Initiative](http://decomp.net) (Decomp) is a collection of efforts aimed at collecting and modeling human annotations of meaning via the decomposition of lexical and phrasal meanings into a small set of component parts. Decomp is supported by a [DARPA AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) grant (HR001117S0026-AIDA-FP-013).
 
 Decomp is a large project and so only research products authored by core FACTS.lab members are listed below. A full list of publications, presentations, and available data can be found at [decomp.net](http://decomp.net).
 
@@ -58,7 +58,7 @@ Starred datasets were collected by FACTS.lab core members.
 
 # MegaAttitude
 
-The [MegaAttitude Project](http://megaattitude.io), which is joint work with [Kyle Rawlins](http://sites.krieger.jhu.edu/rawlins/) at Johns Hopkins University, aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant (BCS-1748969/BCS-1749025).
+The [MegaAttitude Project](http://megaattitude.io) aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant (BCS-1748969/BCS-1749025).
 
 ## Papers
 
