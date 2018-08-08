@@ -17,7 +17,7 @@ The **F**ormal **A**nd **C**ompu**T**ational **S**emantics lab (**FACTS.lab**) a
 
 # Location
 
-FACTS.lab is currently located on the University of Rochester's River Campus in Lattimore Hall (Room 511A). It will soon relocate to the the University of Rochester's state-of-the-art Wegmans Hall (Room 4105), which also houses the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/) and the [Department of Computer Science](https://www.cs.rochester.edu/).
+FACTS.lab is currently located in the University of Rochester's state-of-the-art Wegmans Hall (Room 4107), which also houses the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/) and the [Department of Computer Science](https://www.cs.rochester.edu/).
 
 # Contact
 

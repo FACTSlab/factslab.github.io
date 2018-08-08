@@ -22,7 +22,7 @@ images: assets/img/people/
 </center>
 <center>Graduate Researcher</center>
 
-Venkat is a graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. He received his B.Tech and M.Tech in [Biological Engineering](http://biotech.iitm.ac.in) from the [Indian Institute of Technology, Madras](https://www.iitm.ac.in) in 2017.
+Venkat is a second-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. He received his B.Tech and M.Tech in [Biological Engineering](http://biotech.iitm.ac.in) from the [Indian Institute of Technology, Madras](https://www.iitm.ac.in) in 2017.
 
 <center>
 <img class="people" alt="Siddharth Vashishtha" src="{{ page.images | relative_url }}siddharth-vashishtha.jpg" srcset="{{ page.images | relative_url }}siddharth-vashishtha.jpg" /></center>  
@@ -30,7 +30,15 @@ Venkat is a graduate student in the [Department of Linguistics](http://www.sas.r
 </center>
 <center>Graduate Researcher</center>
 
-Sid is a graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. He received his B.Tech and M.Tech in Agricultural and Food Engineering from the [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) in 2014 and worked as a Decision Analytics Consultant at [EXL Services](https://www.exlservice.com/analytics/) from June 2014 to July 2017.
+Sid is a second-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. He received his B.Tech and M.Tech in Agricultural and Food Engineering from the [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) in 2014 and worked as a Decision Analytics Consultant at [EXL Services](https://www.exlservice.com/analytics/) from June 2014 to July 2017.
+
+<center>
+<img class="people" alt="Hannah An" src="{{ page.images | relative_url }}hannah-an.jpg" srcset="{{ page.images | relative_url }}hannah-an.jpg" /></center>  
+<center><b>Hannah An</b>
+</center>
+<center>Graduate Researcher</center>
+
+Hannah is a second-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. She received her BA in [Linguistics](https://linguistics.washington.edu/) and BS in [Applied and Computational Mathematical Sciences](https://acms.washington.edu/) from the [University of Washington](https://www.washington.edu/) in 2017.
 
 <center>
 <img class="people" alt="LaChelle Stewart" src="{{ page.images | relative_url }}lachelle-stewart.jpg" srcset="{{ page.images | relative_url }}lachelle-stewart.jpg" /></center>  
@@ -38,7 +46,7 @@ Sid is a graduate student in the [Department of Linguistics](http://www.sas.roch
 </center>
 <center>Graduate Researcher</center>
 
-LaChelle is an incoming graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing a joint PhD in Linguistics and Computer Science. She received her BA in Linguistics from the University of Delaware in 2018.
+LaChelle is a first-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing a joint PhD in Linguistics and Computer Science. She received her BA in Linguistics from the University of Delaware in 2018.
 
 <br/>
 <br/>
