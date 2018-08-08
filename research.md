@@ -58,7 +58,7 @@ Starred datasets were collected by FACTS.lab core members.
 
 # MegaAttitude
 
-The [MegaAttitude Project](http://megaattitude.io) aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant (BCS-1748969/BCS-1749025).
+The [MegaAttitude Project](http://megaattitude.io) aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant ([BCS-1748969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748969&HistoricalAwards=false)/[BCS-1749025](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1749025&HistoricalAwards=false)).
 
 ## Papers
 
