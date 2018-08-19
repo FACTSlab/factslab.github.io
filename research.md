@@ -16,15 +16,17 @@ published: true
 
 # Decomp
 
-The [Decompositional Semantics Initiative](http://decomp.net) (Decomp) is a collection of efforts aimed at collecting and modeling human annotations of meaning via the decomposition of lexical and phrasal meanings into a small set of component parts. Decomp is supported by a [DARPA AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) grant (HR001117S0026-AIDA-FP-013).
+The [Decompositional Semantics Initiative](http://decomp.net) (Decomp) is a collection of efforts aimed at collecting and modeling human annotations of meaning via the decomposition of lexical and phrasal meanings into a small set of component parts. Decomp is supported by a [DARPA AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives) contract (HR001117S0026-AIDA-FP-013).
 
 Decomp is a large project and so only research products authored by core FACTS.lab members are listed below. A full list of publications, presentations, and available data can be found at [decomp.net](http://decomp.net).
 
 ## Papers
 
-Rudinger, R., A. S. White, & B. Van Durme. (2018). [Neural Models of Factuality](http://aaronstevenwhite.io/papers/rudinger_neural_2018.pdf). _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, New Orleans, LA, June 1 – June 6, 2018.
+White, A. S., R. Rudinger, K. Rawlins, & B. Van Durme. (2018). [Lexicosyntactic Inference in Neural Models](http://aaronstevenwhite.io/papers/white_lexicosyntactic_2018.pdf). To appear in _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
-Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, A. S. White, & B. Van Durme. (2018). [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). [arXiv:1804.08207v1 [cs.CL]](https://arxiv.org/abs/1804.08207)
+Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, A. S. White, & B. Van Durme. (2018). [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). To appear in _Proceedings of 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
+
+Rudinger, R., A. S. White, & B. Van Durme. (2018). [Neural Models of Factuality](http://aaronstevenwhite.io/papers/rudinger_neural_2018.pdf). _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, New Orleans, LA, June 1 – June 6, 2018.
 
 White, A. S., P. Rastogi, K. Duh, & B. Van Durme. (2017). [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](http://aclweb.org/anthology/I/I17/I17-1100.pdf). _Proceedings of the The 8th International Joint Conference on Natural Language Processing_, pages 996–1005, Taipei, Taiwan, November 27 – December 1, 2017.
 
@@ -61,6 +63,8 @@ Starred datasets were collected by FACTS.lab core members.
 The [MegaAttitude Project](http://megaattitude.io) aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant ([BCS-1748969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748969&HistoricalAwards=false)/[BCS-1749025](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1749025&HistoricalAwards=false)).
 
 ## Papers
+
+White, A. S., R. Rudinger, K. Rawlins, & B. Van Durme. (2018). [Lexicosyntactic Inference in Neural Models](http://aaronstevenwhite.io/papers/white_lexicosyntactic_2018.pdf). To appear in _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
 White, A. S. & K. Rawlins. (2018). [The role of veridicality and factivity in clause selection](http://aaronstevenwhite.io/papers/white_role_2018.pdf). To appear in the _Proceedings of the 48th Meeting of the North East Linguistic Society_.
 
