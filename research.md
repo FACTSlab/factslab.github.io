@@ -22,7 +22,7 @@ Decomp is a large project and so only research products authored by core FACTS.l
 
 ## Papers
 
-V. S. Govindarajan, B. Van Durme, & White, A. S. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/abs/1901.11429).
+Govindarajan, V.S., B. Van Durme, & A.S. White. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). [arXiv:1901.11429](https://arxiv.org/abs/1901.11429) [cs.CL].
 
 White, A. S., R. Rudinger, K. Rawlins, & B. Van Durme. (2018). [Lexicosyntactic Inference in Neural Models](https://arxiv.org/pdf/1808.06232). To appear in _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
