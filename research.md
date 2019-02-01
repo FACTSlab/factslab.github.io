@@ -74,6 +74,10 @@ White, A. S. & K. Rawlins. (2016). [A computational model of S-selection](http:/
 
 ## Presentations
 
+White, A. S. 2018. [Distribution, Inference, and Event Structure](http://aaronstevenwhite.io/presentations/slides/white_stanford_colloq_slides.pdf). Colloquium talk given at Stanford University, October 12, 2018.
+
+White, A. S. & K. Rawlins. 2018. [The typology of veridicality inferences](http://aaronstevenwhite.io/presentations/slides/white_nels49_slides.pdf). Talk given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
+
 White, A. S. (2017).  [Computational approaches to clause selection](http://aaronstevenwhite.io/presentations/slides/white_selectionfest2017_slides.pdf).  Invited talk given at [Selectionfest 2017](http://patrickdelliott.com/selectionfest/). [Humboldt University of Berlin](https://www.hu-berlin.de/en/) and [ZAS Berlin](http://www.zas-berlin.de/). Berlin, Germany. November 10-11, 2017.
 
 White, A. S. & K. Rawlins. (2017). [The role of veridicality and factivity in clause selection](http://aaronstevenwhite.io/presentations/slides/white_nels48_slides.pdf). Presented at the 48th annual meeting of the North East Linguistic Society, University of Iceland. October 27-29, 2017.
