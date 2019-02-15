@@ -50,7 +50,7 @@ LaChelle is a first-year graduate student in the [Department of Linguistics](htt
 
 <center>
 <img class="people" alt="Ellise Moon" src="{{ page.images | relative_url }}ellise-moon.jpg" srcset="{{ page.images | relative_url }}ellise-moon.jpg" /></center>  
-<center><b>LaChelle Stewart</b>
+<center><b>Ellise Moon</b>
 </center>
 <center>Graduate Researcher</center>
 
