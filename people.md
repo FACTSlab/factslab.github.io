@@ -48,6 +48,14 @@ Hannah is a second-year graduate student in the [Department of Linguistics](http
 
 LaChelle is a first-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing a joint PhD in Linguistics and Computer Science. She received her BA in Linguistics from the University of Delaware in 2018.
 
+<center>
+<img class="people" alt="Ellise Moon" src="{{ page.images | relative_url }}ellise-moon.jpg" srcset="{{ page.images | relative_url }}ellise-moon.jpg" /></center>  
+<center><b>LaChelle Stewart</b>
+</center>
+<center>Graduate Researcher</center>
+
+Ellise is a first-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing an MA in Linguistics. She received her BA in English Literature from Montana State University in 2018.
+
 <br/>
 <br/>
 
