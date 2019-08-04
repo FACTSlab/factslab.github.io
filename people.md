@@ -17,28 +17,12 @@ images: assets/img/people/
 [Aaron](http://aaronstevenwhite.io) is an Assistant Professor in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) and the [Goergen Institute for Data Science](http://www.sas.rochester.edu/dsc/) at the [University of Rochester](https://www.rochester.edu/), with secondary appointments in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Department of Brain and Cognitive Sciences](http://www.sas.rochester.edu/bcs/). He received his PhD in [Linguistics](http://ling.umd.edu/) from the [University of Maryland, College Park](https://www.umd.edu/) in 2015.
 
 <center>
-<img class="people" alt="Venkata Govindarajan" src="{{ page.images | relative_url }}venkata-govindarajan.jpg" srcset="{{ page.images | relative_url }}venkata-govindarajan.jpg" /></center>  
-<center><b>Venkata Govindarajan</b>
-</center>
-<center>Graduate Researcher</center>
-
-Venkat is a second-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/index.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. He received his B.Tech and M.Tech in [Biological Engineering](http://biotech.iitm.ac.in) from the [Indian Institute of Technology, Madras](https://www.iitm.ac.in) in 2017.
-
-<center>
 <img class="people" alt="Siddharth Vashishtha" src="{{ page.images | relative_url }}siddharth-vashishtha.jpg" srcset="{{ page.images | relative_url }}siddharth-vashishtha.jpg" /></center>  
 <center><b>Siddharth Vashishtha</b>
 </center>
 <center>Graduate Researcher</center>
 
-Sid is a second-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. He received his B.Tech and M.Tech in Agricultural and Food Engineering from the [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) in 2014 and worked as a Decision Analytics Consultant at [EXL Services](https://www.exlservice.com/analytics/) from June 2014 to July 2017.
-
-<center>
-<img class="people" alt="Hannah An" src="{{ page.images | relative_url }}hannah-an.jpg" srcset="{{ page.images | relative_url }}hannah-an.jpg" /></center>  
-<center><b>Hannah An</b>
-</center>
-<center>Graduate Researcher</center>
-
-Hannah is a second-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an MS in Computational Linguistics. She received her BA in [Linguistics](https://linguistics.washington.edu/) and BS in [Applied and Computational Mathematical Sciences](https://acms.washington.edu/) from the [University of Washington](https://www.washington.edu/) in 2017.
+Sid is a first-year PhD student in the [Department of Computer Science](https://www.cs.rochester.edu/) at the [University of Rochester](https://www.rochester.edu/). He received his MS in Computational Linguistics from the University of Rochester in 2019.
 
 <center>
 <img class="people" alt="LaChelle Stewart" src="{{ page.images | relative_url }}lachelle-stewart.jpg" srcset="{{ page.images | relative_url }}lachelle-stewart.jpg" /></center>  
@@ -46,7 +30,7 @@ Hannah is a second-year graduate student in the [Department of Linguistics](http
 </center>
 <center>Graduate Researcher</center>
 
-LaChelle is a first-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing a joint PhD in Linguistics and Computer Science. She received her BA in Linguistics from the University of Delaware in 2018.
+LaChelle is a second-year MA student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing an [MA in Linguistics](http://www.sas.rochester.edu/lin/graduate/master.html). She received her BA in Linguistics from the University of Delaware in 2018.
 
 <center>
 <img class="people" alt="Ellise Moon" src="{{ page.images | relative_url }}ellise-moon.jpg" srcset="{{ page.images | relative_url }}ellise-moon.jpg" /></center>  
@@ -54,7 +38,45 @@ LaChelle is a first-year graduate student in the [Department of Linguistics](htt
 </center>
 <center>Graduate Researcher</center>
 
-Ellise is a first-year graduate student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing an MA in Linguistics. She received her BA in English Literature from Montana State University in 2018.
+Ellise is a second-year MA student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing an [MA in Linguistics](http://www.sas.rochester.edu/lin/graduate/master.html). She received her BA in English Literature from Montana State University in 2018.
+
+<center>
+<img class="people" alt="Boyu Zhang" src="{{ page.images | relative_url }}boyu-zhang.jpg" srcset="{{ page.images | relative_url }}boyu-zhang.jpg" /></center>  
+<center><b>Boyu Zhang</b>
+</center>
+<center>Undergraduate Researcher</center>
+
+Boyu is a third-year undergraduate student pursing a [BS in Computer Science](https://www.cs.rochester.edu/undergraduate/index.html) at the [University of Rochester](https://www.rochester.edu/).
+
+
+<center>
+<img class="people" alt="Muskaan Mendiratta" src="{{ page.images | relative_url }}muskaan-mendiratta.jpg" srcset="{{ page.images | relative_url }}muskaan-mendiratta.jpg" /></center>  
+<center><b>Muskaan Mendiratta</b>
+</center>
+<center>Undergraduate Researcher</center>
+
+Muskaan is an third-year undergraduate at the [University of Rochester](https://www.rochester.edu/) pursuing a [BS in Computer Science](https://www.cs.rochester.edu/undergraduate/index.html) and a [BA in Linguistics](http://www.sas.rochester.edu/lin/undergraduate/index.html).
+
+<br/>
+<br/>
+
+<center><h1>Alumni</h1></center>
+
+<center>
+<img class="people" alt="Venkata Govindarajan" src="{{ page.images | relative_url }}venkata-govindarajan.jpg" srcset="{{ page.images | relative_url }}venkata-govindarajan.jpg" /></center>  
+<center><b>Venkata Govindarajan</b>
+</center>
+<center>Graduate Researcher</center>
+
+Venkat received his MS in Computational Linguistics from the University of Rochester in 2019. He is currently a PhD student in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at the [University of Texas, Austin](https://www.utexas.edu/).
+
+<center>
+<img class="people" alt="Hannah An" src="{{ page.images | relative_url }}hannah-an.jpg" srcset="{{ page.images | relative_url }}hannah-an.jpg" /></center>  
+<center><b>Hannah An</b>
+</center>
+<center>Graduate Researcher</center>
+
+Hannah received her [MS in Computational Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) from the [University of Rochester](https://www.rochester.edu/) in 2019. She is currently a PhD student in the [Department of Computer Science](https://www.cs.rochester.edu/) at the [University of Rochester](https://www.rochester.edu/) working under [James Allen](http://www.cs.rochester.edu/~james/).
 
 <br/>
 <br/>
