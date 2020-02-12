@@ -18,17 +18,19 @@ published: true
 
 The [Decompositional Semantics Initiative](http://decomp.io) (Decomp) is a collection of efforts aimed at collecting and modeling human annotations of meaning via the decomposition of lexical and phrasal meanings into a small set of component parts. Decomp is supported by [DARPA AIDA](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives), [DARPA KAIROS](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas), and [IARPA BETTER](https://www.iarpa.gov/index.php/research-programs/better).
 
-Decomp is a large project and so only research products authored by core FACTS.lab members are listed below. A full list of publications, presentations, and available data can be found at [decomp.net](http://decomp.io).
+Decomp is a large project and so only research products authored by core FACTS.lab members are listed below. A full list of publications, presentations, and available data can be found at [decomp.io](http://decomp.io).
 
-## Papers
+Stengel-Eskin, E. A.S. White, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138](https://arxiv.org/abs/1910.10138) [cs.CL].
 
-Vashishtha, S., B. Van Durme, & A.S. White. 2019. [Fine-Grained Temporal Relation Extraction](https://arxiv.org/pdf/1902.01390.pdf). [arXiv:1902.01390](https://arxiv.org/abs/1902.01390) [cs.CL].
+White, A.S., E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). Accepted to  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_.
 
-Govindarajan, V.S., B. Van Durme, & A.S. White. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](https://arxiv.org/pdf/1901.11429.pdf). [arXiv:1901.11429](https://arxiv.org/abs/1901.11429) [cs.CL].
+Vashishtha, S., B. Van Durme, & A.S. White. 2019. [Fine-Grained Temporal Relation Extraction](https://www.aclweb.org/anthology/P19-1280). *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)*, Florence, Italy, July 29-31, 2019.
 
-White, A. S., R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](https://arxiv.org/pdf/1808.06232). To appear in _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
+Govindarajan, V.S., B. Van Durme, & A.S. White. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00285). *Transactions of the Association for Computational Linguistics* 7: 501–517.
 
-Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, A. S. White, & B. Van Durme. 2018. [Towards a Unified Natural Language Inference Framework to Evaluate Sentence Representations](https://arxiv.org/pdf/1804.08207). To appear in _Proceedings of 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
+**White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](http://aclweb.org/anthology/D18-1501). _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
+
+Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation](http://aclweb.org/anthology/D18-1007). _Proceedings of 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
 Rudinger, R., A. S. White, & B. Van Durme. 2018. [Neural Models of Factuality](http://aaronstevenwhite.io/papers/rudinger_neural_2018.pdf). _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, New Orleans, LA, June 1 – June 6, 2018.
 
@@ -38,15 +40,15 @@ White, A. S., K. Rawlins, & B. Van Durme. 2017. [The Semantic Proto-Role Linking
 
 White, A. S., D. Reisinger, K. Sakaguchi, T. Vieira, S. Zhang, R. Rudinger, K. Rawlins, & B. Van Durme. 2016. [Universal decompositional semantics on universal dependencies](http://aclweb.org/anthology/D/D16/D16-1177.pdf). _Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing_, pages 1713–1723, Austin, Texas, November 1-5, 2016.
 
-## Presentations
+<!-- ## Presentations -->
 
-**White, A.S.** 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019.
+<!-- White, A.S. 2019. Universal Decompositional Semantics. Colloquium talk, Center for Language and Speech Processing, Johns Hopkins University, December 6, 2019. -->
 
-Rudinger, R., A. S. White, & B. Van Durme. 2018. [Neural Models of Factuality](http://aaronstevenwhite.io/presentations/slides/rudinger_naacl2018_slides.pdf). To be given at the [2018 Conference of the North American Chapter of the Association for Computational Linguistics](http://naacl2018.org/), New Orleans, LA, June 1 – June 6, 2018.
+<!-- Rudinger, R., A. S. White, & B. Van Durme. 2018. [Neural Models of Factuality](http://aaronstevenwhite.io/presentations/slides/rudinger_naacl2018_slides.pdf). To be given at the [2018 Conference of the North American Chapter of the Association for Computational Linguistics](http://naacl2018.org/), New Orleans, LA, June 1 – June 6, 2018. -->
 
-White, A. S., P. Rastogi, K. Duh, & B. Van Durme. 2017. [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](http://aaronstevenwhite.io/presentations/slides/white_ijcnlp17_slides.pdf). Presented at the 8th International Joint Conference on Natural Language Processing. Taipei, Taiwan, November 27-December 1, 2017.
+<!-- White, A. S., P. Rastogi, K. Duh, & B. Van Durme. 2017. [Inference is Everything: Recasting Semantic Resources into a Unified Evaluation Framework](http://aaronstevenwhite.io/presentations/slides/white_ijcnlp17_slides.pdf). Presented at the 8th International Joint Conference on Natural Language Processing. Taipei, Taiwan, November 27-December 1, 2017. -->
 
-White, A. S., K. Rawlins, & B. Van Durme. 2017. [The Semantic Proto-Role Linking Model](https://docs.google.com/presentation/d/1lcl-sSI9FFFbSXT9ajoRyFZXbFW-nucFs8Ahe9p5atM/edit?usp=sharing). Presented at the [15th Conference of the European Chapter of the Association for Computational Linguistics](http://eacl2017.org/). Valencia, Spain. April 3-7, 2017.
+<!-- White, A. S., K. Rawlins, & B. Van Durme. 2017. [The Semantic Proto-Role Linking Model](https://docs.google.com/presentation/d/1lcl-sSI9FFFbSXT9ajoRyFZXbFW-nucFs8Ahe9p5atM/edit?usp=sharing). Presented at the [15th Conference of the European Chapter of the Association for Computational Linguistics](http://eacl2017.org/). Valencia, Spain. April 3-7, 2017. -->
 
 <!-- ## Data
 
@@ -68,35 +70,37 @@ Starred datasets were collected by FACTS.lab core members.
 
 The [MegaAttitude Project](http://megaattitude.io) aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant ([BCS-1748969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748969&HistoricalAwards=false)/[BCS-1749025](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1749025&HistoricalAwards=false)).
 
-## Papers
+White, A.S. & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
 
-An, H.Y. & **A.S. White**. 2020. [The lexical and grammatical sources of neg-raising inferences](https://arxiv.org/pdf/1908.05253). To appear in *Proceedings of the Society for Computation in Linguistics* 3.
+An, H.Y. & A.S. White.  2020.  [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics 3_:23, pages 220-233.  New Orleans, Louisiana, January 2-5, 2020.
 
-**White, A.S.** 2019. [Lexically triggered veridicality inferences](https://ling.auf.net/lingbuzz/004664/current.pdf). To appear in *Handbook of Pragmatics*. John Benjamins Publishing Company.
+White, A.S. 2019. [Lexically triggered veridicality inferences](https://benjamins.com/online/hop/articles/lex4). In _Handbook of Pragmatics_, eds. J. Östman & J. Verschueren. John Benjamins Publishing Company.
 
-White, A. S., R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](https://arxiv.org/pdf/1808.06232). To appear in _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
+White, A.S. 2019. [Nothing's wrong with believing (or hoping) whether](https://ling.auf.net/lingbuzz/004572/current.pdf). Under revision for *Semantics and Pragmatics*.
+
+White, A. S., R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](http://aclweb.org/anthology/D18-1501). _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
 White, A. S. & K. Rawlins. 2018. [The role of veridicality and factivity in clause selection](http://aaronstevenwhite.io/papers/white_role_2018.pdf). To appear in the _Proceedings of the 48th Meeting of the North East Linguistic Society_.
 
 White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](http://aaronstevenwhite.io/papers/white_computational_2016_salt.pdf). In _Semantics and Linguistic Theory 26_, 641-663. Ithaca, NY: CLC Publications.
 
-## Presentations
+<!-- ## Presentations -->
 
-An, H.Y. & **A.S. White**. 2020. The lexical and grammatical sources of neg-raising inferences. To be presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020.
+<!-- An, H.Y. & A.S. White. 2020. The lexical and grammatical sources of neg-raising inferences. To be presented at the Annual Meeting of Society for Computation in Linguistics, New Orleans, LA, January 2-5, 2020. -->
 
-Moon, E. & **A.S. White**. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019.
+<!-- Moon, E. & A.S. White. 2019. The source of nonfinite temporal interpretation. To be presented at the 50th Annual Meeting of the Northeast Linguistic Society (NELS 50), Massachusetts Institute of Technology, October 24-27, 2019. -->
 
-White, A. S. 2018. [Distribution, Inference, and Event Structure](http://aaronstevenwhite.io/presentations/slides/white_stanford_colloq_slides.pdf). Colloquium talk given at Stanford University, October 12, 2018.
+<!-- White, A. S. 2018. [Distribution, Inference, and Event Structure](http://aaronstevenwhite.io/presentations/slides/white_stanford_colloq_slides.pdf). Colloquium talk given at Stanford University, October 12, 2018. -->
 
-White, A. S. & K. Rawlins. 2018. [The typology of veridicality inferences](http://aaronstevenwhite.io/presentations/slides/white_nels49_slides.pdf). Talk given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018.
+<!-- White, A. S. & K. Rawlins. 2018. [The typology of veridicality inferences](http://aaronstevenwhite.io/presentations/slides/white_nels49_slides.pdf). Talk given at the 49th annual meeting of the North East Linguistic Society, Cornell University, October 5-7, 2018. -->
 
-White, A. S. 2017.  [Computational approaches to clause selection](http://aaronstevenwhite.io/presentations/slides/white_selectionfest2017_slides.pdf).  Invited talk given at [Selectionfest 2017](http://patrickdelliott.com/selectionfest/). [Humboldt University of Berlin](https://www.hu-berlin.de/en/) and [ZAS Berlin](http://www.zas-berlin.de/). Berlin, Germany. November 10-11, 2017.
+<!-- White, A. S. 2017.  [Computational approaches to clause selection](http://aaronstevenwhite.io/presentations/slides/white_selectionfest2017_slides.pdf).  Invited talk given at [Selectionfest 2017](http://patrickdelliott.com/selectionfest/). [Humboldt University of Berlin](https://www.hu-berlin.de/en/) and [ZAS Berlin](http://www.zas-berlin.de/). Berlin, Germany. November 10-11, 2017. -->
 
-White, A. S. & K. Rawlins. 2017. [The role of veridicality and factivity in clause selection](http://aaronstevenwhite.io/presentations/slides/white_nels48_slides.pdf). Presented at the 48th annual meeting of the North East Linguistic Society, University of Iceland. October 27-29, 2017.
+<!-- White, A. S. & K. Rawlins. 2017. [The role of veridicality and factivity in clause selection](http://aaronstevenwhite.io/presentations/slides/white_nels48_slides.pdf). Presented at the 48th annual meeting of the North East Linguistic Society, University of Iceland. October 27-29, 2017. -->
 
-White, A. S. & K. Rawlins. 2017. [Entropy predicts uncertainty in subcategorization frame distributions](https://docs.google.com/presentation/d/1h--TW-ITRYdW311gqM_RV5rLFTTIfxU4HOYucVWFNA0/edit?usp=sharing). Presented at the [39th Annual Conference of the German Linguistic Society](http://dgfs2017.uni-saarland.de/wordpress/en/), [AG1: Information-theory based modeling of linguistic variation in context](http://dgfs2017.uni-saarland.de/wordpress/en/sessions/ag-1/), Saarland University. March 8-10, 2017.
+<!-- White, A. S. & K. Rawlins. 2017. [Entropy predicts uncertainty in subcategorization frame distributions](https://docs.google.com/presentation/d/1h--TW-ITRYdW311gqM_RV5rLFTTIfxU4HOYucVWFNA0/edit?usp=sharing). Presented at the [39th Annual Conference of the German Linguistic Society](http://dgfs2017.uni-saarland.de/wordpress/en/), [AG1: Information-theory based modeling of linguistic variation in context](http://dgfs2017.uni-saarland.de/wordpress/en/sessions/ag-1/), Saarland University. March 8-10, 2017. -->
 
-White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](http://aaronstevenwhite.io/slides/white_salt_2016_slides.pdf). Presented at Semantics and Linguistic Theory 26, University of Texas, Austin. May 12-15, 2016.
+<!-- White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](http://aaronstevenwhite.io/slides/white_salt_2016_slides.pdf). Presented at Semantics and Linguistic Theory 26, University of Texas, Austin. May 12-15, 2016. -->
 
 <!-- ## Data
 
