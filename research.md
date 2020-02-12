@@ -20,6 +20,8 @@ The [Decompositional Semantics Initiative](http://decomp.io) (Decomp) is a colle
 
 Decomp is a large project and so only research products authored by core FACTS.lab members are listed below. A full list of publications, presentations, and available data can be found at [decomp.io](http://decomp.io).
 
+## Papers
+
 Stengel-Eskin, E. A.S. White, S. Zhang, & B. Van Durme. 2019. [Transductive Parsing for Universal Decompositional Semantics](https://arxiv.org/pdf/1910.10138). [arXiv:1910.10138](https://arxiv.org/abs/1910.10138) [cs.CL].
 
 White, A.S., E. Stengel-Eskin, S. Vashishtha, V. Govindarajan, D. Reisinger, T. Vieira, K. Sakaguchi, S. Zhang, F. Ferraro, R. Rudinger, K. Rawlins, & B. Van Durme. 2019. [The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://arxiv.org/pdf/1909.13851). Accepted to  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_.
@@ -28,9 +30,9 @@ Vashishtha, S., B. Van Durme, & A.S. White. 2019. [Fine-Grained Temporal Relatio
 
 Govindarajan, V.S., B. Van Durme, & A.S. White. 2019. [Decomposing Generalization: Models of Generic, Habitual, and Episodic Statements](http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00285). *Transactions of the Association for Computational Linguistics* 7: 501–517.
 
-**White, A. S.**, R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](http://aclweb.org/anthology/D18-1501). _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
+White, A.S., R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](http://aclweb.org/anthology/D18-1501). _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
-Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, **A. S. White**, & B. Van Durme. 2018. [Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation](http://aclweb.org/anthology/D18-1007). _Proceedings of 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
+Poliak, A., A. Haldar, R. Rudinger, J.E. Hu, E. Pavlick, A.S. White, & B. Van Durme. 2018. [Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation](http://aclweb.org/anthology/D18-1007). _Proceedings of 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 
 Rudinger, R., A. S. White, & B. Van Durme. 2018. [Neural Models of Factuality](http://aaronstevenwhite.io/papers/rudinger_neural_2018.pdf). _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics_, New Orleans, LA, June 1 – June 6, 2018.
 
@@ -69,6 +71,8 @@ Starred datasets were collected by FACTS.lab core members.
 # MegaAttitude
 
 The [MegaAttitude Project](http://megaattitude.io) aims to collect large-scale annotation sets of the selectional behavior of clause-embedding verbs, adjectives, and nouns, based on human acceptability, veridicality, and similarity judgments. It is supported by a National Science Foundation collaborative grant ([BCS-1748969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748969&HistoricalAwards=false)/[BCS-1749025](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1749025&HistoricalAwards=false)).
+
+## Papers
 
 White, A.S. & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to *Glossa*.
 
