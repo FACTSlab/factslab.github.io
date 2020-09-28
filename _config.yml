@@ -3,6 +3,7 @@ baseurl                      : "" # the subpath of your site,                   
                               # set to '' in case of hosting on GitHub
 url                          : "http://factslab.io" # the base hostname & protocol for your site
                                   # `http://factslab.github.io` - for GitHub
+# url                          : 127.0.0.1
 
 blog:
   title                      : FACTS.lab

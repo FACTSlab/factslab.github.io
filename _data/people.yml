@@ -1,0 +1,71 @@
+- name: Members
+  people:
+    - name: Aaron Steven White
+      role: Director
+      website: http://aaronstevenwhite.io
+      image: aaron-white.jpg
+
+    - name: Siddharth Vashishtha
+      role: PhD Student
+      department: Computer Science
+      university: University of Rochester
+      website: https://sidsvash26.github.io/
+      image: siddharth-vashishtha.jpg
+
+    - name: William Gantt
+      role: PhD Student
+      department: Computer Science
+      university: University of Rochester
+      website: https://wgantt.github.io/
+      image: william-gantt.jpg
+
+    - name: Benjamin Kane
+      role: PhD Student
+      department: Computer Science
+      university: University of Rochester
+      website: https://www.cs.rochester.edu/u/bkane2/
+      image: benjamin-kane.jpg
+
+    - name: Zhendong Liu
+      role: MS Student
+      department: Linguistics
+      university: University of Rochester
+      website: 
+      image: zhendong-liu.jpg
+
+    - name: Boyu Zhang
+      role: Undergraduate Student
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: boyu-zhang.jpg
+
+- name: Alumni
+  people:
+    - name: Ellise Moon
+      role: PhD Student
+      department: Linguistics and Philosophy
+      university: University of Rochester
+      website: https://eclairemoon.github.io/
+      image: ellise-moon.jpg
+
+    - name: Venkata Govindarajan
+      role: PhD Student
+      department: Linguistics
+      university: University of Texas, Austin
+      website: https://venkatasg.me/
+      image: venkata-govindarajan.jpg
+
+    - name: Hannah An
+      role: PhD Student
+      department: Computer Science
+      university: University of Rochester
+      website: https://hannah0n.github.io/
+      image: hannah-an.jpg
+
+    - name: Muskaan Mendiratta
+      role: Undergraduate Student
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: muskaan-mendiratta.jpg
