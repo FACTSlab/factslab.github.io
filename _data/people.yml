@@ -18,6 +18,7 @@
       university: University of Rochester
       website: https://wgantt.github.io/
       image: william-gantt.jpg
+      description: Will is a second-year PhD student in Computer Science co-advised by Aaron White and [Dan Gildea](https://www.cs.rochester.edu/~gildea/). His current research focuses on computational models of event structure and on natural language inference, with particular emphases on belief and desire semantics and on [modeling annotator disagreement](https://arxiv.org/pdf/2010.10501.pdf).
 
     - name: Benjamin Kane
       role: PhD Student
