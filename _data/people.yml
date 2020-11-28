@@ -24,6 +24,7 @@
       department: Computer Science
       university: University of Rochester
       website: https://www.cs.rochester.edu/u/bkane2/
+      description: Ben is a second-year PhD student in Computer Science co-advised by Aaron White and [Lenhart Schubert](https://www.cs.rochester.edu/~schubert/). His current research involves creating natural language inference models related to belief and desire properties of verbs (including [modeling annotator disagreement](https://arxiv.org/pdf/2010.10501.pdf) in NLI datasets), and he is interested in future applications of these models in plan-based dialogue systems.
       image: benjamin-kane.jpg
 
     - name: Zhendong Liu
