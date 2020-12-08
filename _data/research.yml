@@ -99,10 +99,10 @@ megaattitude:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
 
-  - citation: "Gantt, William, Benjamin Kane, and  Aaron Steven White. to appear. Natural Language Inference with Mixed Effects. In <i>Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM 2020)</i>. Online: Association for Computational Linguistics."
+  - citation: "Gantt, William, Benjamin Kane, and  Aaron Steven White. 2020. Natural Language Inference with Mixed Effects. In <i>Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM 2020)</i>, 81–87. Online: Association for Computational Linguistics."
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/005503/current.pdf"
+      href: "https://www.aclweb.org/anthology/2020.starsem-1.9.pdf"
     - label: "code"
       href: "https://github.com/wgantt/nli-mixed-models"
 
