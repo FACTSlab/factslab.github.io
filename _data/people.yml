@@ -4,6 +4,8 @@
       role: Director
       website: http://aaronstevenwhite.io
       image: aaron-white.jpg
+      department: Linguistics
+      university: University of Rochester      
 
     - name: Siddharth Vashishtha
       role: PhD Student
@@ -32,13 +34,6 @@
       university: University of Rochester
       website: 
       image: zhendong-liu.jpg
-
-    - name: Boyu Zhang
-      role: Undergraduate Student
-      department: Computer Science
-      university: University of Rochester
-      website: 
-      image: boyu-zhang.jpg
 
 - name: Alumni
   people:
@@ -69,3 +64,10 @@
       university: University of Rochester
       website: 
       image: muskaan-mendiratta.jpg
+
+    - name: Boyu Zhang
+      role: Undergraduate Student
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: boyu-zhang.jpg
