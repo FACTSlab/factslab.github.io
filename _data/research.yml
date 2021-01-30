@@ -1,5 +1,14 @@
 decomp:
   papers:
+  - citation: "Xia, Patrick, Guanghui Qin, Siddharth Vashishtha, Yunmo Chen, Tongfei Chen, Chandler May, Craig Harman, Kyle Rawlins, Aaron Steven White, and Benjamin Van Durme. under review. LOME: Large Ontology Multilingual Extraction."
+    links:
+    - label: "pdf"
+      href: "https://arxiv.org/pdf/2101.12175"
+    - label: "demo"
+      href: "https://nlp.jhu.edu/demos/lome/"
+    - label: "docker"
+      href: "https://hub.docker.com/r/hltcoe/lome"
+
   - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. to appear. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
   
   - citation: "Chen, Yunmo, Tongfei Chen, Seth Ebner, Aaron Steven White, and Benjamin Van Durme. accepted. Reading the Manual: Event Extraction as Definition Comprehension. In <i>Proceedings of the EMNLP 2020 Workshop on Structured Prediction for NLP</i>. Online: Association for Computational Linguistics."
