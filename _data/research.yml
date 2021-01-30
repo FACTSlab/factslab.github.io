@@ -91,22 +91,26 @@ decomp:
 
 megaattitude:
   papers:
-  - citation: "White, Aaron Steven, and Kyle Rawlins. accepted. Frequency, Acceptability, and Selection: A Case Study of Clause-Embedding. <i>Glossa</i>."
+  - citation: "White, Aaron Steven. accepted with revisions. On believing and hoping whether. <i>Semantics and Pragmatics</i>."
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/004596/current.pdf"
+      href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
     - label: "code"
-      href: "https://github.com/MegaAttitude/frequency-acceptability-selection"
-
+      href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"      
+      
   - citation: "Kim, Gene Louis and Aaron Steven White. to appear. Montague Grammar Induction. <i>Semantics and Linguistic Theory</i> 30."
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/005498/current.pdf"
 
-  - citation: "White, Aaron Steven. accepted with revisions. Nothing's Wrong with Believing (or Hoping) Whether. <i>Semantics and Pragmatics</i>."
+  - citation: "White, Aaron Steven, and Kyle Rawlins. 2020. Frequency, Acceptability, and Selection: A Case Study of Clause-Embedding. <i>Glossa</i> 5(1): 105. 1–41."
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
+      href: "https://www.glossa-journal.org/articles/10.5334/gjgl.1001/galley/1056/download/"
+    - label: "code"
+      href: "https://github.com/MegaAttitude/frequency-acceptability-selection"
+    - label: "doi"
+      href: "https://doi.org/10.5334/gjgl.1001"      
 
   - citation: "Gantt, William, Benjamin Kane, and  Aaron Steven White. 2020. Natural Language Inference with Mixed Effects. In <i>Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics (*SEM 2020)</i>, 81–87. Online: Association for Computational Linguistics."
     links:
