@@ -1,6 +1,17 @@
 decomp:
   papers:
-  - citation: "Xia, Patrick, Guanghui Qin, Siddharth Vashishtha, Yunmo Chen, Tongfei Chen, Chandler May, Craig Harman, Kyle Rawlins, Aaron Steven White, and Benjamin Van Durme. under review. LOME: Large Ontology Multilingual Extraction."
+  - citation: "Gantt, William, Lelia Glass, and Aaron Steven White. 2021. Decomposing and Recomposing Event Structure. arXiv:2103.10387 [cs.CL]"
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/005824/current.pdf"
+    - label: "data"
+      href: "http://decomp.io/projects/event-structure/"
+    - label: "doi"
+      href: "https://arxiv.org/abs/2103.10387"
+
+  - citation: "Stengel-Eskin, Elias, Sheng Zhang, Kenton Murray, Aaron Steven White, and Benjamin Van Durme. accepted. Joint Universal Syntactic and Semantic Parsing. <i>Transactions of the Association for Computational Linguistics</i>."
+
+  - citation: "Xia, Patrick, Guanghui Qin, Siddharth Vashishtha, Yunmo Chen, Tongfei Chen, Chandler May, Craig Harman, Kyle Rawlins, Aaron Steven White, and Benjamin Van Durme. 2021. LOME: Large Ontology Multilingual Extraction. <i>Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations</i>. Kyiv, Ukraine: Association for Computational Linguistics."
     links:
     - label: "pdf"
       href: "https://arxiv.org/pdf/2101.12175"
@@ -9,12 +20,22 @@ decomp:
     - label: "docker"
       href: "https://hub.docker.com/r/hltcoe/lome"
 
-  - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. to appear. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>. Online: Association for Computational Linguistics."
-  
-  - citation: "Chen, Yunmo, Tongfei Chen, Seth Ebner, Aaron Steven White, and Benjamin Van Durme. accepted. Reading the Manual: Event Extraction as Definition Comprehension. In <i>Proceedings of the EMNLP 2020 Workshop on Structured Prediction for NLP</i>. Online: Association for Computational Linguistics."
+  - citation: "Xu, Haoran, Seth Ebner, Mahsa Yarmohammadi, Aaron Steven White, Benjamin Van Durme, and Kenton Murray. 2021. Gradual Fine-Tuning for Low-Resource Domain Adaptation. <i>Proceedings of the Second Workshop on Domain Adaptation for NLP</i>. Kyiv, Ukraine: Association for Computational Linguistics."
     links:
     - label: "pdf"
-      href: "https://arxiv.org/pdf/1912.01586.pdf"
+      href: "https://arxiv.org/pdf/2103.02205"
+
+  - citation: "Vashishtha, Siddharth, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme, and Aaron Steven White. 2020. Temporal Reasoning in Natural Language Inference. In <i>Findings of EMNLP</i>, 4070–4078. Online: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/2020.findings-emnlp.363.pdf"
+    - label: "code"
+      href: "https://github.com/sidsvash26/temporal_nli"
+
+  - citation: "Chen, Yunmo, Tongfei Chen, Seth Ebner, Aaron Steven White, and Benjamin Van Durme. 2020. Reading the Manual: Event Extraction as Definition Comprehension. In <i>Proceedings of the EMNLP 2020 Workshop on Structured Prediction for NLP</i>, 74–83. Online: Association for Computational Linguistics."
+    links:
+    - label: "pdf"
+      href: "https://www.aclweb.org/anthology/2020.spnlp-1.9.pdf"
 
   - citation: "White, Aaron Steven, Elias Stengel-Eskin, Siddharth Vashishtha, Venkata Subrahmanyan Govindarajan, Dee Ann Reisinger, Tim Vieira, Keisuke Sakaguchi, Sheng Zhang, Francis Ferraro, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme. 2020. The Universal Decompositional Semantics Dataset and Decomp Toolkit. In <i>Proceedings of The 12th Language Resources and Evaluation Conference</i>, 5698–5707. Marseille, France: European Language Resources Association."
     links:
@@ -91,17 +112,19 @@ decomp:
 
 megaattitude:
   papers:
-  - citation: "White, Aaron Steven. accepted with revisions. On believing and hoping whether. <i>Semantics and Pragmatics</i>."
+  - citation: "White, Aaron Steven. accepted. On believing and hoping whether. <i>Semantics and Pragmatics</i>."
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
     - label: "code"
       href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"      
-      
-  - citation: "Kim, Gene Louis and Aaron Steven White. to appear. Montague Grammar Induction. <i>Semantics and Linguistic Theory</i> 30."
+
+  - citation: "Kim, Gene Louis and Aaron Steven White. 2021. Montague Grammar Induction. Edited by Joseph Rhyne, Kaelyn Lamp, Nicole Dreier, and Chloe Kwon. <i>Semantics and Linguistic Theory</i> 30: 227–251."
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/005498/current.pdf"
+      href: "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/30.227/4573"
+    - label: "doi"
+      href: "https://doi.org/10.3765/salt.v30i0.4816"
 
   - citation: "White, Aaron Steven, and Kyle Rawlins. 2020. Frequency, Acceptability, and Selection: A Case Study of Clause-Embedding. <i>Glossa</i> 5(1): 105. 1–41."
     links:
