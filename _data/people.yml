@@ -12,6 +12,7 @@
       department: Computer Science
       university: University of Rochester
       website: https://sidsvash26.github.io/
+      description: Sid is a third-year Computer Science PhD Student advised by Aaron White. His research work focusses on extracting event semantics from natural language text. His latest projects involve working on [Temporal Reasoning in Natural Language Inference](https://aclanthology.org/2020.findings-emnlp.363/) and [Temporal Relation Extraction](https://aclanthology.org/P19-1280/). 
       image: siddharth-vashishtha.jpg
 
     - name: William Gantt
