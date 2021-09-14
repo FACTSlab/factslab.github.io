@@ -46,6 +46,13 @@
       image: hannah-an.jpg     
       description: Hannah is a third-year PhD student advised by [Len Schubert](https://www.cs.rochester.edu/~schubert/). Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating [neg-raising inference triggers](http://megaattitude.io/projects/mega-negraising/) from a lexicon-scale dataset.   
 
+    - name: Weiwei Gu
+      role: MS Student
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: weiwei-gu.jpg
+
 - name: Alumni
   people:
     - name: Ellise Moon
