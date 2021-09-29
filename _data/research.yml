@@ -1,6 +1,6 @@
 decomp:
   papers:
-  - citation: "Gantt, William, Lelia Glass, and Aaron Steven White. 2021. Decomposing and Recomposing Event Structure. arXiv:2103.10387 [cs.CL]"
+  - citation: "Gantt, William, Lelia Glass, and Aaron Steven White. 2021. Decomposing and Recomposing Event Structure. Accepted to <i>Transactions of the Association for Computational Linguistics</i>"
     links:
     - label: "pdf"
       href: "https://ling.auf.net/lingbuzz/005824/current.pdf"
@@ -9,7 +9,14 @@ decomp:
     - label: "doi"
       href: "https://arxiv.org/abs/2103.10387"
 
-  - citation: "Stengel-Eskin, Elias, Sheng Zhang, Kenton Murray, Aaron Steven White, and Benjamin Van Durme. accepted. Joint Universal Syntactic and Semantic Parsing. <i>Transactions of the Association for Computational Linguistics</i>."
+  - citation: "Stengel-Eskin, Elias, Sheng Zhang, Kenton Murray, Aaron Steven White, and Benjamin Van Durme. 2021. Joint Universal Syntactic and Semantic Parsing. <i>Transactions of the Association for Computational Linguistics</i> 9: 756—773."
+    links:
+    - label: "pdf"
+      href: "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00396/1955190/tacl_a_00396.pdf"
+    - label: "code"
+      href: "https://github.com/esteng/miso_uds"
+    - label: "doi"
+      href: "https://doi.org/10.1162/tacl_a_00396"
 
   - citation: "Xia, Patrick, Guanghui Qin, Siddharth Vashishtha, Yunmo Chen, Tongfei Chen, Chandler May, Craig Harman, Kyle Rawlins, Aaron Steven White, and Benjamin Van Durme. 2021. LOME: Large Ontology Multilingual Extraction. <i>Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations</i>. Kyiv, Ukraine: Association for Computational Linguistics."
     links:
@@ -112,12 +119,23 @@ decomp:
 
 megaattitude:
   papers:
-  - citation: "White, Aaron Steven. accepted. On believing and hoping whether. <i>Semantics and Pragmatics</i>."
+  - citation: "Kane, Benjamin, William Gantt, and Aaron Steven White. 2021. Intensional Gaps: Relating veridicality, doxasticity, bouleticity, and neg-raising. Accepted to <i>Semantics and Linguistic Theory 31</i>."
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/004572/current.pdf"
+      href: "https://ling.auf.net/lingbuzz/005930/current.pdf"
+    - label: "data"
+      href: "http://megaattitude.io/projects/mega-intensionality/"            
     - label: "code"
-      href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"      
+      href: "https://github.com/MegaAttitude/intensional-gaps"
+
+  - citation: "White, Aaron Steven. 2021. On Believing and Hoping Whether. <i>Semantics and Pragmatics</i> 14 (6): 1–18."
+    links:
+    - label: "pdf"
+      href: "https://semprag.org/index.php/sp/article/download/sp.14.6/pdf"
+    - label: "code"
+      href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"
+    - label: "doi"
+      href: "https://doi.org/10.3765/sp.14.6"
 
   - citation: "Kim, Gene Louis and Aaron Steven White. 2021. Montague Grammar Induction. Edited by Joseph Rhyne, Kaelyn Lamp, Nicole Dreier, and Chloe Kwon. <i>Semantics and Linguistic Theory</i> 30: 227–251."
     links:
