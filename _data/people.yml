@@ -45,6 +45,13 @@
       website: https://hannah0n.github.io/
       image: hannah-an.jpg     
       description: Hannah is a third-year PhD student advised by [Len Schubert](https://www.cs.rochester.edu/~schubert/). Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating [neg-raising inference triggers](http://megaattitude.io/projects/mega-negraising/) from a lexicon-scale dataset.   
+      
+    - name: Stephanie N. Richter
+      role: PhD Student
+      website: http://stephrichter.github.io
+      image: stephanie-richter.jpg
+      department: Linguistics
+      university: University of Rochester  
 
 - name: Alumni
   people:
