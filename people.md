@@ -21,6 +21,7 @@ images: assets/img/people/
   <center>{{ person.role }}</center>
   <center><i>{{ person.department }}</i></center>
   <center><i>{{ person.university }}</i></center>
+  {{ person.description }}
   {% endfor %}
   <br/>
   <br/>
