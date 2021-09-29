@@ -53,6 +53,13 @@
       department: Linguistics
       university: University of Rochester  
 
+    - name: Weiwei Gu
+      role: MS Student
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: weiwei-gu.jpg
+
 - name: Alumni
   people:
     - name: Ellise Moon
