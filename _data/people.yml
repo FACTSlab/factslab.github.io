@@ -65,6 +65,15 @@
       image: weiwei-gu.jpg
       description: Weiwei is a second-year MS student in Computer Science advised by Aaron White. His current research focuses on information extraction and coreference.
       
+    - name: Jack Valinsky
+      role: MS Student
+      department: Linguistics
+      university: University of Rochester
+      website: https://jackvalinsky.com
+      image: jack-valinsky.jpg
+      description: Jack is a second-year MS student in Linguistics advised by Scott Grimm. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded sentences.
+      
+
     - name: Pinxin Liu
       role: UG Student
       department: Computer Science
