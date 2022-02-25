@@ -1,13 +1,15 @@
 decomp:
   papers:
-  - citation: "Gantt, William, Lelia Glass, and Aaron Steven White. 2021. Decomposing and Recomposing Event Structure. Accepted to <i>Transactions of the Association for Computational Linguistics</i>"
+  - citation: "Gantt, William, Lelia Glass, and Aaron Steven White. 2022. Decomposing and Recomposing Event Structure. <i>Transactions of the Association for Computational Linguistics</i> 10: 17–34"
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/005824/current.pdf"
+      href: "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00445/1984114/tacl_a_00445.pdf"
     - label: "data"
       href: "http://decomp.io/projects/event-structure/"
+    - label: "code"
+      href: "https://github.com/wgantt/event_type_induction"
     - label: "doi"
-      href: "https://arxiv.org/abs/2103.10387"
+      href: "https://doi.org/10.1162/tacl_a_00445"
 
   - citation: "Stengel-Eskin, Elias, Sheng Zhang, Kenton Murray, Aaron Steven White, and Benjamin Van Durme. 2021. Joint Universal Syntactic and Semantic Parsing. <i>Transactions of the Association for Computational Linguistics</i> 9: 756—773."
     links:
@@ -119,14 +121,16 @@ decomp:
 
 megaattitude:
   papers:
-  - citation: "Kane, Benjamin, William Gantt, and Aaron Steven White. 2021. Intensional Gaps: Relating veridicality, doxasticity, bouleticity, and neg-raising. Accepted to <i>Semantics and Linguistic Theory 31</i>."
+  - citation: "Kane, Benjamin, William Gantt, and Aaron Steven White. 2022. Intensional Gaps: Relating veridicality, doxasticity, bouleticity, and neg-raising. Edited by Nicole Dreier and Chloe Kwon. <i>Semantics and Linguistic Theory</i> 31: 570-605."
     links:
     - label: "pdf"
-      href: "https://ling.auf.net/lingbuzz/005930/current.pdf"
+      href: "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/31.029/4792"
     - label: "data"
       href: "http://megaattitude.io/projects/mega-intensionality/"            
     - label: "code"
       href: "https://github.com/MegaAttitude/intensional-gaps"
+    - label: "doi"
+      href: "https://doi.org/10.3765/salt.v31i0.5137"
 
   - citation: "White, Aaron Steven. 2021. On Believing and Hoping Whether. <i>Semantics and Pragmatics</i> 14 (6): 1–18."
     links:
