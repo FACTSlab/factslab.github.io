@@ -64,6 +64,14 @@
       website: 
       image: weiwei-gu.jpg
       description: Weiwei is a second-year MS student in Computer Science advised by Aaron White. His current research focuses on information extraction and coreference.
+      
+    - name: Pinxin Liu
+      role: UG Student
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: pinxin-liu.jpg
+      description: Pinxin is a second-year UG student in Computer Science. His current research focuses on coreference resolution.
 
 - name: Alumni
   people:
