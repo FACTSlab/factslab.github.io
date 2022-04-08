@@ -21,6 +21,6 @@ FACTS.lab is located in Wegmans Hall (Room 4107) at the University of Rochester,
 
 # Contact
 
-You can follow the latest FACTS.lab news on twitter at [@factsemlab](https://twitter.com/factsemlab). All code and data FACTS.lab produces can be found on [github](https://github.com/FACTSlab). If you're interested in joining FACTS.lab or collaborating with its members, you can send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu).
+You can follow the latest FACTS.lab news on twitter at [@factsemlab](https://twitter.com/factsemlab). If you're interested in joining FACTS.lab or collaborating with its members, you can send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu).
 
 </div>
