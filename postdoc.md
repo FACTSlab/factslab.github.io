@@ -5,7 +5,14 @@ permalink: /postdoc/
 published: true
 ---
 
-<center><h1>Postdoctoral Fellowship</h1></center>
+<img
+    class="me"
+    alt="{{ author.name }}"
+    src="{{ site.author.photo | relative_url }}"
+    srcset="{{ site.author.photo2x | relative_url }} 2x"
+/>
+
+<h1>Postdoctoral Fellowship</h1>
 
 The Formal and Computational Semantics lab (FACTS.lab) at the University of Rochester seeks to recruit a postdoctoral fellow in computational approaches to natural language syntax and semantics to start in the summer of 2022 and continue for up to three years. The successful candidate will have a PhD in Linguistics or related discipline by the start date as well as a strong background in natural language syntax and semantics. A strong background in programming and statistical analysis is strongly preferred. 
 
