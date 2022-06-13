@@ -64,6 +64,14 @@
       website: 
       image: pinxin-liu.jpg
       description: Pinxin is a second-year UG student in Computer Science. His current research focuses on coreference resolution.
+    
+    - name: Alexander Martin
+      role: Undergraduate Researcher
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: alex-martin.jpg
+      description: Alex is a third-year UG student in Computer Science. His research interests are in natural language understanding, information extraction, and question answering.
 
 - name: Alumni
   people:
