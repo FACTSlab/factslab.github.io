@@ -10,63 +10,47 @@
 
 
     - name: Siddharth Vashishtha
-      role: PhD Student
+      role: Graduate Researcher
       department: Computer Science
       university: University of Rochester
       website: https://sidsvash26.github.io/
-      description: Sid is a third-year Computer Science PhD Student advised by Aaron White. His research work focuses on extracting event semantics from natural language text. His latest projects involve working on <a href="https://aclanthology.org/2020.findings-emnlp.363/">temporal reasoning in natural language inference systems</a> and <a href="https://aclanthology.org/P19-1280/">temporal relation extraction</a>. 
+      description: Sid is a fourth-year Computer Science PhD Student advised by Aaron White. His research work focuses on extracting event semantics from natural language text. His latest projects involve working on <a href="https://aclanthology.org/2020.findings-emnlp.363/">temporal reasoning in natural language inference systems</a> and <a href="https://aclanthology.org/P19-1280/">temporal relation extraction</a>. 
       image: siddharth-vashishtha.jpg
 
     - name: William Gantt
-      role: PhD Student
+      role: Graduate Researcher
       department: Computer Science
       university: University of Rochester
       website: https://wgantt.github.io/
       image: william-gantt.jpg
-      description: Will is a third-year PhD student in Computer Science advised by Aaron White and <a href="https://www.cs.rochester.edu/~gildea/">Dan Gildea</a>. His research interests lie broadly in natural language understanding and information extraction. In recent projects, he has developed <a href="http://decomp.io/projects/event-structure/">computational models of event structure</a> and has investigated <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
+      description: Will is a fourth-year PhD student in Computer Science advised by Aaron White and <a href="https://www.cs.rochester.edu/~gildea/">Dan Gildea</a>. His research interests lie broadly in natural language understanding and information extraction. In recent projects, he has developed <a href="http://decomp.io/projects/event-structure/">computational models of event structure</a> and has investigated <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
 
     - name: Hannah An
-      role: PhD Student
+      role: Graduate Researcher
       department: Computer Science
       university: University of Rochester
       website: https://hannah0n.github.io/
       image: hannah-an.jpg     
-      description: Hannah is a third-year PhD student co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
+      description: Hannah is a fourth-year PhD student co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
       
     - name: Benjamin Kane
-      role: PhD Student
+      role: Graduate Researcher
       department: Computer Science
       university: University of Rochester
       website: https://www.cs.rochester.edu/u/bkane2/
-      description: Ben is a third-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. His current research involves creating <a href="https://ling.auf.net/lingbuzz/005930/current.pdf">natural language inference models predicting belief and desire inferences</a> (including <a href="https://aclanthology.org/2020.starsem-1.9/">modeling annotator disagreement in natural language inference</a>), and he is interested in future applications of these models in plan-based dialogue systems.
+      description: Ben is a fourth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. His current research involves creating <a href="https://ling.auf.net/lingbuzz/005930/current.pdf">natural language inference models predicting belief and desire inferences</a> (including <a href="https://aclanthology.org/2020.starsem-1.9/">modeling annotator disagreement in natural language inference</a>), and he is interested in future applications of these models in plan-based dialogue systems.
       image: benjamin-kane.jpg
 
     - name: Stephanie N. Richter
-      role: PhD Student
+      role: Graduate Researcher
       website: http://stephrichter.github.io
       image: stephanie-richter.jpg
       department: Linguistics
-      description: Stephanie is a first-year PhD student in Linguistics co-advised by Aaron White and Asia Pietraszko. Her current research is focused on statistical models of acceptability.
+      description: Stephanie is a second-year PhD student in Linguistics co-advised by Aaron White and Asia Pietraszko. Her current research is focused on statistical models of acceptability.
       university: University of Rochester
-      
-    - name: Zhendong Liu
-      role: MS Student
-      department: Linguistics
-      university: University of Rochester
-      website: 
-      description: Zhendong is a second-year MS student in Computational Linguistics advised by Aaron White. His current research focuses on clause-embedding in Mandarin. He has also investigated the lexical semantics of Mandarin classifiers and the syntax of Swahili adverbial clauses.
-      image: zhendong-liu.jpg
-            
-    - name: Weiwei Gu
-      role: MS Student
-      department: Computer Science
-      university: University of Rochester
-      website: 
-      image: weiwei-gu.jpg
-      description: Weiwei is a second-year MS student in Computer Science advised by Aaron White. His current research focuses on information extraction and coreference.
       
     - name: Pinxin Liu
-      role: UG Student
+      role: Undergraduate Researcher
       department: Computer Science
       university: University of Rochester
       website: 
@@ -89,6 +73,20 @@
       website: https://venkatasg.me/
       image: venkata-govindarajan.jpg
 
+    - name: Zhendong Liu
+      role: PhD Student
+      department: Linguistics
+      university: University of Southern California
+      website: 
+      image: zhendong-liu.jpg
+
+    - name: Weiwei Gu
+      role: PhD Student
+      department: Computer Science
+      university: Arizona State University
+      website: 
+      image: weiwei-gu.jpg
+      
     - name: Muskaan Mendiratta
       role: Software Engineer
       department: 
