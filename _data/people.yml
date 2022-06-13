@@ -49,6 +49,14 @@
       description: Stephanie is a second-year PhD student in Linguistics co-advised by Aaron White and Asia Pietraszko. Her current research is focused on statistical models of acceptability.
       university: University of Rochester
       
+    - name: Jack Valinsky
+      role: MS Student
+      department: Linguistics
+      university: University of Rochester
+      website: https://jackvalinsky.com
+      image: jack-valinsky.jpg
+      description: Jack is a second-year MS student in Linguistics advised by Scott Grimm. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
+      
     - name: Pinxin Liu
       role: Undergraduate Researcher
       department: Computer Science
