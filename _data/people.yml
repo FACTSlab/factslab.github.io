@@ -65,6 +65,15 @@
       image: pinxin-liu.jpg
       description: Pinxin is a second-year UG student in Computer Science. His current research focuses on coreference resolution.
 
+    - name: Arsal Imtiaz
+      role: Graduate Researcher
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: arsal-imtiaz.jpg
+      description: Arsal is a second-year Master's student in Computer Science. His current research focuses on building annotator frameworks compatible with Concrete.
+  
+
 - name: Alumni
   people:
     - name: Ellise Moon
