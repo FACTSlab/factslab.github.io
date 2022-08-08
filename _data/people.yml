@@ -23,7 +23,7 @@
       university: University of Rochester
       website: https://wgantt.github.io/
       image: william-gantt.jpg
-      description: Will is a fourth-year PhD student in Computer Science advised by Aaron White and <a href="https://www.cs.rochester.edu/~gildea/">Dan Gildea</a>. His research interests lie broadly in natural language understanding and information extraction. In recent projects, he has developed <a href="http://decomp.io/projects/event-structure/">computational models of event structure</a> and has investigated <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
+      description: Will is a fourth-year PhD student in Computer Science advised by Aaron White. His research interests lie broadly in natural language understanding and information extraction, with a focus on document-level event understanding. Some of his recent projects along these lines include work on models for iterative template extraction, as well as resource development and modeling for<a href="http://decomp.io/projects/event-structure/">event structure</a>. He has also worked on investigations of <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
 
     - name: Hannah An
       role: Graduate Researcher
