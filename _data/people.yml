@@ -57,22 +57,6 @@
       image: jack-valinsky.jpg
       description: Jack is a second-year MS student in Linguistics advised by Scott Grimm. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
       
-    - name: Pinxin Liu
-      role: Undergraduate Researcher
-      department: Computer Science
-      university: University of Rochester
-      website: 
-      image: pinxin-liu.jpg
-      description: Pinxin is a second-year UG student in Computer Science. His current research focuses on coreference resolution.
-    
-    - name: Alexander Martin
-      role: Undergraduate Researcher
-      department: Computer Science
-      university: University of Rochester
-      website: 
-      image: alex-martin.jpg
-      description: Alex is a third-year UG student in Computer Science. His research interests are in natural language understanding, information extraction, and question answering.
-
     - name: Arsal Imtiaz
       role: Graduate Researcher
       department: Computer Science
@@ -88,7 +72,22 @@
       website: 
       image: chandrashekar-nair.jpg
       description: Chandrashekar is a second-year MS student in Computer Science. He is currently working on an annotation interface for Concrete data.
-  
+
+    - name: Alexander Martin
+      role: Undergraduate Researcher
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: alex-martin.jpg
+      description: Alex is a third-year undergraduate student in Computer Science. His research interests are in natural language understanding, information extraction, and question answering.
+
+    - name: Pinxin Liu
+      role: Undergraduate Researcher
+      department: Computer Science
+      university: University of Rochester
+      website: 
+      image: pinxin-liu.jpg
+      description: Pinxin is a second-year undergraduate student in Computer Science. His current research focuses on coreference resolution.  
 
 - name: Alumni
   people:
@@ -123,7 +122,7 @@
     - name: Muskaan Mendiratta
       role: Software Engineer
       department: 
-      university: Barclays
+      university: Meta
       website: https://www.linkedin.com/in/muskaan-mendiratta/
       image: muskaan-mendiratta.jpg
 
