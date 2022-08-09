@@ -13,9 +13,7 @@ published: true
     srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
 
-The **F**ormal **A**nd **C**ompu**T**ational **S**emantics lab (**FACTS.lab**) at the [University of Rochester](https://www.rochester.edu/) investigates natural language semantics by combining logical and algebraic approaches to meaning with current developments in artificial intelligence and machine learning.
-
-FACTS.lab is currently recruiting a postdoc in computational approaches to natural language syntax and semantics. Check out [the job ad](/postdoc/) for details!
+The human ability to convey information about possible past, present, and future configurations of things in the world is undergirded by systematic relationships between intricately structured linguistic expressions and the dizzying array of conceptual categories available to humans. The **F**ormal **A**nd **C**ompu**T**ational **S**emantics lab (**FACTS.lab**) at the [University of Rochester](https://www.rochester.edu/) investigates (a) which of these conceptual categories can be related to which sorts of linguistic expressions, (b) what those relationships look like, and (c) how they can be leveraged for building better natural language understanding (NLU) systems. This investigation has two main components:  the design, implementation, and deployment of (i) precision instruments for measuring the distributional and inferential properties of linguistic expressions; and (ii) scalable systems for synthesizing those data to provide both scientific insights in natural language semantics and modular components of NLU systems.
 
 # Location
 
