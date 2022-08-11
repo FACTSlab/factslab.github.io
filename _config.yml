@@ -10,7 +10,7 @@ blog:
   description                : Formal And CompuTational Semantics lab at the University of Rochester
 
 # Layout configuration
-  logo_path                  : "assets/img/FACTS-logo-only-yellow.svg" # path to logo file
+  logo_path                  : "assets/img/FACTS-logo-only-blue.svg" # path to logo file
   search_path                : # "factslab.io"
                                # needed for searchbox in archive page
   hero_layout                : false # turn on hero layout for blog and posts
@@ -35,8 +35,8 @@ author:
   #stackoverflow             : stackoverflow-user-name
   disqus                    : factslab # your disqus site name
   google_analytics          : 'UA-113465669-1'
-  photo                     : "assets/img/FACTS-logo-only-yellow.svg"
-  photo2x                   : "assets/img/FACTS-logo-only-yellow.svg"
+  photo                     : "assets/img/FACTS-logo-only-blue.svg"
+  photo2x                   : "assets/img/FACTS-logo-only-blue.svg"
 
 
 
