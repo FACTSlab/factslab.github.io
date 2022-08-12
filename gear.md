@@ -15,7 +15,7 @@ images: assets/img/gear/
     srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
 
-FACTS.lab has shirts and hats. Send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu) if you're interested in snagging one.
+FACTS.lab has shirts and hats. Send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu) if you're interested in getting one of either.
 
 # Shirts
 
