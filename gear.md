@@ -3,7 +3,7 @@ layout: page
 title: Gear
 permalink: /gear/
 published: true
-images: assets/img/people/
+images: assets/img/gear/
 ---
 
 <div class="page" markdown="1">
