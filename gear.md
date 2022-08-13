@@ -15,7 +15,7 @@ images: assets/img/gear/
     srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
 
-FACTS.lab has shirts and hats. Send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu) if you're interested in getting one of either.
+FACTS.lab has gear! Send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu) if you're interested in getting some.
 
 # Shirts
 
@@ -31,4 +31,16 @@ FACTS.lab has shirts and hats. Send an email to [facts.lab@rochester.edu](mailto
 
 <center>
   <img alt="dad-hat" src="{{ page.images | relative_url }}dad-hat.png" srcset="{{ page.images | relative_url }}dad-hat.png" />
-</center> 
+</center>
+
+# Mugs
+
+<center>
+  <img alt="mug" src="{{ page.images | relative_url }}mug.png" srcset="{{ page.images | relative_url }}mug.png" />
+</center>
+
+# Stickers
+
+<center>
+  <img alt="sticker" src="{{ page.images | relative_url }}sticker.png" srcset="{{ page.images | relative_url }}sticker.png" />
+</center>
