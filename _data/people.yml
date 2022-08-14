@@ -73,6 +73,14 @@
       image: chandrashekar-nair.jpg
       description: Chandrashekar is a second-year MS student in Computer Science. He is currently working on an annotation interface for Concrete data.
 
+    - name: Constanza Aceves Rodriguez
+      role: Graduate Researcher
+      department: Linguistics and Computer Science
+      university: University of Rochester
+      website: https://consaceves.github.io/
+      description: Constanza is a second-year PhD student in the Linguistics and Computer Science departments co-advised by Scott Grimm, Aaron White, and Nadine Grimm. Her current research focuses on cross-linguistic analysis of English and Spanish clause-embedding verbs.
+      image: constanza-acevesrodriguez.jpg
+
     - name: Alexander Martin
       role: Undergraduate Researcher
       department: Computer Science
