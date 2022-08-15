@@ -96,14 +96,22 @@
       website: 
       image: pinxin-liu.jpg
       description: Pinxin is a second-year undergraduate student in Computer Science. His current research focuses on coreference resolution.  
-      
+
+    - name: Jakob Dravk
+      role: Undergraduate Researcher
+      department: Linguistics
+      university: University of Rochester
+      website: 
+      image: jakob-dravk.jpg
+      description: Jakob is a third-year undergraduate student in Linguistics. His research interests include generating referring expressions and entity coreference.
+
     - name: Carina Giordano
       role: Undergraduate Researcher
       department: Linguistics
       university: University of Rochester
       website:
       image: carina-g.jpg
-      description: Carina is a second-year undergraduate student in Linguistics. Her current research focuses on entity coreference!
+      description: Carina is a second-year undergraduate student in Linguistics. Her research interests include generating referring expressions and entity coreference.
 
 - name: Alumni
   people:
