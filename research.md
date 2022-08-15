@@ -71,6 +71,8 @@ MegaAttitude is supported by a National Science Foundation collaborative grant (
   
 </div>
 
+<br/>
+
 # SuperMereo
 
 Human language is a powerful tool for conveying information about complex, multi-faceted events at different levels of specificity: in the space of a breath, we can move from talking about a complex event as a whole to a targeted discussion of its many parts and their inter-relationships. Understanding how we convey such complex information using language is critical to improving not only our scientific understanding of human linguistic capacities, but also the ability of artificial intelligence systems to extract knowledge about the world from the massive bodies of text humans generate every day, and ultimately to improve their ability to serve humanity's needs. With the goal of advancing both aims, this project develops foundational resources and cutting-edge deep learning-based artificial intelligence systems for extracting knowledge from those resources.
