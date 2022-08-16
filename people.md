@@ -29,7 +29,7 @@ function toggleGroupDisplay(divId, linkId) {
 
   <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(show)</a></h1></center>
 
-  <div id="{{ group.name | downcase }}">
+  <div id="{{ group.name | downcase }}" style="display: none;">
   {% for person in group.people %}
     <center>
     <a href="{{ person.website }}"><img class="people" alt="{{ person.name }}" src="{{ page.images | relative_url }}{{ person.image }}" srcset="{{ page.images | relative_url }}{{ person.image }}" /></a>
