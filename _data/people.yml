@@ -1,158 +1,101 @@
-- name: Members
+- name: Faculty
   people:
     - name: Aaron Steven White
-      role: Director
       website: http://aaronstevenwhite.io
       image: aaron-white.jpg
-      department: Linguistics and Computer Science
-      university: University of Rochester
-      description: Aaron is an Assistant Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He co-leads the <a href="http://megaattitude.io">MegaAttitude Project</a> and the <a href="http://decomp.io">Decompositional Semantic Initiative</a>.
+      description: Aaron is an Assistant Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He directs the FACTS.lab and co-leads the <a href="http://megaattitude.io">MegaAttitude Project</a> and the <a href="http://decomp.io">Decompositional Semantic Initiative</a>.
 
-
+- name: Graduate Researchers
+  people:
     - name: Siddharth Vashishtha
-      role: Graduate Researcher
-      department: Computer Science
-      university: University of Rochester
       website: https://sidsvash26.github.io/
-      description: Sid is a fourth-year Computer Science PhD Student advised by Aaron White. His research work focuses on extracting event semantics from natural language text. His latest projects involve working on <a href="https://aclanthology.org/2020.findings-emnlp.363/">temporal reasoning in natural language inference systems</a> and <a href="https://aclanthology.org/P19-1280/">temporal relation extraction</a>. 
+      description: Sid is a fourth-year PhD Student in Computer Science advised by Aaron White. His research work focuses on extracting event semantics from natural language text. His latest projects involve working on <a href="https://aclanthology.org/2020.findings-emnlp.363/">temporal reasoning in natural language inference systems</a> and <a href="https://aclanthology.org/P19-1280/">temporal relation extraction</a>. 
       image: siddharth-vashishtha.jpg
 
     - name: William Gantt
-      role: Graduate Researcher
-      department: Computer Science
-      university: University of Rochester
       website: https://wgantt.github.io/
       image: william-gantt.jpg
       description: Will is a fourth-year PhD student in Computer Science advised by Aaron White. His research interests lie broadly in natural language understanding and information extraction, with a focus on document-level event understanding. Some of his recent projects along these lines include work on models for iterative template extraction, as well as resource development and modeling for<a href="http://decomp.io/projects/event-structure/">event structure</a>. He has also worked on investigations of <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
 
     - name: Hannah An
-      role: Graduate Researcher
       department: Computer Science
       university: University of Rochester
       website: https://hannah0n.github.io/
       image: hannah-an.jpg     
-      description: Hannah is a fourth-year PhD student co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
+      description: Hannah is a fourth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
       
     - name: Benjamin Kane
-      role: Graduate Researcher
-      department: Computer Science
-      university: University of Rochester
       website: https://www.cs.rochester.edu/u/bkane2/
       description: Ben is a fourth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. His current research involves creating <a href="https://ling.auf.net/lingbuzz/005930/current.pdf">natural language inference models predicting belief and desire inferences</a> (including <a href="https://aclanthology.org/2020.starsem-1.9/">modeling annotator disagreement in natural language inference</a>), and he is interested in future applications of these models in plan-based dialogue systems.
       image: benjamin-kane.jpg
 
     - name: Stephanie N. Richter
-      role: Graduate Researcher
       website: http://stephrichter.github.io
       image: stephanie-richter.jpg
-      department: Linguistics
-      description: Stephanie is a second-year PhD student in Linguistics co-advised by Aaron White and Asia Pietraszko. Her current research is focused on statistical models of acceptability.
-      university: University of Rochester
-      
+      description: Stephanie is a second-year PhD student in Linguistics co-advised by Aaron White and <a href="https://asiapietraszko.com/">Asia Pietraszko</a>. Her current research is focused on statistical models of acceptability, prototypicality, and word sense.
+
+    - name: Constanza Aceves Rodriguez
+      website: https://consaceves.github.io/
+      description: Constanza is a second-year PhD student in Linguistics and Computer Science co-advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>, Aaron White, and Nadine Grimm. Her current research focuses on cross-linguistic analysis of English and Spanish clause-embedding verbs.
+      image: constanza-acevesrodriguez.jpg
+
     - name: Jack Valinsky
-      role: Graduate Researcher
       department: Linguistics
       university: University of Rochester
       website: https://jackvalinsky.com
       image: jack-valinsky.jpg
-      description: Jack is a second-year MS student in Linguistics advised by Scott Grimm. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
+      description: Jack is a second-year MS student in Linguistics advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
       
     - name: Arsal Imtiaz
-      role: Graduate Researcher
-      department: Computer Science
-      university: University of Rochester
-      website: 
+      website: https://www.linkedin.com/in/arsalimtiaz/
       image: arsal-imtiaz.jpg
-      description: Arsal is a second-year Master's student in Computer Science. His current research focuses on building annotator frameworks compatible with Concrete.
+      description: Arsal is a second-year MS student in Computer Science. His current research focuses on building fully-featured web-based annotation tools for natural language processing.
       
     - name: Chandrashekar Nair
-      role: Graduate Researcher
-      department: Computer Science
-      university: University of Rochester
-      website: 
+      website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
       image: chandrashekar-nair.jpg
-      description: Chandrashekar is a second-year MS student in Computer Science. He is currently working on an annotation interface for Concrete data.
+      description: Chandrashekar is a second-year MS student in Computer Science.  His current research focuses on building fully-featured web-based annotation tools for natural language processing.
 
-    - name: Constanza Aceves Rodriguez
-      role: Graduate Researcher
-      department: Linguistics and Computer Science
-      university: University of Rochester
-      website: https://consaceves.github.io/
-      description: Constanza is a second-year PhD student in the Linguistics and Computer Science departments co-advised by Scott Grimm, Aaron White, and Nadine Grimm. Her current research focuses on cross-linguistic analysis of English and Spanish clause-embedding verbs.
-      image: constanza-acevesrodriguez.jpg
-
+- name: Undergraduate Researchers
+  people:
     - name: Alexander Martin
-      role: Undergraduate Researcher
-      department: Computer Science
-      university: University of Rochester
-      website: 
+      website: https://www.linkedin.com/in/alexander-david-paul-martin/
       image: alex-martin.jpg
       description: Alex is a third-year undergraduate student in Computer Science. His research interests are in natural language understanding, information extraction, and question answering.
 
     - name: Pinxin Liu
-      role: Undergraduate Researcher
-      department: Computer Science
-      university: University of Rochester
       website: 
       image: pinxin-liu.jpg
       description: Pinxin is a second-year undergraduate student in Computer Science. His current research focuses on coreference resolution.  
 
     - name: Jakob Dravk
-      role: Undergraduate Researcher
-      department: Linguistics
-      university: University of Rochester
       website: 
       image: jakob-dravk.jpg
-      description: Jakob is a third-year undergraduate student in Linguistics. His research interests include generating referring expressions and entity coreference.
+      description: Jakob is a third-year undergraduate student in Linguistics. His research interests include referring expression generation and coreference.
 
     - name: Carina Giordano
-      role: Undergraduate Researcher
-      department: Linguistics
-      university: University of Rochester
       website:
       image: carina-g.jpg
-      description: Carina is a second-year undergraduate student in Linguistics. Her research interests include generating referring expressions and entity coreference.
+      description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
 
 - name: Alumni
   people:
     - name: Ellise Moon
-      role: PhD Student
-      department: Linguistics and Philosophy
-      university: University of Rochester
       website: https://eclairemoon.github.io/
       image: ellise-moon.jpg
+      description: Ellise is currently a fourth-year PhD student in Linguistics and Philosophy at the Umniversity of Rochester. Her current research focuses on countability and count-mass coercion. While in the FACTS.lab, her research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
 
     - name: Venkata Govindarajan
-      role: PhD Student
-      department: Linguistics
-      university: University of Texas, Austin
       website: https://venkatasg.me/
       image: venkata-govindarajan.jpg
+      description: Venkat is currently a fourth-year PhD student in Linguistics at the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
 
     - name: Zhendong Liu
-      role: PhD Student
-      department: Linguistics
-      university: University of Southern California
       website: 
       image: zhendong-liu.jpg
+      description: Zhendong is currently a first-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
 
     - name: Weiwei Gu
-      role: PhD Student
-      department: Computer Science
-      university: Arizona State University
       website: 
       image: weiwei-gu.jpg
-      
-    - name: Muskaan Mendiratta
-      role: Software Engineer
-      department: 
-      university: Meta
-      website: https://www.linkedin.com/in/muskaan-mendiratta/
-      image: muskaan-mendiratta.jpg
-
-    - name: Boyu Zhang
-      role: PhD Student
-      department: MIT Media Lab
-      university: MIT
-      website: https://boyu-zhang-25.github.io/
-      image: boyu-zhang.jpg
+      description: Weiwei is currently a first-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering.
