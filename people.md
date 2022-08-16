@@ -39,9 +39,9 @@ function toggleGroupDisplay(divId, linkId) {
     <center><i>{{ person.department }}</i></center>
     <center><i>{{ person.university }}</i></center>
     {{ person.description }}
-    {% endfor %}
-    <br/>
-    <br/>
   {% endfor %}
   </div>
+  <br/>
+  <br/>
+{% endfor %}
 </div>
