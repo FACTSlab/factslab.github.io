@@ -113,6 +113,14 @@
       image: carina-g.jpg
       description: Carina is a second-year undergraduate student in Linguistics. Her research interests include generating referring expressions and entity coreference.
 
+    - name: Angela Cao
+      role: Graduate Intern
+      department: Linguistics
+      univerity: The University of Edinburgh
+      website: angelacao8.github.io
+      image: angela-c.jpg
+      description: Angela is a M.Sc. student in Linguistics. Her research interests include using language data to explore causal models of cognition.
+      
 - name: Alumni
   people:
     - name: Ellise Moon
