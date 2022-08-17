@@ -27,7 +27,7 @@ function toggleGroupDisplay(divId, linkId) {
 
 {% for group in site.data.people %}
   
-  {% if group.show %}
+  {% if group.show == true %}
     <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(hide)</a></h1></center>
     <div id="{{ group.name | downcase }}">
   {% else %}
