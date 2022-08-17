@@ -1,4 +1,5 @@
 - name: Faculty
+  show: true
   people:
     - name: Aaron Steven White
       website: http://aaronstevenwhite.io
@@ -6,6 +7,7 @@
       description: Aaron is an Assistant Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He directs the FACTS.lab and co-leads the <a href="http://megaattitude.io">MegaAttitude Project</a> and the <a href="http://decomp.io">Decompositional Semantic Initiative</a>.
 
 - name: Graduate Researchers
+  show: true
   people:
     - name: Siddharth Vashishtha
       website: https://sidsvash26.github.io/
@@ -55,6 +57,7 @@
       description: Chandrashekar is a second-year MS student in Computer Science.  His current research focuses on building fully-featured web-based annotation tools for natural language processing.
 
 - name: Undergraduate Researchers
+  show: true
   people:
     - name: Alexander Martin
       website: https://www.linkedin.com/in/alexander-david-paul-martin/
@@ -77,6 +80,7 @@
       description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
 
 - name: Alumni
+  show: false
   people:
     - name: Ellise Moon
       website: https://eclairemoon.github.io/

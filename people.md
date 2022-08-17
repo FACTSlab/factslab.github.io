@@ -26,18 +26,25 @@ function toggleGroupDisplay(divId, linkId) {
 <div class="page" markdown="1">
 
 {% for group in site.data.people %}
+  
+  {% if group.show %}
+    <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(hide)</a></h1></center>
 
-  <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(show)</a></h1></center>
+    <div id="{{ group.name | downcase }}" class="page">
+  {% else %}
+    <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(show)</a></h1></center>
 
-  <div id="{{ group.name | downcase }}" style="display: none;">
+    <div id="{{ group.name | downcase }}" class="page" style="display: none;">
+  {% endif %}
   {% for person in group.people %}
     <center>
     <a href="{{ person.website }}"><img class="people" alt="{{ person.name }}" src="{{ page.images | relative_url }}{{ person.image }}" srcset="{{ page.images | relative_url }}{{ person.image }}" /></a>
     </center>  
     <center><b>{{ person.name }}</b></center>
-    <center>{{ person.role }}</center>
-    <center><i>{{ person.department }}</i></center>
-    <center><i>{{ person.university }}</i></center>
+    <br/>
+    <!-- <center>{{ person.role }}</center> -->
+    <!-- <center><i>{{ person.department }}</i></center> -->
+    <!-- <center><i>{{ person.university }}</i></center> -->
     {{ person.description }}
   {% endfor %}
   </div>
