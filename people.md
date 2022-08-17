@@ -27,13 +27,8 @@ function toggleGroupDisplay(divId, linkId) {
 
 {% for group in site.data.people %}
   
-  {% if group.show == true %}
-    <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(hide)</a></h1></center>
-    <div id="{{ group.name | downcase }}">
-  {% else %}
-    <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(show)</a></h1></center>
-    <div id="{{ group.name | downcase }}" style="display: none;">
-  {% endif %}
+  <center><h1>{{ group.name }} <a onclick="toggleGroupDisplay('{{ group.name | downcase }}', 'hide{{ group.name }}Link')" id="hide{{ group.name }}Link">(hide)</a></h1></center>
+  <div id="{{ group.name | downcase }}">
   {% for person in group.people %}
     <center>
     <a href="{{ person.website }}"><img class="people" alt="{{ person.name }}" src="{{ page.images | relative_url }}{{ person.image }}" srcset="{{ page.images | relative_url }}{{ person.image }}" /></a>
