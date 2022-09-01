@@ -34,7 +34,6 @@ function toggleGroupDisplay(divId, linkId) {
     <a href="{{ person.website }}"><img class="people" alt="{{ person.name }}" src="{{ page.images | relative_url }}{{ person.image }}" srcset="{{ page.images | relative_url }}{{ person.image }}" /></a>
     </center>  
     <center><b>{{ person.name }}</b></center>
-    <br/>
     <!-- <center>{{ person.role }}</center> -->
     <!-- <center><i>{{ person.department }}</i></center> -->
     <!-- <center><i>{{ person.university }}</i></center> -->
