@@ -101,3 +101,16 @@
       website: 
       image: weiwei-gu.jpg
       description: Weiwei is currently a first-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering.
+
+- name: Post-docs
+  show: true
+  people:
+    - name: Julian Grove
+      website: http://juliangrove.github.io
+      image: julian-grove.jpg
+      description: Julian a post-doc in the FACTS.lab. He is interested in
+  integrating Bayesian probabilistic models of inference with type-theoretic
+  natural language semantics. He is also interested in characterizing dynamic
+  semantic phenomena, such as presupposition, by relying on theories of effects,
+  and determining how those characterizations should be combined with one
+  another.  
