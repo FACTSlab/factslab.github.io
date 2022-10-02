@@ -1,10 +1,18 @@
-- name: Faculty
+- name: Faculty Researchers
   show: true
   people:
     - name: Aaron Steven White
       website: http://aaronstevenwhite.io
       image: aaron-white.jpg
       description: Aaron is an Assistant Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He directs the FACTS.lab and co-leads the <a href="http://megaattitude.io">MegaAttitude Project</a> and the <a href="http://decomp.io">Decompositional Semantic Initiative</a>.
+
+- name: Postdoctoral Researchers
+  show: true
+  people:
+    - name: Julian Grove
+      website: http://juliangrove.github.io
+      image: julian-grove.jpg
+      description: Julian is a post-doc in the FACTS.lab. He is interested in integrating Bayesian probabilistic models of inference with type-theoretic natural language semantics. He is also interested in characterizing dynamic semantic phenomena, such as presupposition, by relying on theories of effects, and determining how those characterizations should be combined with one another. 
 
 - name: Graduate Researchers
   show: true
@@ -108,17 +116,4 @@
     - name: Weiwei Gu
       website: 
       image: weiwei-gu.jpg
-      description: Weiwei is currently a first-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering.
-
-- name: Post-docs
-  show: true
-  people:
-    - name: Julian Grove
-      website: http://juliangrove.github.io
-      image: julian-grove.jpg
-      description: Julian is a post-doc in the FACTS.lab. He is interested in
-  integrating Bayesian probabilistic models of inference with type-theoretic
-  natural language semantics. He is also interested in characterizing dynamic
-  semantic phenomena, such as presupposition, by relying on theories of effects,
-  and determining how those characterizations should be combined with one
-  another.  
+      description: Weiwei is currently a first-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
