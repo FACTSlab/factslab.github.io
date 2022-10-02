@@ -64,6 +64,14 @@
       image: chandrashekar-nair.jpg
       description: Chandrashekar is a second-year MS student in Computer Science.  His current research focuses on building fully-featured web-based annotation tools for natural language processing.
 
+    - name: Angela Cao
+      role: Graduate Intern
+      department: Linguistics
+      univerity: The University of Edinburgh
+      website: angelacao8.github.io
+      image: angela-c.jpg
+      description: Angela is a M.Sc. student in Linguistics. Her research interests include using language data to explore causal models of cognition.
+
 - name: Undergraduate Researchers
   show: true
   people:
@@ -86,14 +94,6 @@
       website:
       image: carina-g.jpg
       description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
-
-    - name: Angela Cao
-      role: Graduate Intern
-      department: Linguistics
-      univerity: The University of Edinburgh
-      website: angelacao8.github.io
-      image: angela-c.jpg
-      description: Angela is a M.Sc. student in Linguistics. Her research interests include using language data to explore causal models of cognition.
       
 - name: Alumni
   show: false
