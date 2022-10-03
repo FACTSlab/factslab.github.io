@@ -98,18 +98,8 @@
 - name: Alumni
   show: false
   people:
-    - name: Ellise Moon
-      website: https://eclairemoon.github.io/
-      image: ellise-moon.jpg
-      description: Ellise is currently a fourth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
-
-    - name: Venkata Govindarajan
-      website: https://venkatasg.me/
-      image: venkata-govindarajan.jpg
-      description: Venkat is currently a fourth-year PhD student in Linguistics at the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
-
     - name: Zhendong Liu
-      website: 
+      website: https://www.linkedin.com/in/zhendong-liu-834872143/
       image: zhendong-liu.jpg
       description: Zhendong is currently a first-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
 
@@ -117,3 +107,13 @@
       website: 
       image: weiwei-gu.jpg
       description: Weiwei is currently a first-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
+
+    - name: Ellise Moon
+      website: https://eclairemoon.github.io/
+      image: ellise-moon.jpg
+      description: Ellise is currently a fourth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
+
+    - name: Venkata Govindarajan
+      website: https://venkatasg.net/
+      image: venkata-govindarajan.jpg
+      description: Venkat is currently a fourth-year PhD student in Linguistics at the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
