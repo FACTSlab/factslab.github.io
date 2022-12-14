@@ -24,7 +24,6 @@ FACTS.lab is located in Wegmans Hall (Room 4107) at the University of Rochester,
 FACTS.lab has <a href="assets/img/gear/shirt.png">shirts</a>, <a href="assets/img/gear/dad-hat.png">hats</a>, <a href="assets/img/gear/mug.png">mugs</a>, and <a href="assets/img/gear/sticker.png">stickers</a>. Send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu) if you're interested in getting some.
 
 # Contact
-
-You can follow the latest FACTS.lab news on twitter at [@factsemlab](https://twitter.com/factsemlab). If you're interested in joining FACTS.lab or collaborating with its members, you can send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu).
+If you're interested in joining FACTS.lab or collaborating with its members, you can send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu).
 
 </div>
