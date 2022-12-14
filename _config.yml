@@ -29,7 +29,7 @@ author:
   fullname                  : FACTS.lab
   rss                       : false # generate RSS feed and show it's icon in header
   mail                      : facts.lab@rochester.edu # change to your e-mail address
-  twitter                   : factsemlab
+  #twitter                   : factsemlab
   github                    : factslab
   #youtube                   : youtube-user-name
   #stackoverflow             : stackoverflow-user-name
