@@ -26,7 +26,7 @@ This workshop aims to bring together researchers working on computational models
 
 ## Location
 
-The workshop will be located on the University of Rochester's River Campus. Talks will be held in the Gowen Room (Wilson Commons 213), and breaks will be held in the Rettner Atrium (Rettner Hall 100). Virtual talks will be broadcast via zoom to in-person participants in the Gowen Room. Virtual participation is by invitation only, and virtual participants must at the link provided with that invitation.  
+The workshop will be located on the University of Rochester's River Campus. Talks will be held in the Gowen Room (Wilson Commons 213), and breaks will be held in the Rettner Atrium (Rettner Hall 100). Virtual talks will be broadcast via zoom to in-person participants in the Gowen Room. Virtual participation is by invitation only, and virtual participants must register at the link provided with that invitation.  
 
 ## Schedule
 
