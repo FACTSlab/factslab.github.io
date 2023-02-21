@@ -42,13 +42,12 @@ This workshop aims to bring together researchers working on computational models
     <td>{{ site.data.workshop.locations.atrium.name }} ({{ site.data.workshop.locations.atrium.building }})</td>
 </tr>
 {% else %}
-{% assign presentation = event.presentation %}
-{% assign personid = presentation.presenter %}
-{% assign personinfo = site.data.workshop.people.personid %}
+{% assign presentationinfo = presentations[event.presentation] %}
+{% assign personinfo = site.data.workshop.people[presentationinfo.presenter] %}
 
 <tr>
     <td>{{ event.time }}</td>
-    <td>{{ presentation.title }}</td>
+    <td>{{ presentationinfo.title }}</td>
     <td>{{ personinfo.name }}</td>
     {% if presentation.type == "inperson" %}
         <td>{{ site.data.workshop.locations.room.name }} ({{ site.data.workshop.locations.room.building }})</td>
