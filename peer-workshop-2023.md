@@ -24,6 +24,10 @@ This workshop aims to bring together researchers working on computational models
 {% endif %}    
 {% endfor %}
 
+## Location
+
+The workshop will be located on the University of Rochester's River Campus. Talks will be held in the Gowen Room (Wilson Commons 213), and breaks will be held in the Rettner Atrium (Rettner Hall 100). Virtual talks will be broadcast via zoom to in-person participants in the Gowen Room. Virtual participation is by invitation only, and virtual participants must at the link provided with that invitation.  
+
 ## Schedule
 
 <table>
@@ -31,7 +35,6 @@ This workshop aims to bring together researchers working on computational models
 <th>Time</th>
 <th>Event</th>
 <th>Presenter</th>
-<th>Location</th>
 </tr>
 {% for event in site.data.workshop.schedule %}
 {% if event.type == "break" %}
@@ -39,7 +42,6 @@ This workshop aims to bring together researchers working on computational models
     <td>{{ event.time }}</td>
     <td>{{ event.title }}</td>
     <td></td>
-    <td>{{ site.data.workshop.locations.atrium.name }}</td>
 </tr>
 {% else %}
 {% assign presentationinfo = site.data.workshop.presentations[event.presentation] %}
@@ -49,7 +51,6 @@ This workshop aims to bring together researchers working on computational models
     <td>{{ event.time }}</td>
     <td>{{ presentationinfo.title }}</td>
     <td><a href="{{ personinfo.website }}">{{ personinfo.name }}</a></td>
-    <td>{{ site.data.workshop.locations.room.name }}</td>
 </tr>
 {% endif %}
 {% endfor %}
