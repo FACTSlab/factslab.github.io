@@ -48,7 +48,7 @@ This workshop aims to bring together researchers working on computational models
 <tr>
     <td>{{ event.time }}</td>
     <td>{{ presentationinfo.title }}</td>
-    <td>{{ personinfo.name }}</td>
+    <td><a href="{{ personinfo.website }}">{{ personinfo.name }}</a></td>
     <td>{{ site.data.workshop.locations.room.name }} ({{ site.data.workshop.locations.room.building }})</td>
 </tr>
 {% endif %}
