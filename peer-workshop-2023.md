@@ -24,8 +24,6 @@ The workshop is sponsored by the [Central New York Humanities Corridor](https://
 <center><i>{{ personinfo.department }}</i></center>
 <center><i>{{ personinfo.university }}</i></center>
 <center>{{ personinfo.description }}</center>
-<br/>
-<br/>
 {% endif %}    
 {% endfor %}
 
@@ -73,7 +71,5 @@ The workshop will be located on the University of Rochester's River Campus. Talk
 <center><i>{{ personinfo.department }}</i></center>
 <center><i>{{ personinfo.university }}</i></center>
 <center>{{ personinfo.description }}</center>
-<br/>
-<br/>
 {% endif %}    
 {% endfor %}
