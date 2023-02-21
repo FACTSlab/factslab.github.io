@@ -10,6 +10,8 @@ images: assets/img/peer-workshop-2023/
 
 This workshop aims to bring together researchers working on computational models of incremental language understanding with researchers working on event semantics from both a computational and experimental perspective.
 
+The workshop is sponsored by the [Central New York Humanities Corridor](https://www.cnycorridor.net/) and the [Center for Language Sciences](https://www.sas.rochester.edu/cls/) at the [University of Rochester](https://rochester.edu/).
+
 ## Keynote Speakers
 
 {% for person in site.data.workshop.people %}
@@ -75,7 +77,3 @@ The workshop will be located on the University of Rochester's River Campus. Talk
 <br/>
 {% endif %}    
 {% endfor %}
-
-## Sponsors
-
-This workshop is sponsored by the [Central New York Humanities Corridor](https://www.cnycorridor.net/) and the [Center for Language Sciences](https://www.sas.rochester.edu/cls/) at the [University of Rochester](https://rochester.edu/).
