@@ -42,7 +42,7 @@ This workshop aims to bring together researchers working on computational models
         </tr>
     {% else %}
         {% assign presentation = event.presentation %}
-        {% assign person = site.data.people[presentation.presenter] %}
+        {% assign person = site.data.workshop.people[presentation.presenter] %}
 
         <tr>
             <td>{{ event.time }}</td>
