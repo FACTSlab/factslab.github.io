@@ -49,11 +49,7 @@ This workshop aims to bring together researchers working on computational models
     <td>{{ event.time }}</td>
     <td>{{ presentationinfo.title }}</td>
     <td>{{ personinfo.name }}</td>
-    {% if presentation.type == "inperson" %}
-        <td>{{ site.data.workshop.locations.room.name }} ({{ site.data.workshop.locations.room.building }})</td>
-    {% else %}
-        <td>{{ site.data.workshop.locations.room.name }}/{{ site.data.workshop.locations.zoom.name }}</td>
-    {% endif %}
+    <td>{{ site.data.workshop.locations.room.name }} ({{ site.data.workshop.locations.room.building }})</td>
 </tr>
 {% endif %}
 {% endfor %}
