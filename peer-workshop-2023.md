@@ -13,13 +13,14 @@ This workshop aims to bring together researchers working on computational models
 ## Keynote Speakers
 
     {% for person in site.data.workshop.people %}
-        {% if person.role == "keynote" %}
+        {% assign personinfo = person[1] %}
+        {% if personinfo.role == "keynote" %}
             <center>
-            <a href="{{ person.website }}"><img class="people" alt="{{ person.name }}" src="{{ page.images | relative_url }}{{ person.image }}" srcset="{{ page.images | relative_url }}{{ person.image }}" /></a>
+            <a href="{{ personinfo.website }}"><img class="people" alt="{{ personinfo.name }}" src="{{ page.images | relative_url }}{{ personinfo.image }}" srcset="{{ page.images | relative_url }}{{ personinfo.image }}" /></a>
             </center>  
-            <center><b>{{ person.name }}</b></center>
-            <center><i>{{ person.department }}</i></center>
-            <center><i>{{ person.university }}</i></center>
+            <center><b>{{ personinfo.name }}</b></center>
+            <center><i>{{ personinfo.department }}</i></center>
+            <center><i>{{ personinfo.university }}</i></center>
         {% endif %}    
     {% endfor %}
 
@@ -42,12 +43,13 @@ This workshop aims to bring together researchers working on computational models
         </tr>
     {% else %}
         {% assign presentation = event.presentation %}
-        {% assign person = site.data.workshop.people[presentation.presenter] %}
+        {% assign personid = presentation.presenter %}
+        {% assign personinfo = site.data.workshop.people[personid] %}
 
         <tr>
             <td>{{ event.time }}</td>
             <td>{{ presentation.title }}</td>
-            <td>{{ person.name }}</td>
+            <td>{{ personinfo.name }}</td>
             {% if presentation.type == "inperson" %}
                 <td>{{ site.data.workshop.locations.room.name }} ({{ site.data.workshop.locations.room.building }})</td>
             {% else %}
@@ -61,13 +63,14 @@ This workshop aims to bring together researchers working on computational models
 ## Organizers
 
 {% for person in site.data.workshop.people %}
-    {% if person.role == "organizer" %}
+    {% assign personinfo = person[1] %}
+    {% if personinfo.role == "organizer" %}
         <center>
-        <a href="{{ person.website }}"><img class="people" alt="{{ person.name }}" src="{{ page.images | relative_url }}{{ person.image }}" srcset="{{ page.images | relative_url }}{{ person.image }}" /></a>
+        <a href="{{ personinfo.website }}"><img class="people" alt="{{ personinfo.name }}" src="{{ page.images | relative_url }}{{ personinfo.image }}" srcset="{{ page.images | relative_url }}{{ personinfo.image }}" /></a>
         </center>  
-        <center><b>{{ person.name }}</b></center>
-        <center><i>{{ person.department }}</i></center>
-        <center><i>{{ person.university }}</i></center>
+        <center><b>{{ personinfo.name }}</b></center>
+        <center><i>{{ personinfo.department }}</i></center>
+        <center><i>{{ personinfo.university }}</i></center>
     {% endif %}    
 {% endfor %}
 
