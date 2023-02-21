@@ -39,7 +39,7 @@ This workshop aims to bring together researchers working on computational models
     <td>{{ event.time }}</td>
     <td>{{ event.title }}</td>
     <td></td>
-    <td>{{ site.data.workshop.locations.atrium.name }} ({{ site.data.workshop.locations.atrium.building }})</td>
+    <td>{{ site.data.workshop.locations.atrium.name }}</td>
 </tr>
 {% else %}
 {% assign presentationinfo = site.data.workshop.presentations[event.presentation] %}
