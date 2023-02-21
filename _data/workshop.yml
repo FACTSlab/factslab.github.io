@@ -5,64 +5,68 @@ people:
     university: Tilburg University
     department: Department of Cognitive Science & AI
     image: nvenhuizen.jpg
-    role: "keynote"
+    role: keynote
+    description: "Noortje's research investigates formal (symbolic/distributional/probabilistic) models of linguistic meaning and how they can be applied and evaluated, using cognitive modeling, behavioral experiments, and computational methods in natural language understanding."
   lrissman:
     name: Lilia Rissman
     website: https://www.liliarissman.com/
     university: University of Wisconsin-Madison
     department: Department of Psychology
     image: lrissman.jpg
-    role: "keynote"
+    role: keynote
+    description: "Lilia's research investigates the extent to which cognitive biases lead different languages to be represented and learned in the same way. She adopts a multi-method approach to understanding the nature of such biases, bringing together studies of adult semantic representation, cross-linguistic diversity, emerging sign languages and child language learning. She focuses on the domain of event semantics, particularly concepts related to agency, instrumentality and causation."
   wgantt:
     name: William Gantt
     website: https://wgantt.github.io/
     university: University of Rochester
     department: Department of Computer Science
-    role: "talk"
+    role: talk
   svashishtha:
     name: Siddharth Vashishtha
     website: https://sidsvash26.github.io/
     university: University of Rochester
     department: Department of Computer Science
-    role: "talk"
+    role: talk
   bkane:
     name: Benjamin Kane
     website: https://www.cs.rochester.edu/u/bkane2/
     university: University of Rochester
     department: Department of Computer Science
-    role: "talk"
+    role: talk
   dbhattacharya:
     name: Debasmita Bhattacharya
     website: https://d-bhattacharya.github.io/
     university: Columbia University
     department: Department of Computer Science
-    role: "talk"
+    role: talk
   haparicio:
     name: Helena Aparicio
     website: https://lime-lab-cornell.github.io/
     university: Cornell University
     department: Department of Linguistics
-    role: "talk"
+    role: talk
   fyin:
     name: Fangcong Yin
     website: https://d-bhattacharya.github.io/
     university: Cornell University
     department: Department of Information Science
-    role: "talk"
+    role: talk
   awhite:
     name: Aaron Steven White
     website: http://aaronstevenwhite.io/
     university: University of Rochester
     department: Department of Linguistics
     image: awhite.jpg
-    role: "organizer"
+    role: organizer
+    description: "Aaron is interested in how the human ability to convey information about possible past, present, and future configurations of things in the world is undergirded by systematic relationships between intricately structured linguistic expressions and the dizzying array of conceptual categories available to humans. His research investigates (a) which of these conceptual categories can be related to which sorts of linguistic expressions, (b) what those relationships look like, and (c) how they can be leveraged for building better natural language understanding (NLU) systems."
   mvanschijndel:
     name: Marten van Schijndel
     website: https://vansky.github.io/
     university: Cornell University
     department: Department of Linguistics
     image: mvanschijndel.png
-    role: "organizer"
+    role: organizer
+    description: "Marty is in interested in the incremental representations that humans use to process language, and in differences between how language is used and how it is processed. To explore these topics, he studies the relationships between computational language models and psycholinguistic data (e.g., reading times), and he studies neural network representations of language to understand what aspects of language can be learned from language statistics directly without having experiences in the real world (i.e. through ungrounded learning)."
 
 locations:
   atrium:

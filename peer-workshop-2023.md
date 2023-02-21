@@ -21,6 +21,9 @@ This workshop aims to bring together researchers working on computational models
 <center><b>{{ personinfo.name }}</b></center>
 <center><i>{{ personinfo.department }}</i></center>
 <center><i>{{ personinfo.university }}</i></center>
+<center>{{ personinfo.description }}</center>
+<br/>
+<br/>
 {% endif %}    
 {% endfor %}
 
@@ -67,6 +70,9 @@ The workshop will be located on the University of Rochester's River Campus. Talk
 <center><b>{{ personinfo.name }}</b></center>
 <center><i>{{ personinfo.department }}</i></center>
 <center><i>{{ personinfo.university }}</i></center>
+<center>{{ personinfo.description }}</center>
+<br/>
+<br/>
 {% endif %}    
 {% endfor %}
 
