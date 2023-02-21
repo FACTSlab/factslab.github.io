@@ -6,7 +6,7 @@ published: true
 images: assets/img/peer-workshop-2023/
 ---
 
-# Workshop on Processing and Evaluating Event Representations (Peer)
+# Workshop on Processing and Evaluating Event Representations (PEER)
 
 This workshop aims to bring together researchers working on computational models of incremental language understanding with researchers working on event semantics from both a computational and experimental perspective.
 
