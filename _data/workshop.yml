@@ -97,7 +97,7 @@ presentations:
   svashishtha:
     type: inperson
     presenter: svashishtha
-    title: Broad-coverage document-level role extraction
+    title: Broad-coverage cross-document event linking on source-report pairs
     abstract:
   bkane:
     type: inperson
@@ -133,16 +133,13 @@ schedule:
   title: Coffee
 - time: 11:00-11:30
   type: talk
-  presentation: wgantt
-  location: room
+  presentation: haparicio
 - time: 11:30-12:00
   type: talk
-  presentation: svashishtha
-  location: room
+  presentation: bkane
 - time: 12:00-12:30
   type: talk
-  presentation: bkane
-  location: room
+  presentation: wgantt
 - time: 12:30-14:00
   type: break
   title: Lunch
@@ -154,11 +151,10 @@ schedule:
   title: Coffee
 - time: 15:30-16:00
   type: talk
-  presentation: haparicio
-  location: room
+  presentation: svashishtha
 - time: 16:00-16:30
   type: talk
-  presentation: dbhattacharya
+  presentation: fyin
 - time: 16:30-17:00
   type: talk
-  presentation: fyin
+  presentation: dbhattacharya
