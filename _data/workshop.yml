@@ -133,10 +133,10 @@ schedule:
   title: Coffee
 - time: 11:00-11:30
   type: talk
-  presentation: wgantt
+  presentation: haparicio
 - time: 11:30-12:00
   type: talk
-  presentation: haparicio
+  presentation: wgantt
 - time: 12:00-12:30
   type: talk
   presentation: bkane
