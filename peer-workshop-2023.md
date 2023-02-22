@@ -23,7 +23,7 @@ The workshop is sponsored by the [Central New York Humanities Corridor](https://
 <center><b>{{ personinfo.name }}</b></center>
 <center><i>{{ personinfo.department }}</i></center>
 <center><i>{{ personinfo.university }}</i></center>
-{{ personinfo.description }}
+<!-- {{ personinfo.description }} -->
 {% endif %}    
 {% endfor %}
 
@@ -80,6 +80,6 @@ If you are coming into Rochester from out of town and need a parking pass, pleas
 <center><b>{{ personinfo.name }}</b></center>
 <center><i>{{ personinfo.department }}</i></center>
 <center><i>{{ personinfo.university }}</i></center>
-{{ personinfo.description }}
+<!-- {{ personinfo.description }} -->
 {% endif %}    
 {% endfor %}
