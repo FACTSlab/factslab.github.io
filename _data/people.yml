@@ -58,11 +58,6 @@
       website: https://www.linkedin.com/in/arsalimtiaz/
       image: arsal-imtiaz.jpg
       description: Arsal is a second-year MS student in Computer Science. His current research focuses on building fully-featured web-based annotation tools for natural language processing.
-      
-    - name: Chandrashekar Nair
-      website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
-      image: chandrashekar-nair.jpg
-      description: Chandrashekar is a second-year MS student in Computer Science.  His current research focuses on building fully-featured web-based annotation tools for natural language processing.
 
     - name: Angela Cao
       role: Graduate Intern
@@ -98,6 +93,11 @@
 - name: Alumni
   show: false
   people:
+    - name: Chandrashekar Nair
+      website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
+      image: chandrashekar-nair.jpg
+      description: Chandrashekar is currently a software engineer at Everlaw. While in the FACTS.lab, his research focused on building fully-featured web-based annotation tools for natural language processing.
+
     - name: Zhendong Liu
       website: https://www.linkedin.com/in/zhendong-liu-834872143/
       image: zhendong-liu.jpg
