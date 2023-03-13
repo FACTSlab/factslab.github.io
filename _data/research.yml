@@ -234,3 +234,12 @@ supermereo:
       href: "https://github.com/wgantt/event_type_induction"
     - label: "doi"
       href: "https://doi.org/10.1162/tacl_a_00445"
+
+lofi:
+  papers:
+  - citation: "Kim, Gene Louis and Aaron Steven White. 2021. Montague Grammar Induction. Edited by Joseph Rhyne, Kaelyn Lamp, Nicole Dreier, and Chloe Kwon. <i>Semantics and Linguistic Theory</i> 30: 227–251."
+    links:
+    - label: "pdf"
+      href: "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/30.227/4573"
+    - label: "doi"
+      href: "https://doi.org/10.3765/salt.v30i0.4816"
