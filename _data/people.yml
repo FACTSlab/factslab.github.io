@@ -139,8 +139,8 @@ groups:
     - vgovindarajan
 
 roles:
-  zulipadministrator: jgrove
+  zulipadministrator: srichter
   githubadministrator: jgrove
-  awsadministrator: jgrove
-  gmailadministrator: jgrove
+  awsadministrator: wgantt
+  gmailadministrator: wgantt
   devboxadministrator: svashishtha
