@@ -34,13 +34,29 @@ The FACTS.lab uses [Amazon Mechanical Turk](https://www.mturk.com/) (AMT) for be
 {% assign gmailadministratorid = site.data.people.roles.gmailadministrator %}
 {% assign gmailadministrator = site.data.people.people[gmailadministratorid] %}
 
-The FACTS.lab uses a lab gmail address (ur.facts.lab@gmail.com) distinct from its `@rochester.edu` address for communicating with participants recruited through crowd-sourcing platforms. Access to the lab gmail account is managed through [gmail delegations](https://support.google.com/mail/answer/138350?hl=en). To receive a delegation for the lab gmail, you will need to request an account from the current lab gmail administrator (<a href="{{ gmailadministrator.website }}">{{ gmailadministrator.name }}</a>). 
+The FACTS.lab uses a lab gmail address (ur.facts.lab@gmail.com) distinct from its `@rochester.edu` address for communicating with participants recruited through crowd-sourcing platforms. Access to the lab gmail account is managed through [gmail delegations](https://support.google.com/mail/answer/138350?hl=en). To receive a delegation for the lab gmail, you will need to request an account from the current lab gmail administrator (<a href="{{ gmailadministrator.website }}">{{ gmailadministrator.name }}</a>).
 
-Delegations can only be made to email addresses that end in `@gmail.com`. This means that, even though University of Rochester student email services are provided through gmail, `@u.rochester.edu` addresses cannot be delegated to. 
+Delegations can only be made to email addresses that end in `@gmail.com`. This means that, even though University of Rochester student email services are provided through gmail, `@u.rochester.edu` addresses cannot be delegated to.
 
 ## Devbox
 
 {% assign devboxadministratorid = site.data.people.roles.devboxadministrator %}
 {% assign devboxadministrator = site.data.people.people[devboxadministratorid] %}
 
-The FACTS.lab has a development box housed in its lab space in Wegmans Hall. To obtain an account on this machine, you will need to request one from the current lab devbox administrator (<a href="{{ devboxadministrator.website }}">{{ devboxadministrator.name }}</a>).
+The FACTS.lab has a development box housed in its lab space in Wegmans Hall (Room 4107). To obtain an account on this machine, you will need to request one from the current lab devbox administrator (<a href="{{ devboxadministrator.website }}">{{ devboxadministrator.name }}</a>).
+
+The devbox is a Linux machine with Ubuntu 20.04.03 LTS (Focal Fossa) operating system. It can be used to store data and to run code for your experiments. The devbox has 3 GPUs ([GeForce GTX 1080 Ti]) with roughly 12GB RAM on each GPU.
+
+To get an account set up on the devbox, please fill up [this form](https://forms.gle/xaXgaia7acNQrX7n8) and the current lab devbox administrator will get in touch with you.
+
+Once your request for the account on the devbox is complete, you will receive your username and a temporary password to login to the machine. You can sign-in to the machine via `ssh` using the following command from a terminal:
+
+```console
+ssh username@10.17.0.15
+```
+
+Use your temporary password to login for the first time and make sure to change your password by typing the following command in the devbox terminal:
+
+```console
+passwd
+```
