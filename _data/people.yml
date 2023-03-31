@@ -74,6 +74,11 @@ people:
     website:
     image: carina-g.jpg
     description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
+  ohai:
+    name: Steven Oufan Hai
+    website: https://www.linkedin.com/in/stevenoufanhai/
+    image: steven-hai.jpg
+    description: Steven is a third-year undergraduate student in computer science. His current research focuses on building a web-based annotation tool.
   cnair:
     name: Chandrashekar Nair
     website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
@@ -129,6 +134,7 @@ groups:
     - pliu
     - jdravk
     - cgiordano
+    - ohai
   alumni:
     name: Alumni
     members:
