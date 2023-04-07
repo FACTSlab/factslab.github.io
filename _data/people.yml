@@ -56,9 +56,9 @@ people:
     description: Angela is a M.Sc. student in Linguistics at the University of Edinburgh. Her research interests include using language data to explore causal models of cognition.
   amartin:
     name: Alexander Martin
-    website: https://www.linkedin.com/in/alexander-david-paul-martin/
+    website: https://alexmartin1722.github.io/
     image: alex-martin.jpg
-    description: Alex is a third-year undergraduate student in Computer Science. His research interests are in natural language understanding, information extraction, and question answering.
+    description: Alex is a third-year undergraduate student in Computer Science. His current research focuses on information extraction and summarization. 
   pliu:
     name: Pinxin Liu
     website: 
@@ -74,6 +74,11 @@ people:
     website:
     image: carina-g.jpg
     description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
+  ohai:
+    name: Steven Oufan Hai
+    website: https://www.linkedin.com/in/stevenoufanhai/
+    image: steven-hai.jpg
+    description: Steven is a third-year undergraduate student in computer science. His current research focuses on building a web-based annotation tool.
   cnair:
     name: Chandrashekar Nair
     website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
@@ -130,6 +135,7 @@ groups:
     name: Undergraduate Researchers
     members:
     - amartin
+    - ohai
     - pliu
     - jdravk
     - cgiordano
