@@ -104,7 +104,11 @@ people:
     website: https://venkatasg.net/
     image: venkata-govindarajan.jpg
     description: Venkat is currently a fourth-year PhD student in Linguistics at the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
-
+  rhamelburg:
+    name: Rachel Hamelburg
+    website: https://www.linkedin.com/in/rachel-hamelburg/
+    image: rachel-hamelburg.jpg
+    description: Rachel is currently a fourth-year undergraduate student in Linguistics, Spanish, and Comparative Literature at the University of Rochester. Her research interests include information extraction and natural language understanding.
 
 groups:
   faculty:
@@ -131,10 +135,11 @@ groups:
     name: Undergraduate Researchers
     members:
     - amartin
+    - ohai
     - pliu
     - jdravk
     - cgiordano
-    - ohai
+    - rhamelburg
   alumni:
     name: Alumni
     members:
