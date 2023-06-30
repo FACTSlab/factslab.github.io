@@ -74,6 +74,11 @@ people:
     website:
     image: carina-g.jpg
     description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
+  sedinberg:
+    name: Samantha Edinberg
+    website:
+    image: samantha-edinberg.jpg
+    description: Samantha is a third-year undergraduate student in Linguistics. Her research interests include historical, anthropological, socio-economic, and etymological linguistic topics.
   ohai:
     name: Steven Oufan Hai
     website: https://www.linkedin.com/in/stevenoufanhai/
@@ -140,6 +145,7 @@ groups:
     - jdravk
     - cgiordano
     - rhamelburg
+    - sedinberg
   alumni:
     name: Alumni
     members:
