@@ -44,11 +44,6 @@ people:
     website: https://jackvalinsky.com
     image: jack-valinsky.jpg
     description: Jack is a second-year MS student in Linguistics advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
-  aimtiaz:
-    name: Arsal Imtiaz
-    website: https://www.linkedin.com/in/arsalimtiaz/
-    image: arsal-imtiaz.jpg
-    description: Arsal is a second-year MS student in Computer Science. His current research focuses on building fully-featured web-based annotation tools for natural language processing.
   acao:
     name: Angela Cao
     website: https://angelacao8.github.io
@@ -68,7 +63,7 @@ people:
     name: Jakob Dravk
     website: 
     image: jakob-dravk.jpg
-    description: Jakob is a third-year undergraduate student in Linguistics. His research interests include referring expression generation and coreference.
+    description: Jakob is a fourth-year undergraduate student in Linguistics. His research interests include referring expression generation and coreference.
   cgiordano:
     name: Carina Giordano
     website:
@@ -78,7 +73,12 @@ people:
     name: Steven Oufan Hai
     website: https://www.linkedin.com/in/stevenoufanhai/
     image: steven-hai.jpg
-    description: Steven is a third-year undergraduate student in computer science. His current research focuses on building a web-based annotation tool.
+    description: Steven is currently pursuing an MS in Computer Science at the University of Alberta. While in the FACTS.lab, his research focused on building a web-based annotation tool.
+  aimtiaz:
+    name: Arsal Imtiaz
+    website: https://www.linkedin.com/in/arsalimtiaz/
+    image: arsal-imtiaz.jpg
+    description: Arsal is currently a software engineer at Everlaw. While in the FACTS.lab, his current research focuses on building fully-featured web-based annotation tools for natural language processing. 
   cnair:
     name: Chandrashekar Nair
     website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
@@ -86,24 +86,24 @@ people:
     description: Chandrashekar is currently a software engineer at Everlaw. While in the FACTS.lab, his research focused on building fully-featured web-based annotation tools for natural language processing.
   zliu:
     name: Zhendong Liu
-    website: https://www.linkedin.com/in/zhendong-liu-834872143/
+    website: https://zhendongliu.com/
     image: zhendong-liu.jpg
-    description: Zhendong is currently a first-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
+    description: Zhendong is currently a third-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
   wgu:
     name: Weiwei Gu
     website: 
     image: weiwei-gu.jpg
-    description: Weiwei is currently a first-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
+    description: Weiwei is currently a third-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
   emoon:
     name: Ellise Moon
     website: https://eclairemoon.github.io/
     image: ellise-moon.jpg
-    description: Ellise is currently a fourth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
+    description: Ellise is currently a fifth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
   vgovindarajan:
     name: Venkata Govindarajan
     website: https://venkatasg.net/
     image: venkata-govindarajan.jpg
-    description: Venkat is currently a fourth-year PhD student in Linguistics at the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
+    description: Venkat is currently an Assistant Professor in Computer Science at Ithaca College. Before that, earned his PhD student in Linguistics from the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
   rhamelburg:
     name: Rachel Hamelburg
     website: https://www.linkedin.com/in/rachel-hamelburg/
@@ -129,10 +129,18 @@ groups:
     - srichter
     - cacevesrodriguez
     - jvalinsky
-    - aimtiaz
     - acao
-  undergrads:
-    name: Undergraduate Researchers
+  gradalumni:
+    name: Graduate Alumni
+    members:
+    - aimtiaz
+    - cnair
+    - zliu
+    - wgu
+    - emoon
+    - vgovindarajan
+  undergradalumni:
+    name: Undergraduate Alumni
     members:
     - amartin
     - ohai
@@ -140,14 +148,6 @@ groups:
     - jdravk
     - cgiordano
     - rhamelburg
-  alumni:
-    name: Alumni
-    members:
-    - cnair
-    - zliu
-    - wgu
-    - emoon
-    - vgovindarajan
 
 roles:
   zulipadministrator: srichter
