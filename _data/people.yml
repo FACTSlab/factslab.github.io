@@ -109,6 +109,11 @@ people:
     website: https://www.linkedin.com/in/rachel-hamelburg/
     image: rachel-hamelburg.jpg
     description: Rachel is currently a fourth-year undergraduate student in Linguistics, Spanish, and Comparative Literature at the University of Rochester. Her research interests include information extraction and natural language understanding.
+  lzong:
+    name: Leon Zong
+    website: https://leonzong.com/
+    image: leon-zong.jpg
+    description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
 
 groups:
   faculty:
@@ -139,6 +144,10 @@ groups:
     - wgu
     - emoon
     - vgovindarajan
+  undergrads:
+    name: Undergraduate Researchers
+    members:
+    - lzong
   undergradalumni:
     name: Undergraduate Alumni
     members:
