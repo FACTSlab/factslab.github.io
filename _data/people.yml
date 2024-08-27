@@ -15,10 +15,10 @@ people:
     description: Sid is a fourth-year PhD Student in Computer Science advised by Aaron White. His research work focuses on extracting event semantics from natural language text. His latest projects involve working on <a href="https://aclanthology.org/2020.findings-emnlp.363/">temporal reasoning in natural language inference systems</a> and <a href="https://aclanthology.org/P19-1280/">temporal relation extraction</a>. 
     image: siddharth-vashishtha.jpg
   wgantt:
-    name: William Gantt
+    name: William Gantt Walden
     website: https://wgantt.github.io/
-    image: william-gantt.jpg
-    description: Will is a fourth-year PhD student in Computer Science advised by Aaron White. His research interests lie broadly in natural language understanding and information extraction, with a focus on document-level event understanding. Some of his recent projects along these lines include work on models for iterative template extraction, as well as resource development and modeling for<a href="http://decomp.io/projects/event-structure/">event structure</a>. He has also worked on investigations of <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
+    image: william-gantt-walden.jpg
+    description: Will completed his PhD in the summer of 2024 and, as of fall 2024, is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation focused on ways of decomposing and describing the structure of events, and he contributed to a number of projects during his PhD, including the <a href="http://decomp.io/">Decompositional Semantics Initative</a> and the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
   han:
     name: Hannah An
     website: https://hannah0n.github.io/
@@ -128,7 +128,6 @@ groups:
     name: Graduate Researchers
     members:
     - svashishtha
-    - wgantt
     - han
     - bkane
     - srichter
@@ -138,6 +137,7 @@ groups:
   gradalumni:
     name: Graduate Alumni
     members:
+    - wgantt
     - aimtiaz
     - cnair
     - zliu
@@ -161,6 +161,5 @@ groups:
 roles:
   zulipadministrator: srichter
   githubadministrator: jgrove
-  awsadministrator: wgantt
-  gmailadministrator: wgantt
+  awsadministrator: acao
   devboxadministrator: svashishtha
