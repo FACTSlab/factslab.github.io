@@ -15,15 +15,15 @@ people:
     description: Sid is a fourth-year PhD Student in Computer Science advised by Aaron White. His research work focuses on extracting event semantics from natural language text. His latest projects involve working on <a href="https://aclanthology.org/2020.findings-emnlp.363/">temporal reasoning in natural language inference systems</a> and <a href="https://aclanthology.org/P19-1280/">temporal relation extraction</a>. 
     image: siddharth-vashishtha.jpg
   wgantt:
-    name: William Gantt
+    name: William Gantt Walden
     website: https://wgantt.github.io/
-    image: william-gantt.jpg
-    description: Will is a fourth-year PhD student in Computer Science advised by Aaron White. His research interests lie broadly in natural language understanding and information extraction, with a focus on document-level event understanding. Some of his recent projects along these lines include work on models for iterative template extraction, as well as resource development and modeling for<a href="http://decomp.io/projects/event-structure/">event structure</a>. He has also worked on investigations of <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
+    image: william-gantt-walden.jpg
+    description: Will completed his PhD in the summer of 2024 and, as of fall 2024, is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation focused on ways of decomposing and describing the structure of events, and he contributed to a number of projects during his PhD, including the <a href="http://decomp.io/">Decompositional Semantics Initative</a> and the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
   han:
     name: Hannah An
-    website: https://hannah0n.github.io/
+    website: https://anyhannah.github.io/
     image: hannah-an.jpg     
-    description: Hannah is a fourth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
+    description: Hannah is a sixth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable AI systems to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
   bkane:
     name: Benjamin Kane
     website: https://www.cs.rochester.edu/u/bkane2/
@@ -44,16 +44,11 @@ people:
     website: https://jackvalinsky.com
     image: jack-valinsky.jpg
     description: Jack is a second-year MS student in Linguistics advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
-  aimtiaz:
-    name: Arsal Imtiaz
-    website: https://www.linkedin.com/in/arsalimtiaz/
-    image: arsal-imtiaz.jpg
-    description: Arsal is a second-year MS student in Computer Science. His current research focuses on building fully-featured web-based annotation tools for natural language processing.
   acao:
     name: Angela Cao
     website: https://angelacao8.github.io
     image: angela-c.jpg
-    description: Angela is a M.Sc. student in Linguistics at the University of Edinburgh. Her research interests include using language data to explore causal models of cognition.
+    description: Angela is a second-year PhD student in Linguistics advised by Aaron White. Her research interests include using large-scale language data to build models of human reasoning.
   amartin:
     name: Alexander Martin
     website: https://alexmartin1722.github.io/
@@ -68,7 +63,7 @@ people:
     name: Jakob Dravk
     website: 
     image: jakob-dravk.jpg
-    description: Jakob is a third-year undergraduate student in Linguistics. His research interests include referring expression generation and coreference.
+    description: Jakob is a fourth-year undergraduate student in Linguistics. His research interests include referring expression generation and coreference.
   cgiordano:
     name: Carina Giordano
     website:
@@ -83,7 +78,12 @@ people:
     name: Steven Oufan Hai
     website: https://www.linkedin.com/in/stevenoufanhai/
     image: steven-hai.jpg
-    description: Steven is a third-year undergraduate student in computer science. His current research focuses on building a web-based annotation tool.
+    description: Steven is currently pursuing an MS in Computer Science at the University of Alberta. While in the FACTS.lab, his research focused on building a web-based annotation tool.
+  aimtiaz:
+    name: Arsal Imtiaz
+    website: https://www.linkedin.com/in/arsalimtiaz/
+    image: arsal-imtiaz.jpg
+    description: Arsal is currently a software engineer at Everlaw. While in the FACTS.lab, his current research focuses on building fully-featured web-based annotation tools for natural language processing. 
   cnair:
     name: Chandrashekar Nair
     website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
@@ -91,29 +91,34 @@ people:
     description: Chandrashekar is currently a software engineer at Everlaw. While in the FACTS.lab, his research focused on building fully-featured web-based annotation tools for natural language processing.
   zliu:
     name: Zhendong Liu
-    website: https://www.linkedin.com/in/zhendong-liu-834872143/
+    website: https://zhendongliu.com/
     image: zhendong-liu.jpg
-    description: Zhendong is currently a first-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
+    description: Zhendong is currently a third-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
   wgu:
     name: Weiwei Gu
     website: 
     image: weiwei-gu.jpg
-    description: Weiwei is currently a first-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
+    description: Weiwei is currently a third-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
   emoon:
     name: Ellise Moon
     website: https://eclairemoon.github.io/
     image: ellise-moon.jpg
-    description: Ellise is currently a fourth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
+    description: Ellise is currently a fifth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
   vgovindarajan:
     name: Venkata Govindarajan
     website: https://venkatasg.net/
     image: venkata-govindarajan.jpg
-    description: Venkat is currently a fourth-year PhD student in Linguistics at the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
+    description: Venkat is currently an Assistant Professor in Computer Science at Ithaca College. Before that, earned his PhD student in Linguistics from the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
   rhamelburg:
     name: Rachel Hamelburg
     website: https://www.linkedin.com/in/rachel-hamelburg/
     image: rachel-hamelburg.jpg
     description: Rachel is currently a fourth-year undergraduate student in Linguistics, Spanish, and Comparative Literature at the University of Rochester. Her research interests include information extraction and natural language understanding.
+  lzong:
+    name: Leon Zong
+    website: https://leonzong.com/
+    image: leon-zong.jpg
+    description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
 
 groups:
   faculty:
@@ -128,16 +133,29 @@ groups:
     name: Graduate Researchers
     members:
     - svashishtha
-    - wgantt
     - han
     - bkane
     - srichter
     - cacevesrodriguez
     - jvalinsky
-    - aimtiaz
     - acao
+  gradalumni:
+    name: Graduate Alumni
+    members:
+    - wgantt
+    - aimtiaz
+    - cnair
+    - zliu
+    - wgu
+    - emoon
+    - vgovindarajan
   undergrads:
     name: Undergraduate Researchers
+    members:
+    - lzong
+    - sedinberg
+  undergradalumni:
+    name: Undergraduate Alumni
     members:
     - amartin
     - ohai
@@ -145,19 +163,9 @@ groups:
     - jdravk
     - cgiordano
     - rhamelburg
-    - sedinberg
-  alumni:
-    name: Alumni
-    members:
-    - cnair
-    - zliu
-    - wgu
-    - emoon
-    - vgovindarajan
 
 roles:
   zulipadministrator: srichter
   githubadministrator: jgrove
-  awsadministrator: wgantt
-  gmailadministrator: wgantt
+  awsadministrator: acao
   devboxadministrator: svashishtha
