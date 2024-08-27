@@ -21,9 +21,9 @@ people:
     description: Will is a fourth-year PhD student in Computer Science advised by Aaron White. His research interests lie broadly in natural language understanding and information extraction, with a focus on document-level event understanding. Some of his recent projects along these lines include work on models for iterative template extraction, as well as resource development and modeling for<a href="http://decomp.io/projects/event-structure/">event structure</a>. He has also worked on investigations of <a href="http://megaattitude.io/projects/mega-intensionality/">patterns in lexically-triggered belief and desire inferences</a> across the English lexicon.
   han:
     name: Hannah An
-    website: https://hannah0n.github.io/
+    website: https://anyhannah.github.io/
     image: hannah-an.jpg     
-    description: Hannah is a fourth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable computers to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
+    description: Hannah is a sixth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable AI systems to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
   bkane:
     name: Benjamin Kane
     website: https://www.cs.rochester.edu/u/bkane2/
