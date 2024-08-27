@@ -114,6 +114,11 @@ people:
     website: https://leonzong.com/
     image: leon-zong.jpg
     description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
+  wchoi:
+    name: Woo Jin Choi
+    website: https://wchoi20.github.io/
+    image: woojin-choi.jpeg
+    description: WooJin is a first-year PhD student in Linguistics advised by Aaron White. His research interests include natural language understanding.
 
 groups:
   faculty:
@@ -134,6 +139,7 @@ groups:
     - cacevesrodriguez
     - jvalinsky
     - acao
+    - wchoi
   gradalumni:
     name: Graduate Alumni
     members:
