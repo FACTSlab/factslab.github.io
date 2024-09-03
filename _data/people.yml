@@ -114,6 +114,11 @@ people:
     website: https://leonzong.com/
     image: leon-zong.jpg
     description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
+  cjin:
+    name: Chihsheng Jin
+    website: https://chihshengj.github.io/
+    image: chihsheng-jin.jpg
+    description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
 
 groups:
   faculty:
@@ -134,6 +139,7 @@ groups:
     - cacevesrodriguez
     - jvalinsky
     - acao
+    - cjin
   gradalumni:
     name: Graduate Alumni
     members:
