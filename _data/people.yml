@@ -27,7 +27,7 @@ people:
   bkane:
     name: Benjamin Kane
     website: https://www.cs.rochester.edu/u/bkane2/
-    description: Ben is an Applied Research Scientist at <a href="https://openstream.ai/"OpenStream.AI</a>. Ben's dissertation, which he defended in the spring of 2024, focused on the development of plan-based dialogue systems. He also contributed to a number of projects during his PhD, including the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
+    description: Ben is an Applied Research Scientist at <a href="https://openstream.ai/">OpenStream.AI</a>. Ben's dissertation, which he defended in the spring of 2024, focused on the development of plan-based dialogue systems. He also contributed to a number of projects during his PhD, including the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
     image: benjamin-kane.jpg 
   srichter:
     name: Stephanie N. Richter
