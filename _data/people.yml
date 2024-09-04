@@ -12,13 +12,13 @@ people:
   svashishtha:
     name: Siddharth Vashishtha
     website: https://sidsvash26.github.io/
-    description: Sid is a fourth-year PhD Student in Computer Science advised by Aaron White. His research work focuses on extracting event semantics from natural language text. His latest projects involve working on <a href="https://aclanthology.org/2020.findings-emnlp.363/">temporal reasoning in natural language inference systems</a> and <a href="https://aclanthology.org/P19-1280/">temporal relation extraction</a>. 
+    description: Sid is a Software Engineer at <a href="https://gemini.google.com/">Google Gemini</a>. Sid's dissertation, which he defended in the summer of 2024, focused on extracting information about events from document collections. He led the <a href="https://github.com/FACTSlab/FAMuS">Frames Across Multiple Sources</a> project as well as various projects focused on temporal relation extraction, including the <a href="https://decomp.io/projects/time/">UDS-Time</a> project.  
     image: siddharth-vashishtha.jpg
   wgantt:
     name: William Gantt Walden
     website: https://wgantt.github.io/
     image: william-gantt-walden.jpg
-    description: Will completed his PhD in the summer of 2024 and, as of fall 2024, is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation focused on ways of decomposing and describing the structure of events, and he contributed to a number of projects during his PhD, including the <a href="http://decomp.io/">Decompositional Semantics Initative</a> and the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
+    description: Will is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation, which he defended in the summer of 2024, focused on ways of decomposing and describing the structure of events, and he contributed to a number of projects during his PhD, including the <a href="http://decomp.io/">Decompositional Semantics Initative</a> and the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
   han:
     name: Hannah An
     website: https://anyhannah.github.io/
@@ -27,7 +27,7 @@ people:
   bkane:
     name: Benjamin Kane
     website: https://www.cs.rochester.edu/u/bkane2/
-    description: Ben is a fourth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. His current research involves creating <a href="https://ling.auf.net/lingbuzz/005930/current.pdf">natural language inference models predicting belief and desire inferences</a> (including <a href="https://aclanthology.org/2020.starsem-1.9/">modeling annotator disagreement in natural language inference</a>), and he is interested in future applications of these models in plan-based dialogue systems.
+    description: Ben is an Applied Research Scientist at <a href="https://openstream.ai/"OpenStream.AI</a>. Ben's dissertation, which he defended in the spring of 2024, focused on the development of plan-based dialogue systems. He also contributed to a number of projects during his PhD, including the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
     image: benjamin-kane.jpg 
   srichter:
     name: Stephanie N. Richter
@@ -142,30 +142,30 @@ groups:
   grads: 
     name: Graduate Researchers
     members:
-    - svashishtha
     - han
-    - bkane
     - srichter
     - cacevesrodriguez
     - jvalinsky
     - acao
     - wchoi
     - cjin
+  undergrads:
+    name: Undergraduate Researchers
+    members:
+    - lzong
+    - sedinberg
   gradalumni:
     name: Graduate Alumni
     members:
+    - svashishtha
     - wgantt
+    - bkane
     - aimtiaz
     - cnair
     - zliu
     - wgu
     - emoon
     - vgovindarajan
-  undergrads:
-    name: Undergraduate Researchers
-    members:
-    - lzong
-    - sedinberg
   undergradalumni:
     name: Undergraduate Alumni
     members:
