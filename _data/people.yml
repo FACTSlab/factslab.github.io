@@ -33,7 +33,7 @@ people:
     name: Stephanie N. Richter
     website: http://stephrichter.github.io
     image: stephanie-richter.jpg
-    description: Stephanie is a second-year PhD student in Linguistics co-advised by Aaron White and <a href="https://asiapietraszko.com/">Asia Pietraszko</a>. Her current research is focused on statistical models of acceptability, prototypicality, and word sense.
+    description: Stephanie is a fourth-year PhD student in Linguistics co-advised by Aaron White and <a href="https://asiapietraszko.com/">Asia Pietraszko</a>. Her current research is focused on statistical models of acceptability, prototypicality, and word sense.
   cacevesrodriguez:
     name: Constanza Aceves Rodriguez
     website: https://consaceves.github.io/
@@ -119,6 +119,11 @@ people:
     website: https://wchoi20.github.io/
     image: woojin-choi.jpeg
     description: WooJin is a first-year PhD student in Linguistics advised by Aaron White. His research interests include natural language understanding.
+  cjin:
+    name: Chihsheng Jin
+    website: https://chihshengj.github.io/
+    image: chihsheng-jin.jpg
+    description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
 
 groups:
   faculty:
@@ -140,6 +145,7 @@ groups:
     - jvalinsky
     - acao
     - wchoi
+    - cjin
   gradalumni:
     name: Graduate Alumni
     members:
