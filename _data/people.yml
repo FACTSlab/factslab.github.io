@@ -129,6 +129,11 @@ people:
     website: https://chihshengj.github.io/
     image: chihsheng-jin.jpg
     description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
+  pkuchmiichuk:
+    name: Pavlo Kuchmiichuk
+    website: https://www.linkedin.com/in/pkuchmiichuk/
+    image: pavlo-kuchmiichuk.jpg
+    description: Pavlo Kuchmiichuk is currently a first-year PhD student in Computer Science advised by Aaron White. His research interests include computational semantics, low-resource NLP, and grammatical error correction.
 
 groups:
   faculty:
@@ -149,6 +154,7 @@ groups:
     - acao
     - wchoi
     - cjin
+    - pkuchmiichuk
   undergrads:
     name: Undergraduate Researchers
     members:
