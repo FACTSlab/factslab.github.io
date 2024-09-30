@@ -12,6 +12,55 @@ people:
     - ellipsis
     - zulu
     - connotate
+    papers:
+    - cao_generating_2024
+    - grove_factivity_2024
+    - grove_modeling_2024
+    - gantt_event_2024
+    - gantt_small_2024
+    - vashishtha_famus_2024
+    - gantt_multimuc_2024
+    - gantt_event_2023
+    - chen_unified_2023
+    - barham_megawika_2023
+    - chen_iterative_2023
+    - gantt_decomposing_2022
+    - kane_intensional_2022
+    - white_believing_2021
+    - stengel-eskin_joint_2021
+    - kim_montague_2021
+    - gantt_natural_2020
+    - vashishtha_temporal_2020
+    - chen_reading_2020
+    - an_lexical_2020
+    - white_lexically_2019
+    - vashishtha_fine-grained_2019
+    - white_factive-implicatives_2014
+    - white_role_2018
+    - white_semantic_2018
+    - white_contextual_2017
+    - white_labeling_2018
+    - white_experimental_2014
+    - white_information_2015
+    - white_discovering_2014
+    - white_question_2018
+    - white_megaattitudefrequency-acceptability-selection_2020
+    - white_frequency_2020
+    - lidz_role_2017
+    - white_universal_2016
+    - white_semantic_2017
+    - white_inference_2017
+    - rudinger_neural_2018
+    - white_lexicosyntactic_2018
+    - poliak_collecting_2018
+    - govindarajan_decomposing_2019
+    - yan_framework_2019
+    - white_universal_2020
+    - stengel-eskin_universal_2020
+    - white_computational_2016
+    - altshuler_double_2015
+    - moon_source_2020
+    - fetters_pseudogapping_2017
     description: Aaron is an Associate Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He directs the FACTS.lab and co-leads the <a href="http://megaattitude.io">MegaAttitude Project</a> and the <a href="http://decomp.io">Decompositional Semantic Initiative</a>.
   jgrove:
     name: Julian Grove
@@ -20,6 +69,9 @@ people:
     projects:
     - megaattitude
     - pds
+    papers:
+    - grove_factivity_2024
+    - grove_modeling_2024
     description: Julian is a post-doc in the FACTS.lab. He is interested in integrating Bayesian probabilistic models of inference with type-theoretic natural language semantics. He is also interested in characterizing dynamic semantic phenomena, such as presupposition, by relying on theories of effects, and determining how those characterizations should be combined with one another. 
   svashishtha:
     name: Siddharth Vashishtha
@@ -28,6 +80,13 @@ people:
     projects:
     - decomp
     - cdae
+    papers:
+    - vashishtha_famus_2024
+    - gantt_event_2023
+    - barham_megawika_2023
+    - vashishtha_temporal_2020
+    - white_universal_2020
+    - vashishtha_fine-grained_2019
     description: Sid is a Software Engineer at <a href="https://gemini.google.com/">Google Gemini</a>. Sid's dissertation, which he defended in the summer of 2024, focused on extracting information about events from document collections. He led the <a href="https://github.com/FACTSlab/FAMuS">Frames Across Multiple Sources</a> project as well as various projects focused on temporal relation extraction, including the <a href="https://decomp.io/projects/time/">UDS-Time</a> project.  
   wgantt:
     name: William Gantt Walden
@@ -38,6 +97,14 @@ people:
     - decomp
     - supermereo
     - cdae
+    papers:
+    - gantt_event_2024
+    - gantt_small_2024
+    - gantt_multimuc_2024
+    - chen_unified_2023
+    - chen_iterative_2023
+    - gantt_decomposing_2022
+    - gantt_natural_2020
     description: Will is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation, which he defended in the summer of 2024, focused on ways of decomposing and describing the structure of events, and he contributed to a number of projects during his PhD, including the <a href="http://decomp.io/">Decompositional Semantics Initative</a> and the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
   han:
     name: Hannah An
@@ -46,6 +113,9 @@ people:
     projects:
     - megaattitude
     - ellipsis
+    papers:
+    - gantt_multimuc_2024
+    - an_lexical_2020
     description: Hannah is a sixth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable AI systems to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
   bkane:
     name: Benjamin Kane
@@ -54,6 +124,9 @@ people:
     projects:
     - megaattitude
     - decomp
+    papers:
+    - kane_intensional_2022
+    - gantt_natural_2020
     description: Ben is an Applied Research Scientist at <a href="https://openstream.ai/">OpenStream.AI</a>. Ben's dissertation, which he defended in the spring of 2024, focused on the development of plan-based dialogue systems. He also contributed to a number of projects during his PhD, including the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
   srichter:
     name: Stephanie N. Richter
@@ -62,6 +135,7 @@ people:
     projects:
     - megaattitude
     - supermereo
+    papers: null
     description: Stephanie is a fourth-year PhD student in Linguistics co-advised by Aaron White and <a href="https://asiapietraszko.com/">Asia Pietraszko</a>. Her current research is focused on statistical models of acceptability, prototypicality, and word sense.
   cacevesrodriguez:
     name: Constanza Aceves Rodriguez
@@ -69,12 +143,14 @@ people:
     image: constanza-acevesrodriguez.jpg 
     projects:
     - megaattitude
+    papers: null
     description: Constanza is a second-year PhD student in Linguistics and Computer Science co-advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>, Aaron White, and Nadine Grimm. Her current research focuses on cross-linguistic analysis of English and Spanish clause-embedding verbs.
   jvalinsky:
     name: Jack Valinsky
     website: https://jackvalinsky.com
     image: jack-valinsky.jpg
     projects: null
+    papers: null
     description: Jack is a second-year MS student in Linguistics advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
   acao:
     name: Angela Cao
@@ -84,6 +160,8 @@ people:
     - decomp
     - supermereo
     - cdae
+    papers:
+    - cao_generating_2024
     description: Angela is a second-year PhD student in Linguistics advised by Aaron White. Her research interests include using large-scale language data to build models of human reasoning.
   amartin:
     name: Alexander Martin
@@ -91,12 +169,17 @@ people:
     image: alex-martin.jpg
     projects:
     - cdae
+    papers:
+    - vashishtha_famus_2024
+    - gantt_event_2024
+    - barham_megawika_2023
     description: Alex is a third-year undergraduate student in Computer Science. His current research focuses on information extraction and summarization. 
   pliu:
     name: Pinxin Liu
     website: null
     image: pinxin-liu.jpg
     projects: null
+    papers: null
     description: Pinxin is a second-year undergraduate student in Computer Science. His current research focuses on coreference resolution.  
   jdravk:
     name: Jakob Dravk
@@ -104,6 +187,7 @@ people:
     image: jakob-dravk.jpg
     projects:
     - ellipsis
+    papers: null
     description: Jakob is a fourth-year undergraduate student in Linguistics. His research interests include referring expression generation and coreference.
   cgiordano:
     name: Carina Giordano
@@ -111,6 +195,7 @@ people:
     image: carina-g.jpg
     projects:
     - ellipsis
+    papers: null
     description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
   sedinberg:
     name: Samantha Edinberg
@@ -118,6 +203,7 @@ people:
     image: samantha-edinberg.jpg
     projects:
     - ellipsis
+    papers: null
     description: Samantha is a third-year undergraduate student in Linguistics. Her research interests include historical, anthropological, socio-economic, and etymological linguistic topics.
   ohai:
     name: Steven Oufan Hai
@@ -125,6 +211,7 @@ people:
     image: steven-hai.jpg
     projects:
     - connotate
+    papers: null
     description: Steven is currently pursuing an MS in Computer Science at the University of Alberta. While in the FACTS.lab, his research focused on building a web-based annotation tool.
   aimtiaz:
     name: Arsal Imtiaz
@@ -132,6 +219,7 @@ people:
     image: arsal-imtiaz.jpg
     projects:
     - connotate
+    papers: null
     description: Arsal is currently a software engineer at Everlaw. While in the FACTS.lab, his current research focuses on building fully-featured web-based annotation tools for natural language processing. 
   cnair:
     name: Chandrashekar Nair
@@ -139,6 +227,7 @@ people:
     image: chandrashekar-nair.jpg
     projects:
     - connotate
+    papers: null
     description: Chandrashekar is currently a software engineer at Everlaw. While in the FACTS.lab, his research focused on building fully-featured web-based annotation tools for natural language processing.
   zliu:
     name: Zhendong Liu
@@ -146,6 +235,7 @@ people:
     image: zhendong-liu.jpg
     projects:
     - megaattitude
+    papers: null
     description: Zhendong is currently a third-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
   wgu:
     name: Weiwei Gu
@@ -153,6 +243,8 @@ people:
     image: weiwei-gu.jpg
     projects:
     - cdae
+    papers:
+    - chen_iterative_2023
     description: Weiwei is currently a third-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
   emoon:
     name: Ellise Moon
@@ -160,6 +252,8 @@ people:
     image: ellise-moon.jpg
     projects:
     - megaattitude
+    papers:
+    - moon_source_2020
     description: Ellise is currently a fifth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
   vgovindarajan:
     name: Venkata Govindarajan
@@ -167,6 +261,9 @@ people:
     image: venkata-govindarajan.jpg
     projects:
     - decomp
+    papers:
+    - white_universal_2020
+    - govindarajan_decomposing_2019
     description: Venkat is currently an Assistant Professor in Computer Science at Ithaca College. Before that, earned his PhD student in Linguistics from the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
   rhamelburg:
     name: Rachel Hamelburg
@@ -174,6 +271,7 @@ people:
     image: rachel-hamelburg.jpg
     projects:
     - ellipsis
+    papers: null
     description: Rachel is currently a fourth-year undergraduate student in Linguistics, Spanish, and Comparative Literature at the University of Rochester. Her research interests include information extraction and natural language understanding.
   lzong:
     name: Leon Zong
@@ -181,12 +279,14 @@ people:
     image: leon-zong.jpg
     projects:
     - zulu
+    papers: null
     description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
   wchoi:
     name: Woo Jin Choi
     website: https://wchoi20.github.io/
     image: woojin-choi.jpeg
     projects: null
+    papers: null
     description: WooJin is a first-year PhD student in Linguistics advised by Aaron White. His research interests include natural language understanding.
   cjin:
     name: Chihsheng Jin
@@ -194,6 +294,7 @@ people:
     image: chihsheng-jin.jpg
     projects:
     - cdae
+    papers: null
     description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
   pkuchmiichuk:
     name: Pavlo Kuchmiichuk
@@ -201,6 +302,7 @@ people:
     image: pavlo-kuchmiichuk.jpg
     projects:
     - lofi
+    papers: null
     description: Pavlo Kuchmiichuk is currently a first-year PhD student in Computer Science advised by Aaron White. His research interests include computational semantics, low-resource NLP, and grammatical error correction.
 
 groups:
