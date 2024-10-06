@@ -1,3 +1,76 @@
+
+- key: cao_generating_2024
+  links:
+  - label: "pdf"
+    href: "https://ling.auf.net/lingbuzz/008208/current.pdf"
+- key: grove_factivity_2024
+  links:
+  - label: "pdf"
+    href: "https://lingbuzz.net/lingbuzz/007450/current.pdf"
+- key: grove_modeling_2024
+  links:
+  - label: "pdf"
+    href: "https://ling.auf.net/lingbuzz/008196/current.pdf"
+- key: vashishtha_famus_2024
+  links:
+  - label: "pdf"
+    href: "https://aclanthology.org/2024.naacl-long.457.pdf"
+  - label: "data"
+    href: "https://github.com/FACTSlab/FAMuS"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2024.naacl-long.457"
+- key: gantt_multimuc_2024
+  links:
+  - label: "pdf"
+    href: "https://aclanthology.org/2024.eacl-long.21.pdf"
+  - label: "data"
+    href: "https://github.com/wgantt/multimuc"
+- key: gantt_event-keyed_2024
+  links:
+  - label: "pdf"
+    href: "https://arxiv.org/pdf/2402.06973.pdf"
+  - label: "data"
+    href: "https://github.com/wgantt/eks"
+  - label: "doi"
+    href: "https://doi.org/10.48550/arXiv.2402.06973"
+- key: gantt_small_2024
+  links:
+  - label: "pdf"
+    href: "https://arxiv.org/pdf/2404.08579"
+  - label: "data"
+    href: "https://github.com/wgantt/eae-transfer"
+  - label: "doi"
+    href: "https://doi.org/10.48550/arXiv.2404.08579"
+- key: gantt_event_2023
+  links:
+  - label: "pdf"
+    href: "https://aclanthology.org/2023.findings-emnlp.862.pdf"
+  - label: "data"
+    href: "https://github.com/wgantt/event_individuation"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2023.findings-emnlp.862"
+- key: chen_unified_2023
+  links:
+  - label: "pdf"
+    href: "https://aclanthology.org/2023.emnlp-main.795.pdf"
+  - label: "code"
+    href: "https://github.com/wanmok/metametric"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2023.emnlp-main.795"
+- key: barham_megawika_2023
+  links:
+  - label: "pdf"
+    href: "https://arxiv.org/pdf/2307.07049"
+  - label: "data"
+    href: "https://huggingface.co/datasets/hltcoe/megawika"
+  - label: "doi"
+    href: "https://doi.org/10.48550/arXiv.2307.07049"
+- key: chen_iterative_2023
+  links:
+  - label: "pdf"
+    href: "https://aclanthology.org/2023.eacl-main.136.pdf"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2023.eacl-main.136"
 - key: gantt_decomposing_2022
   links:
   - label: "pdf"
