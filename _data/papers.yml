@@ -1,0 +1,196 @@
+- key: gantt_decomposing_2022
+  links:
+  - label: "pdf"
+    href: "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00445/1984114/tacl_a_00445.pdf"
+  - label: "data"
+    href: "http://decomp.io/projects/event-structure/"
+  - label: "code"
+    href: "https://github.com/wgantt/event_type_induction"
+  - label: "doi"
+    href: "https://doi.org/10.1162/tacl_a_00445"
+- key: kane_intensional_2022
+  links:
+  - label: "pdf"
+    href: "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/31.029/4792"
+  - label: "data"
+    href: "http://megaattitude.io/projects/mega-intensionality/"            
+  - label: "code"
+    href: "https://github.com/MegaAttitude/intensional-gaps"
+  - label: "doi"
+    href: "https://doi.org/10.3765/salt.v31i0.5137"
+- key: white_believing_2021
+  links:
+  - label: "pdf"
+    href: "https://semprag.org/index.php/sp/article/download/sp.14.6/pdf"
+  - label: "code"
+    href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"
+  - label: "doi"
+    href: "https://doi.org/10.3765/sp.14.6"
+- key: kim_montague_2021
+  links:
+  - label: "pdf"
+    href: "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/30.227/4573"
+  - label: "doi"
+    href: "https://doi.org/10.3765/salt.v30i0.4816"
+- key: stengel-eskin_joint_2021
+  links:
+  - label: "pdf"
+    href: "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00396/1955190/tacl_a_00396.pdf"
+  - label: "code"
+    href: "https://github.com/esteng/miso_uds"
+  - label: "doi"
+    href: "https://doi.org/10.1162/tacl_a_00396"
+- key: xia_lome_2021
+  links:
+  - label: "pdf"
+    href: "https://aclanthology.org/2021.eacl-demos.19.pdf"
+  - label: "demo"
+    href: "https://nlp.jhu.edu/demos/lome/"
+  - label: "docker"
+    href: "https://hub.docker.com/r/hltcoe/lome"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2021.eacl-demos.19"
+- key: xu_gradual_2021
+  links:
+  - label: "pdf"
+    href: "https://aclanthology.org/2021.adaptnlp-1.22.pdf"
+  - label: "code"
+    href: "https://github.com/fe1ixxu/Gradual-Finetune"
+- key: white_frequency_2020
+  links:
+  - label: "pdf"
+    href: "https://www.glossa-journal.org/articles/10.5334/gjgl.1001/galley/1056/download/"
+  - label: "code"
+    href: "https://github.com/MegaAttitude/frequency-acceptability-selection"
+  - label: "doi"
+    href: "https://doi.org/10.5334/gjgl.1001"   
+- key: vashishtha_temporal_2020
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/2020.findings-emnlp.363.pdf"
+  - label: "code"
+    href: "https://github.com/sidsvash26/temporal_nli"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2020.findings-emnlp.363"
+- key: gantt_natural_2020
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/2020.starsem-1.9.pdf"
+  - label: "code"
+    href: "https://github.com/wgantt/nli-mixed-models"
+- key: chen_reading_2020
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/2020.spnlp-1.9.pdf"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2020.spnlp-1.9"
+- key: white_universal_2020
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/2020.lrec-1.699.pdf"
+  - label: "code + data"
+    href: "https://github.com/decompositional-semantics-initiative/decomp"
+- key: stengel-eskin_universal_2020
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/2020.acl-main.746.pdf"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/2020.acl-main.746"
+- key: an_lexical_2020
+  links:
+  - label: "pdf"
+    href: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil"
+  - label: "data"
+    href: "http://megaattitude.io/projects/mega-negraising/"	
+  - label: "doi"
+    href: "https://doi.org/10.7275/yts0-q989"
+- key: moon_source_2020
+  links:
+  - label: "pdf (preprint)"
+    href: "https://ling.auf.net/lingbuzz/005282/current.pdf"
+  - label: "data"
+    href: "http://megaattitude.io/projects/mega-orientation/"
+- key: white_lexically_2019
+  links:
+  - label: "pdf (preprint)"
+    href: "https://ling.auf.net/lingbuzz/004664"
+  - label: "doi"
+    href: "https://doi.org/10.1075/hop.22.lex4"
+- key: govindarajan_decomposing_2019
+  links:
+  - label: "pdf"
+    href: "http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00285"
+  - label: "data"
+    href: "http://decomp.io/projects/genericity/"
+  - label: "doi"
+    href: "https://doi.org/10.1162/tacl_a_00285"
+- key: vashishtha_fine-grained_2019
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/P19-1280.pdf"
+  - label: "data"
+    href: "http://decomp.io/projects/time/"
+  - label: "doi"
+    href: "http://dx.doi.org/10.18653/v1/P19-1280"
+- key: poliak_collecting_2018
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/D18-1007.pdf"
+  - label: "data"
+    href: "http://decomp.io/projects/diverse-natural-language-inference/"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/D18-1007"
+- key: rudinger_neural_2018
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/N18-1067.pdf"
+  - label: "data"
+    href: "http://decomp.io/projects/factuality/"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/N18-1067"
+- key: white_lexicosyntactic_2018
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/N18-1501.pdf"
+  - label: "data"
+    href: "http://megaattitude.io/projects/mega-veridicality/"      
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/D18-1501"
+- key: white_role_2018
+  links:
+  - label: "pdf (preprint)"
+    href: "https://ling.auf.net/lingbuzz/004012/current.pdf"
+  - label: "data"
+    href: "http://megaattitude.io/projects/mega-veridicality/"
+- key: white_question_2018
+  links:
+  - label: "pdf"
+    href: "https://semanticsarchive.net/Archive/DRjNjViN/WhiteRawlins.pdf"
+- key: white_inference_2017
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/I17-1100.pdf"
+  - label: "data"
+    href: "http://decomp.io/projects/diverse-natural-language-inference/"
+- key: white_semantic_2017
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/E17-2015.pdf"
+  - label: "code"
+    href: "https://github.com/aaronstevenwhite/SemanticProtoRoleLinkingModel"
+- key: white_computational_2016
+  links:
+  - label: "pdf"
+    href: "http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/26.641/3662"
+  - label: "data"
+    href: "http://megaattitude.io/projects/mega-acceptability/"
+  - label: "doi"
+    href: "https://doi.org/10.3765/salt.v26i0.3819"
+- key: white_universal_2016
+  links:
+  - label: "pdf"
+    href: "https://www.aclweb.org/anthology/D16-1177.pdf"
+  - label: "data"
+    href: "http://decomp.io/data/"
+  - label: "doi"
+    href: "https://doi.org/10.18653/v1/D16-1177"
