@@ -1,0 +1,27 @@
+<section id="contact" class="contact nopad">
+  <div class="container nopad">
+    <h2 class="border">{{h.contact_section.title}}</h2>
+    <div class="contact__row">
+        <div class="contact__text fade-in fade-left">
+          {{h.contact_section.text | markdownify}}
+        </div>
+        <div class="contact__form fade-in fade-right">
+          <form id="contactForm"  action="https://formspree.io/"
+          method="POST">
+            <input type="text" id="name" name="name" placeholder="Your name"
+              autocomplete="off" required="">
+            <input type="email" id="email" name="email" placeholder="Your email"
+              autocomplete="off" required="">
+            <input type="text" id="subject" name="subject" placeholder="Subject"
+              autocomplete="off" required="">
+            <textarea id="textarea" name="message"
+              placeholder="Write message..." style="height:200px"
+              required=""></textarea>
+            <div class="contact__btn">
+              <button class="button submit__btn" type="submit" value="submit" id="back">Submit</button>
+            </div>
+          </form>
+        </div>
+      </div>
+  </div>
+</section>

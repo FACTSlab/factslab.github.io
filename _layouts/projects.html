@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="page__header">
+  <div class="container">
+    <h1 class="fade-in fade-up">{{ page.title }}</h1>
+  </div>
+</div>
+
+<div class="page__content">
+  <div class="container">
+    <div class="project__grid">
+      <div class="project__text">
+        {{ page.text | markdownify }}
+      </div>
+      {%- if page.website -%}
+      <a class="button btn" href="{{ page.website }}">Website</a>
+      {%- endif -%}
+      <img width="500" alt="Logo" class="page__decor" src="{{ site.logo }}">
+    </div>
+    <!-- People Section -->
+    {%- include components/project-people.html -%}
+    <!-- Papers Section -->
+    {%- include components/project-papers.html -%}
+  </div>
+</div>
+<script src="/assets/js/bib.js"></script>
+
+<script src="/assets/js/paper-arrow.js"></script>

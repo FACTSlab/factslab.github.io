@@ -1,0 +1,32 @@
+{%- assign n = site.data.navigation -%}
+<header class="header">
+  <div class="container">
+    <div class="header__nav">
+      <div class="logo">
+        <a href="/" > 
+          <img width="50" alt="Logo" class="logo-img" src="{{site.logo}}">
+        </a>
+      </div>
+      <nav class="nav">
+        <ul class="nav-links">
+          {%- for i in n.nav -%}
+            {%- if i.children -%} 
+              <li class="nav-item dropdown">
+                <a href="{{ i.link }}" class="nav-link projects">{{ i.title }}</a> <span class="arrow up-arrow">&#10095;</span>
+                <ul class="dropdown-menu">
+                  {%- for child in i.children -%}
+                    <li><a href="{{ child.link }}" class="dropdown-link">{{ child.title }}</a></li>
+                  {%- endfor -%}
+                </ul>
+              </li>
+            {%- else -%}
+              <li class="nav-item">
+                <a href="{{ i.link }}" class="nav-link">{{ i.title }}</a>
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>

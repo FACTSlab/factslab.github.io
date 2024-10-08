@@ -1,0 +1,62 @@
+{% assign project_papers = site.data.research[page.project_id].papers %}
+{% assign all_papers = site.data.papers.papers %} 
+<div class="project__papers">
+  <h2 class="border papers-title">Papers
+    <a onclick="toggleProjectPapers('{{ page.project_id }}')" id="chevron-{{ page.project_id }}">
+      <span class="chevron down"></span>
+    </a>
+  </h2>
+
+  <div id="papers-{{ page.project_id }}" class="csl-bib-body" style="display: none;">
+    {% for paper_id in project_papers %}
+      {% assign paper = all_papers | where: "bib_key", paper_id | first %} 
+      {% if paper %}
+      <div class="paper-item">
+        <div class="paper-content">
+          {% include svg/papers.svg %}
+          {% if paper.citation == "bib" %}
+            <div class="citation">
+              {% bibliography -f {{paper.bib_key}} %} 
+            </div>
+          {% else %}
+            <p>{{ paper.citation }}</p>
+          {% endif %}
+          {% if paper.links %}
+          <p class="bib-btn">
+            {% for link in paper.links %}
+              {% if link.label == "bib" %}
+                {% assign unique_id = global_counter | append: "-bib" %}
+                {% assign global_counter = global_counter | plus: 1 %}
+                <a class="label" data-target="{{ unique_id }}" onclick="toggleBibliography('{{ unique_id }}')">{{ link.label }}</a>
+              {% else %}
+                <a class="label" href="{{ link.href }}" target="_blank">{{ link.label }}</a>
+              {% endif %}
+            {% endfor %}
+          </p>
+          {% for link in paper.links %}
+            {% if link.label == "bib" %}
+              <div id="{{ unique_id }}" class="bibliography-container" style="display: none;">
+                {% capture bib_content %}
+                  {% include bibliography/{{ link.href }}.bib %}
+                {% endcapture %}
+                <pre id="{{ unique_id }}-content"><code class="bibtex">{{ bib_content | strip }}</code></pre>
+                <p class="bib__buttons">
+                  <a class="btn-save" onclick="copyToClipboard('{{ unique_id }}')">
+                    {% include svg/copy.svg %}
+                  </a>
+                  <a href="{{ link.save }}" class="btn-save" target="_blank" download>
+                    {% include svg/save.svg %}
+                  </a>
+                  <span id="{{ unique_id }}-message" class="copy-message" style="display: none;">Copied!</span>
+                </p>
+              </div>
+            {% endif %}
+          {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+

@@ -2,7 +2,7 @@ people:
   aswhite:
     name: Aaron Steven White
     website: http://aaronstevenwhite.io
-    image: aaron-white.jpg
+    image: /assets/images/people/aaron-white.jpg
     projects:
     - megaattitude
     - decomp
@@ -65,7 +65,7 @@ people:
   jgrove:
     name: Julian Grove
     website: http://juliangrove.github.io
-    image: julian-grove.jpg
+    image: /assets/images/people/julian-grove.jpg
     projects:
     - megaattitude
     - pds
@@ -76,7 +76,7 @@ people:
   svashishtha:
     name: Siddharth Vashishtha
     website: https://sidsvash26.github.io/
-    image: siddharth-vashishtha.jpg
+    image: /assets/images/people/siddharth-vashishtha.jpg
     projects:
     - decomp
     - cdae
@@ -91,7 +91,7 @@ people:
   wgantt:
     name: William Gantt Walden
     website: https://wgantt.github.io/
-    image: william-gantt-walden.jpg
+    image: /assets/images/people/william-gantt-walden.jpg
     projects:
     - megaattitude
     - decomp
@@ -109,7 +109,7 @@ people:
   han:
     name: Hannah An
     website: https://anyhannah.github.io/
-    image: hannah-an.jpg
+    image: /assets/images/people/hannah-an.jpg
     projects:
     - megaattitude
     - ellipsis
@@ -120,7 +120,7 @@ people:
   bkane:
     name: Benjamin Kane
     website: https://www.cs.rochester.edu/u/bkane2/
-    image: benjamin-kane.jpg 
+    image: /assets/images/people/benjamin-kane.jpg 
     projects:
     - megaattitude
     - decomp
@@ -131,7 +131,7 @@ people:
   srichter:
     name: Stephanie N. Richter
     website: http://stephrichter.github.io
-    image: stephanie-richter.jpg
+    image: /assets/images/people/stephanie-richter.jpg 
     projects:
     - megaattitude
     - supermereo
@@ -140,7 +140,7 @@ people:
   cacevesrodriguez:
     name: Constanza Aceves Rodriguez
     website: https://consaceves.github.io/
-    image: constanza-acevesrodriguez.jpg 
+    image: /assets/images/people/constanza-acevesrodriguez.jpg
     projects:
     - megaattitude
     papers: null
@@ -148,14 +148,14 @@ people:
   jvalinsky:
     name: Jack Valinsky
     website: https://jackvalinsky.com
-    image: jack-valinsky.jpg
+    image: /assets/images/people/jack-valinsky.jpg
     projects: null
     papers: null
     description: Jack is a second-year MS student in Linguistics advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
   acao:
     name: Angela Cao
     website: https://angelacao8.github.io
-    image: angela-c.jpg
+    image: /assets/images/people/angela-c.jpg 
     projects:
     - decomp
     - supermereo
@@ -166,7 +166,7 @@ people:
   amartin:
     name: Alexander Martin
     website: https://alexmartin1722.github.io/
-    image: alex-martin.jpg
+    image: /assets/images/people/alex-martin.jpg
     projects:
     - cdae
     papers:
@@ -177,14 +177,14 @@ people:
   pliu:
     name: Pinxin Liu
     website: null
-    image: pinxin-liu.jpg
+    image: /assets/images/people/pinxin-liu.jpg
     projects: null
     papers: null
     description: Pinxin is a second-year undergraduate student in Computer Science. His current research focuses on coreference resolution.  
   jdravk:
     name: Jakob Dravk
     website: null
-    image: jakob-dravk.jpg
+    image: /assets/images/people/jakob-dravk.jpg
     projects:
     - ellipsis
     papers: null
@@ -192,7 +192,7 @@ people:
   cgiordano:
     name: Carina Giordano
     website: null
-    image: carina-g.jpg
+    image: /assets/images/people/carina-g.jpg
     projects:
     - ellipsis
     papers: null
@@ -200,7 +200,7 @@ people:
   sedinberg:
     name: Samantha Edinberg
     website: null
-    image: samantha-edinberg.jpg
+    image: /assets/images/people/samantha-edinberg.jpg
     projects:
     - ellipsis
     papers: null
@@ -208,7 +208,7 @@ people:
   ohai:
     name: Steven Oufan Hai
     website: https://www.linkedin.com/in/stevenoufanhai/
-    image: steven-hai.jpg
+    image: /assets/images/people/steven-hai.jpg
     projects:
     - connotate
     papers: null
@@ -216,7 +216,7 @@ people:
   aimtiaz:
     name: Arsal Imtiaz
     website: https://www.linkedin.com/in/arsalimtiaz/
-    image: arsal-imtiaz.jpg
+    image: /assets/images/people/arsal-imtiaz.jpg
     projects:
     - connotate
     papers: null
@@ -224,7 +224,7 @@ people:
   cnair:
     name: Chandrashekar Nair
     website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
-    image: chandrashekar-nair.jpg
+    image: /assets/images/people/chandrashekar-nair.jpg
     projects:
     - connotate
     papers: null
@@ -232,7 +232,7 @@ people:
   zliu:
     name: Zhendong Liu
     website: https://zhendongliu.com/
-    image: zhendong-liu.jpg
+    image: /assets/images/people/zhendong-liu.jpg
     projects:
     - megaattitude
     papers: null
@@ -240,7 +240,7 @@ people:
   wgu:
     name: Weiwei Gu
     website: https://weiweigu1998.github.io/
-    image: weiwei-gu.jpg
+    image: /assets/images/people/weiwei-gu.jpg
     projects:
     - cdae
     papers:
@@ -249,7 +249,7 @@ people:
   emoon:
     name: Ellise Moon
     website: https://eclairemoon.github.io/
-    image: ellise-moon.jpg
+    image: /assets/images/people/ellise-moon.jpg
     projects:
     - megaattitude
     papers:
@@ -258,7 +258,7 @@ people:
   vgovindarajan:
     name: Venkata Govindarajan
     website: https://venkatasg.net/
-    image: venkata-govindarajan.jpg
+    image: /assets/images/people/venkata-govindarajan.jpg
     projects:
     - decomp
     papers:
@@ -268,7 +268,7 @@ people:
   rhamelburg:
     name: Rachel Hamelburg
     website: https://www.linkedin.com/in/rachel-hamelburg/
-    image: rachel-hamelburg.jpg
+    image: /assets/images/people/rachel-hamelburg.jpg
     projects:
     - ellipsis
     papers: null
@@ -276,7 +276,7 @@ people:
   lzong:
     name: Leon Zong
     website: https://leonzong.com/
-    image: leon-zong.jpg
+    image: /assets/images/people/leon-zong.jpg
     projects:
     - zulu
     papers: null
@@ -284,14 +284,14 @@ people:
   wchoi:
     name: Woo Jin Choi
     website: https://wchoi20.github.io/
-    image: woojin-choi.jpeg
+    image: /assets/images/people/woojin-choi.jpeg
     projects: null
     papers: null
     description: WooJin is a first-year PhD student in Linguistics advised by Aaron White. His research interests include natural language understanding.
   cjin:
     name: Chihsheng Jin
     website: https://chihshengj.github.io/
-    image: chihsheng-jin.jpg
+    image: /assets/images/people/chihsheng-jin.jpg
     projects:
     - cdae
     papers: null
@@ -299,7 +299,7 @@ people:
   pkuchmiichuk:
     name: Pavlo Kuchmiichuk
     website: https://www.linkedin.com/in/pkuchmiichuk/
-    image: pavlo-kuchmiichuk.jpg
+    image: /assets/images/people/pavlo-kuchmiichuk.jpg
     projects:
     - lofi
     papers: null

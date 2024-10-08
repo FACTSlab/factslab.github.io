@@ -1,0 +1,15 @@
+<section id="where" class="where__section">
+  <div class="container">
+    <div class="where__row">
+      <h2 class="border"> {{h.where_section.title}} </h2>
+      <div class="map__row">
+        <div class="map fade-in fade-left "><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2911.9738375761385!2d-77.6300986!3d43.126075799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b4c9d2cecd89%3A0xa34659807a2772a7!2sWegmans%20Hall!5e0!3m2!1sen!2sde!4v1726490344751!5m2!1sen!2sde" width="900" height="450" style="border:0; width: 100%; max-width: 100%;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+        <div class="map__details fade-in fade-right ">
+          <h3>{{h.where_section.subtitle}}</h3>
+          {{h.where_section.text | markdownify}}
+          <p>{{h.where_section.address}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

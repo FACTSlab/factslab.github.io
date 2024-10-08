@@ -1,0 +1,163 @@
+people:
+  - name: Aaron Steven White
+    position: Faculty Researchers 
+    page: /people/aaron-steven-white
+    website: http://aaronstevenwhite.io
+    image: /assets/images/people/aaron-white.jpg
+    description: Aaron is an Assistant Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He directs the FACTS.lab and co-leads the <a href="http://megaattitude.io">MegaAttitude Project</a> and the <a href="http://decomp.io">Decompositional Semantic Initiative</a>.
+  - name: Julian Grove
+    position: Postdoctoral Researchers 
+    page: /people/julian-grove
+    website: http://juliangrove.github.io
+    image: /assets/images/people/julian-grove.jpg
+    description: Julian is a post-doc in the FACTS.lab. He is interested in integrating Bayesian probabilistic models of inference with type-theoretic natural language semantics. He is also interested in characterizing dynamic semantic phenomena, such as presupposition, by relying on theories of effects, and determining how those characterizations should be combined with one another. 
+  - name: Hannah An
+    position: Graduate Researchers 
+    page: /people/hannah-an
+    website: https://anyhannah.github.io/
+    image: /assets/images/people/hannah-an.jpg     
+    description: Hannah is a sixth-year PhD student in Computer Science co-advised by Aaron White and <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>. Her research aims to enable AI systems to acquire lexical knowledge for better language understanding. Her current project involves collecting annotated data for verb phrase ellipsis and developing models for identifying and resolving the ellipses. She has also worked on investigating <a href="http://megaattitude.io/projects/mega-negraising/">neg-raising inference triggers</a> using a lexicon-scale dataset.
+  - name: Siddharth Vashishtha
+    position: Graduate Alumni 
+    page: /people/siddharth-vashishtha
+    website: https://sidsvash26.github.io/
+    image: /assets/images/people/siddharth-vashishtha.jpg
+    description: Sid is a Software Engineer at <a href="https://gemini.google.com/">Google Gemini</a>. Sid's dissertation, which he defended in the summer of 2024, focused on extracting information about events from document collections. He led the <a href="https://github.com/FACTSlab/FAMuS">Frames Across Multiple Sources</a> project as well as various projects focused on temporal relation extraction, including the <a href="https://decomp.io/projects/time/">UDS-Time</a> project.  
+  - name: William Gantt Walden
+    position: Graduate Alumni 
+    page: /people/william-gantt-walden
+    website: https://wgantt.github.io/
+    image: /assets/images/people/william-gantt-walden.jpg
+    description: Will is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation, which he defended in the summer of 2024, focused on ways of decomposing and describing the structure of events, and he contributed to a number of projects during his PhD, including the <a href="http://decomp.io/">Decompositional Semantics Initative</a> and the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
+  - name: Benjamin Kane
+    position: Graduate Alumni 
+    page: /people/benjamin-kane
+    website: https://www.cs.rochester.edu/u/bkane2/
+    image: /assets/images/people/benjamin-kane.jpg 
+    description: Ben is an Applied Research Scientist at <a href="https://openstream.ai/">OpenStream.AI</a>. Ben's dissertation, which he defended in the spring of 2024, focused on the development of plan-based dialogue systems. He also contributed to a number of projects during his PhD, including the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
+  - name: Stephanie N. Richter
+    position: Graduate Researchers 
+    page: /people/stephanie-richter
+    website: http://stephrichter.github.io
+    image: /assets/images/people/stephanie-richter.jpg
+    description: Stephanie is a fourth-year PhD student in Linguistics co-advised by Aaron White and <a href="https://asiapietraszko.com/">Asia Pietraszko</a>. Her current research is focused on statistical models of acceptability, prototypicality, and word sense.
+  - name: Constanza Aceves Rodriguez
+    position: Graduate Researchers 
+    page: /people/constanza-aceves-rodriguez
+    website: https://consaceves.github.io/
+    image: /assets/images/people/constanza-acevesrodriguez.jpg 
+    description: Constanza is a second-year PhD student in Linguistics and Computer Science co-advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>, Aaron White, and Nadine Grimm. Her current research focuses on cross-linguistic analysis of English and Spanish clause-embedding verbs.
+  - name: Jack Valinsky
+    position: Graduate Researchers 
+    page: /people/jack-valinsky
+    website: https://jackvalinsky.com
+    image: /assets/images/people/jack-valinsky.jpg
+    description: Jack is a second-year MS student in Linguistics advised by <a href="http://www.sas.rochester.edu/lin/sgrimm/">Scott Grimm</a>. His current research focuses on how lexical and syntactic features affect interpretability and acceptability of degraded environments.
+  - name: Angela Cao
+    position: Graduate Researchers 
+    page: /people/angela-cao
+    website: https://angelacao8.github.io
+    image: /assets/images/people/angela-c.jpg
+    description: Angela is a second-year PhD student in Linguistics advised by Aaron White. Her research interests include using large-scale language data to build models of human reasoning.
+  - name: Alexander Martin
+    position: Undergraduate Alumni 
+    page: /people/alexander-martin
+    website: https://alexmartin1722.github.io/
+    image: /assets/images/people/alex-martin.jpg
+    description: Alex is a third-year undergraduate student in Computer Science. His current research focuses on information extraction and summarization. 
+  - name: Pinxin Liu
+    position: Undergraduate Alumni
+    page: /people/pinxin-liu 
+    website: 
+    image: /assets/images/people/pinxin-liu.jpg
+    description: Pinxin is a second-year undergraduate student in Computer Science. His current research focuses on coreference resolution.  
+  - name: Jakob Dravk
+    position: Undergraduate Alumni
+    page: /people/jakob-dravk 
+    website: 
+    image: /assets/images/people/jakob-dravk.jpg
+    description: Jakob is a fourth-year undergraduate student in Linguistics. His research interests include referring expression generation and coreference.
+  - name: Carina Giordano
+    position: Undergraduate Alumni 
+    page: /people/carina-giordano 
+    website:
+    image: /assets/images/people/carina-g.jpg
+    description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
+  - name: Samantha Edinberg
+    position: Undergraduate Researchers 
+    page: /people/samantha-edinberg 
+    website:
+    image: /assets/images/people/samantha-edinberg.jpg
+    description: Samantha is a third-year undergraduate student in Linguistics. Her research interests include historical, anthropological, socio-economic, and etymological linguistic topics.
+  - name: Steven Oufan Hai
+    position: Undergraduate Alumni 
+    page: /people/steven-oufan-hai
+    website: https://www.linkedin.com/in/stevenoufanhai/
+    image: /assets/images/people/steven-hai.jpg
+    description: Steven is currently pursuing an MS in Computer Science at the University of Alberta. While in the FACTS.lab, his research focused on building a web-based annotation tool.
+  - name: Arsal Imtiaz
+    position: Graduate Alumni 
+    page: /people/arsal-imtiaz
+    website: https://www.linkedin.com/in/arsalimtiaz/
+    image: /assets/images/people/arsal-imtiaz.jpg
+    description: Arsal is currently a software engineer at Everlaw. While in the FACTS.lab, his current research focuses on building fully-featured web-based annotation tools for natural language processing. 
+  - name: Chandrashekar Nair
+    position: Graduate Alumni 
+    page: /people/chandrashekar-nair
+    website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
+    image: /assets/images/people/chandrashekar-nair.jpg
+    description: Chandrashekar is currently a software engineer at Everlaw. While in the FACTS.lab, his research focused on building fully-featured web-based annotation tools for natural language processing.
+  - name: Zhendong Liu
+    position: Graduate Alumni 
+    page: /people/zhendong-liu
+    website: https://zhendongliu.com/
+    image: /assets/images/people/zhendong-liu.jpg
+    description: Zhendong is currently a third-year PhD student in Linguistics at the University of Southern California. While in the FACTS.lab, his research focused on the nature of clause-embedding in Mandarin.
+  - name: Weiwei Gu
+    position: Graduate Alumni 
+    page: /people/weiwei-gu
+    website: 
+    image: /assets/images/people/weiwei-gu.jpg
+    description: Weiwei is currently a third-year PhD student in Computer Science at Arizona State University. While in the FACTS.lab, his research focused on document-level information extraction and question answering. 
+  - name: Ellise Moon
+    position: Graduate Alumni
+    page: /people/ellise-moon 
+    website: https://eclairemoon.github.io/
+    image: /assets/images/people/ellise-moon.jpg
+    description: Ellise is currently a fifth-year PhD student in Linguistics and Philosophy at the University of Rochester. Their current research focuses on countability and count-mass coercion. While in the FACTS.lab, their research focused on <a href="https://ling.auf.net/lingbuzz/005282/current.pdf">the temporal interpretation of nonfinite clause-embedding structures</a>. 
+  - name: Venkata Govindarajan
+    position: Graduate Alumni 
+    page: /people/venkata-govindarajan 
+    website: https://venkatasg.net/
+    image: /assets/images/people/venkata-govindarajan.jpg
+    description: Venkat is currently an Assistant Professor in Computer Science at Ithaca College. Before that, earned his PhD student in Linguistics from the University of Texas, Austin. While in the FACTS.lab, his research focused on <a href="https://doi.org/10.1162/tacl_a_00285">the expression of generalizations in text</a>.
+  - name: Rachel Hamelburg
+    position: Undergraduate Alumni 
+    page: /people/rachel-hamelburg
+    website: https://www.linkedin.com/in/rachel-hamelburg/
+    image: /assets/images/people/rachel-hamelburg.jpg
+    description: Rachel is currently a fourth-year undergraduate student in Linguistics, Spanish, and Comparative Literature at the University of Rochester. Her research interests include information extraction and natural language understanding.
+  - name: Leon Zong
+    position: Undergraduate Researchers 
+    page: /people/leon-zong
+    website: https://leonzong.com/
+    image: /assets/images/people/leon-zong.jpg
+    description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
+  - name: Woo Jin Choi
+    position: Graduate Researchers 
+    page: /people/woo-jin-choi
+    website: https://wchoi20.github.io/
+    image: /assets/images/people/woojin-choi.jpeg
+    description: WooJin is a first-year PhD student in Linguistics advised by Aaron White. His research interests include natural language understanding.
+  - name: Chihsheng Jin
+    position: Graduate Researchers 
+    page: /people/chihsheng-jin
+    website: https://chihshengj.github.io/
+    image: /assets/images/people/chihsheng-jin.jpg
+    description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
+  - name: Pavlo Kuchmiichuk
+    position: Graduate Researchers
+    page: /people/pavlo-kuchmiichuk
+    website: https://www.linkedin.com/in/pkuchmiichuk/
+    image: /assets/images/people/pavlo-kuchmiichuk.jpg
+    description: Pavlo Kuchmiichuk is currently a first-year PhD student in Computer Science advised by Aaron White. His research interests include computational semantics, low-resource NLP, and grammatical error correction.

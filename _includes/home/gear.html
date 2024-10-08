@@ -1,0 +1,17 @@
+<section id="gear" class="gear__section">
+  <div class="container">
+    <h2 class="border"> {{h.gear_section.title}} </h2>
+    <div class="gear__text  ">
+      {{h.gear_section.text | markdownify}}
+    </div>
+    <div class="gear__row fade-in fade-up">
+      <div class="gear__images">
+        {%- for i in h.gear_section.images -%}
+        <img width="561" loading="lazy" class="gear__img {{i.alt}}" alt="{{i.alt}}" title="{{i.alt}}" src="{{i.image}}"
+          >
+          {%- endfor -%}
+        </div>
+    </div>
+  </div>
+
+</section>

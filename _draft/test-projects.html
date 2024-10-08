@@ -1,0 +1,123 @@
+---
+layout: default
+---
+
+<div class="page__header">
+  <div class="container">
+    <h1 class="fade-in fade-up">{{ page.title }}</h1>
+  </div>
+</div>
+
+<div class="page__content">
+  <div class="container">
+    <div class="project__grid">
+      <div class="project__text">
+        <p class="project__desc">{{ page.text | markdownify }}</p>
+      </div>
+      {%- if page.website -%}
+      <a class="button btn" href="{{ page.website }}">Website</a>
+      {%- endif -%}
+      <img width="500" alt="Logo" class="page__decor" src="{{ site.logo }}">
+    </div>
+    <div class="project__people">
+    {%- assign project_id = page.project_id -%}
+    {%- assign people = site.people | where_exp: "person", "person.projects contains project_id" -%}
+    
+    {%- if people.size > 0 -%}
+      <div class="people__working-project">
+        <h2 class="border people-title">Project Members</h2>
+        <div class="people__grid">
+          {%- for person in people -%}
+            <div class="person-page">
+              <a href="{{ person.url }}" class="person-page">
+                <img width="400" style="width: 100%; max-width: 300px; aspect-ratio: 1;" src="{{ person.image }}" alt="{{ person.title }}">
+                <p class="person-page__name">{{ person.title }}</p>
+              </a>
+            </div>
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- endif -%}
+  </div>
+    <div class="project__papers">
+      <h2 class="border papers-title">Papers
+        <a onclick="togglePapers('{{ page.project_id }}')" id="chevron-{{ page.project_id }}">
+          <span class="chevron down"></span>
+        </a>
+      </h2>
+
+      <div id="papers-{{ page.project_id }}" class="csl-bib-body" style="display: none;">
+        {% assign project_papers = site.data.research[page.project_id].papers %}
+        {% for paper in project_papers %}
+        <div class="paper-item">
+          <div class="paper-content">
+            {% include svg/papers.svg %}
+            {% if paper.citation == "bib" %}
+            {% if paper.bib_key %}
+            <div class="citation">
+              {% bibliography -f {{ paper.bib_key }} %}
+            </div>
+            {% else %}
+            {% endif %}
+            {% else %}
+            <span>{{ paper.citation }}</span>
+            {% endif %}
+            {% if paper.links %}
+            <p class="bib-btn">
+              {% for link in paper.links %}
+              {% if link.label == "bib" %}
+              {% assign unique_id = global_counter | append: "-bib" %}
+              {% assign global_counter = global_counter | plus: 1 %}
+              <a class="label" data-target="{{ unique_id }}" onclick="toggleBibliography('{{ unique_id }}')">
+                {{ link.label }}
+              </a>
+            <div id="{{ unique_id }}" class="bibliography-container" style="display: none;">
+              {% capture bib_content %}
+              {% include_relative _bibliography/{{ link.href }}.bib %}
+              {% endcapture %}
+              <pre id="{{ unique_id }}-content"><code class="bibtex">{{ bib_content | strip }}</code></pre>
+              <p class="bib__buttons">
+                <a class="btn-save" onclick="copyToClipboard('{{ unique_id }}')">
+                  {% include svg/copy.svg %}
+                </a>
+                <a href="{{ link.save }}" class="btn-save" target="_blank" download>
+                  {% include svg/save.svg %}
+                </a>
+                <span id="{{ unique_id }}-message" class="copy-message" style="display: none;">Copied!</span>
+              </p>
+            </div>
+            {% else %}
+            <a class="label" href="{{ link.href }}" target="_blank">{{ link.label }}</a>
+            {% endif %}
+            {% endfor %}
+            </p>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      </div>
+    </div>
+
+    
+
+  </div>
+</div>
+
+
+<script>
+  function togglePapers(projectId) {
+    let papersDiv = document.getElementById('papers-' + projectId);
+    let chevron = document.getElementById('chevron-' + projectId).querySelector('.chevron');
+
+    if (papersDiv.style.display === "none" || papersDiv.style.display === "") {
+      papersDiv.style.display = "block";
+      chevron.classList.remove('down');
+      chevron.classList.add('up');
+    } else {
+      papersDiv.style.display = "none";
+      chevron.classList.remove('up');
+      chevron.classList.add('down');
+    }
+  }
+</script>

@@ -1,0 +1,57 @@
+.where__section {
+  .map__row {
+    display: grid;
+    gap: 50px;
+    align-items: center;
+  
+    @media (min-width: 900px) {
+      display: flex;
+      gap: 100px;
+  
+    }
+  }
+
+  .map {
+    flex-grow: 2;
+  }
+  .map__details {
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto;
+
+    @media (min-width: 900px) {
+      margin: 0;
+      text-align: left;
+    }
+
+    a {
+      color: var(--link-color);
+      opacity: 0.8;
+    }
+
+    a:hover {
+      color: var(--main-color);
+
+    }
+  }
+}
+
+
+@media (max-width: 899px) {
+  .map__details {
+    text-align: center;
+  }
+}
+
+.gear__images{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  @media (min-width: 600px) {
+    grid-template-columns: 1fr 1fr;
+  }
+  @media (min-width: 1200px) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}

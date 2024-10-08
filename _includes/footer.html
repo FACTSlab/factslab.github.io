@@ -1,0 +1,54 @@
+{%- assign f = site.data.footer -%}
+{%- assign h = site.data.homepage -%}
+<footer class="footer text-white">
+  <div class="container">
+    <div class="footer-top__grid">
+      <div class="logo">
+        <a href="/"> <img alt="Footer logo" width="60" style="width: 80px;  object-fit: inherit;" src="{{site.footer-logo}}"></a>
+      </div>
+      <div class="footer_links">
+        <p class="footer-title">Quick links</p>
+        <div class="footer-nav">
+          <nav class="nav">
+            <ul class="nav-links">
+              {%- for i in n.nav -%}
+                  <li class="nav-item">
+                    <a href="{{ i.link }}" class="nav-link">{{ i.title }}</a>
+                  </li>
+              {%- endfor -%}
+            </ul>
+          </nav>
+        </div>
+        <p class="footer-title socials">Socials</p>
+        <div class="footer-socials">
+          <a href="https://github.com/factslab">{% include svg/github.svg %} </a>
+          <a href="https://www.linkedin.com/company/facts-lab">{% include svg/linkedin.svg %} </a>
+        </div>
+      </div>
+      <div class="footer__contact">
+        <p class="footer-title">
+          Get In Touch
+        </p>
+        <div class="contact-row">
+
+          <a href="mailto:facts.lab@rochester.edu">{% include svg/email.svg %} facts.lab@rochester.edu</a>
+          <a href="https://maps.app.goo.gl/cZLpCVRenY3gdax39">{% include svg/location.svg %} Wegmans Hall (Room
+            4107)</a>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="footer-bottom__grid">
+      <div class="copyright">
+        <p>
+          Copyright &copy;
+          {{ 'now' | date: "%Y" }}
+          {{f.copyright}}.All rights reserved
+        </p>
+      </div>
+      <a class="privacy" href="/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+</footer>
+<button id="GoTop" title="Go to top" onclick="topFunction()" style="display: none;"><span> &raquo; </span></button>

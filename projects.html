@@ -1,0 +1,22 @@
+---
+layout: page
+title: Our Projects
+description: "Meet the team of researchers and alumni."
+permalink: /projects/
+published: true
+images: /assets/images/factslab-photo.jpg
+---
+{%- assign projects = site.projects -%}
+<section id="projects" class="projects__section nopad">
+  <div class="projects__grid">
+    {%- for p in projects -%}
+    <div class="project-page">
+      <a href="{{ p.url }}" class="project-page">
+        <img width="400" class="img img_{{forloop.index}}" style="width: 100%; max-width: 300px; aspect-ratio: 1.4/1; border: 1px solid #00000014;" src="{{ p.image }}"
+          alt="{{ p.title }}">
+        <p class="project-page__name">{{ p.title }}</p>
+      </a>
+    </div>
+    {%- endfor -%}
+  </div>
+</section>

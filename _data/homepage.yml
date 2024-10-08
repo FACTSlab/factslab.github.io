@@ -1,0 +1,47 @@
+hero_section:
+  title: The <span style="color:#415DA5">F</span>ormal <span style="color:#415DA5">A</span>nd <span style="color:#415DA5">C</span>ompu<span style="color:#415DA5">T</span>ational <span style="color:#415DA5">S</span>emantics lab <span style="color:#415DA5">(FACTS.lab)</span> at the University of Rochester
+
+grey__section:
+  title: Mission
+  text: |
+    The human ability to convey information about possible past, present, and future configurations of things in the world is undergirded by systematic relationships between intricately structured linguistic expressions and the dizzying array of conceptual categories available to humans. 
+
+about_section:
+  title: About
+  image: /assets/images/facts-logo-blue.png
+  text: |
+    FACTS.lab at the [University of Rochester](https://www.rochester.edu/) investigates (a) which of these conceptual categories can be related to which sorts of linguistic expressions, (b) what those relationships look like, and (c) how they can be leveraged for building better natural language understanding (NLU) systems.
+
+people_section:
+  title: Our Members
+  image: /assets/images/aaron-white.jpg
+  btn: See All
+  btn-link: "/people"
+  text: |
+    I’m an Associate Professor in the <a href="http://www.sas.rochester.edu/lin/index.html">Department of Linguistics</a> at the University of Rochester, with a secondary appointment in the <a href="https://www.cs.rochester.edu/">Department of Computer Science</a> and an affiliation with the <a href="http://www.sas.rochester.edu/dsc/">Goergen Institute for Data Science</a>. I’m also Director of  the <a href="http://factslab.io">FACTS.lab</a> at UR. An overview of my research  can be found <a href="/research">here</a>.
+
+gear_section: 
+  title: Gear
+  text: |
+    FACTS.lab has shirts, hats, mugs, and stickers. Send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu) if you're interested in getting some.
+  images:
+    - image: /assets/images/gear/dad-hat.png
+      alt: hat
+    - image: /assets/images/gear/mug.png
+      alt: mug
+    - image: /assets/images/gear/shirt.png
+      alt: shirt
+    - image: /assets/images/gear/sticker.png
+      alt: sticker
+
+where_section: 
+  title: Where We Are
+  text: |
+    <strong  style="color: #415DA5">See Where we are and <br>Get  directions on the map</strong>
+  subtitle: Location
+  address: Wegmans Hall 4107
+
+contact_section:
+  title: Contact Us
+  text: |
+    If you're interested in joining FACTS.lab or collaborating with its members, you can send an email to [facts.lab@rochester.edu](mailto:facts.lab@rochester.edu) or by filling out the form right here

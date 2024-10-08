@@ -1,0 +1,33 @@
+{%- assign positions_order = "Faculty,Postdocs,Grads,Undergrads,Grad Alumni,Undergrad Alumni" | split: ',' -%}
+
+<section class="people__section">
+  <div class="container">
+    <h2 class="border">{{ h.people_section.title }}</h2>
+    <div class="people__row fade-in fade-up">
+      <div class="person__grid">
+        {%- assign total_people = 0 -%}
+        
+        {%- for position in positions_order -%}
+          {%- assign filtered_people = site.people | where: 'category', position -%}
+          
+          {%- if filtered_people.size > 0 -%}
+            {%- assign sorted_people = filtered_people | sort: 'order' -%}
+            {%- for p in sorted_people -%}
+              {%- if total_people < 3 -%} 
+                <a class="person person-{{ total_people | plus: 1 }}" href="{{ p.url }}" aria-label="People">
+                  <img width="400" loading="lazy" style="width: 100%; max-width: 350px;" src="{{ p.image }}" alt="{{ p.title }}">
+                  <p class="name">{{ p.title }}</p>
+                </a>
+                {%- assign total_people = total_people | plus: 1 -%} 
+              {%- endif -%}
+            {%- endfor -%}
+            
+          {%- endif -%}
+          
+        {%- endfor -%}
+      </div>
+
+      <div class="people__btn"><a class="button" href="/people">See More</a></div>
+    </div>
+  </div>
+</section>

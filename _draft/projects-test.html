@@ -1,0 +1,122 @@
+---
+layout: default
+---
+
+<div class="page__header">
+  <div class="container">
+    <h1 class="fade-in fade-up">{{ page.title }}</h1>
+  </div>
+</div>
+
+<div class="page__content">
+  <div class="container">
+    <div class="project__grid">
+      <div class="project__text">
+        <p class="project__desc">{{ page.text | markdownify }}</p>
+      </div>
+      {%- if page.website -%}
+      <a class="button btn" href="{{ page.website }}">Website</a>
+      {%- endif -%}
+      <img width="500" alt="Logo" class="page__decor" src="{{ site.logo }}">
+    </div>
+    <div class="project__people">
+      {%- assign project_id = page.project_id -%}
+      {%- assign people = site.people | where_exp: "person", "person.projects contains project_id" -%}
+
+      {%- if people.size > 0 -%}
+      <div class="people__working-project">
+        <h2 class="border people-title">Project Members</h2>
+        <div class="people__grid">
+          {%- for person in people -%}
+          <div class="person-page">
+            <a href="{{ person.url }}" class="person-page">
+              <img width="400" style="width: 100%; max-width: 280px; aspect-ratio: 1;" src="{{ person.image }}"
+                alt="{{ person.title }}">
+              <p class="person-page__name">{{ person.title }}</p>
+            </a>
+          </div>
+          {%- endfor -%}
+        </div>
+      </div>
+      {%- endif -%}
+    </div>
+    <div class="project__papers">
+      <h2 class="border papers-title">Papers
+        <a onclick="togglePapers('{{ page.project_id }}')" id="chevron-{{ page.project_id }}">
+          <span class="chevron down"></span>
+        </a>
+      </h2>
+
+      <div id="papers-{{ page.project_id }}" class="csl-bib-body" style="display: none;">
+        {% assign project_papers = site.data.research[page.project_id].papers %}
+        {% for paper in project_papers %}
+        <div class="paper-content">
+          {% include svg/papers.svg %}
+          <p>{{ paper.citation }}</p>
+          {% if paper.links %}
+          <div class="buttons">
+            {% for link in paper.links %}
+            <a class="button" href="{{ link.href }}">{{ link.label }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+
+
+  </div>
+</div>
+
+
+<script>
+  function togglePapers(projectId) {
+    let papersDiv = document.getElementById('papers-' + projectId);
+    let chevron = document.getElementById('chevron-' + projectId).querySelector('.chevron');
+
+    if (papersDiv.style.display === "none" || papersDiv.style.display === "") {
+      papersDiv.style.display = "block";
+      chevron.classList.remove('down');
+      chevron.classList.add('up');
+    } else {
+      papersDiv.style.display = "none";
+      chevron.classList.remove('up');
+      chevron.classList.add('down');
+    }
+  }
+</script>
+
+{%- assign project_id = page.project_id -%}
+{%- assign all_people = site.data.people.people -%}
+{%- assign related_people = "" -%}
+
+{%- for person_id in all_people -%}
+{%- assign person_data = person_id[1] -%}
+{%- if person_data.projects contains project_id -%}
+{%- assign related_people = related_people | append: person_id[0] | append: "," -%}
+{%- endif -%}
+{%- endfor -%}
+
+{%- if related_people != "" -%}
+<div class="people__project">
+  <h2 class="border">Project Members</h2>
+  <div class="people__grid">
+
+    {%- assign related_people_list = related_people | split: "," -%}
+    {%- for person_id in related_people_list -%}
+    {%- assign person_page = site.people | where: "person_id", person_id | first -%}
+
+    <div class="person-page">
+      <a href="{{ person_page.url }}" class="person-page">
+        <img width="400" style="width: 100%; max-width: 280px; aspect-ratio: 1;" src="{{ person_page.image }}"
+          alt="{{ person_page.title }}">
+        <p class="person-page__name">{{ person_page.title }}</p>
+      </a>
+    </div>
+
+    {%- endfor -%}
+  </div>
+</div>
+{%- endif -%}

@@ -1,0 +1,42 @@
+---
+layout: page
+title: Our Members
+description: "Meet the team of researchers and alumni." 
+permalink: /people/
+published: true
+images: /assets/images/factslab-photo.jpg
+---
+{%- assign positions_order = "Faculty,Postdocs,Grads,Undergrads,Grad Alumni,Undergrad Alumni" | split: ',' -%}
+
+<section id="people" class="people__section nopad">
+  <div class="filter-wrapper">
+    <span class="arrow left-arrow" onclick="scrollLeftAction()">&#10094;</span>
+    <div id="filterContainer" class="scroll-container">
+      <button class="filter-btn active" onclick="filterSelection('all')">All</button>
+      {%- for position in positions_order -%}
+      <button class="filter-btn" onclick="filterSelection('{{ position | downcase | replace: ' ', '-' }}')">{{ position }}</button>
+      {%- endfor -%}
+    </div>
+    <span class="arrow right-arrow" onclick="scrollRightAction()">&#10095;</span>
+  </div>
+  <div class="people-grid">
+    {%- for position in positions_order -%}
+      {%- assign filtered_people = site.people | where: 'category', position -%}
+    
+      {%- if filtered_people.size > 0 -%}
+        {%- assign sorted_people = filtered_people | sort: 'order' -%}
+
+        {%- for p in sorted_people -%}
+        <div class="person-page__grid {{ position | downcase | replace: ' ', '-' }}">
+          <a href="{{ p.url }}" class="person-page">
+            <img width="400" style="width: 100%; max-width: 280px; aspect-ratio: 1;" src="{{ p.image }}" alt="{{ p.title }}">
+            <p class="person-page__name">{{ p.title }}</p>
+          </a>
+        </div>
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+</section>
+
+<script src="/assets/js/people-filter.js"></script>

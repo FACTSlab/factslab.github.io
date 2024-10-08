@@ -1,0 +1,155 @@
+.header {
+  height: 74px;
+}
+
+.header__nav {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+
+  @media (min-width: 768px) {
+    padding: 40px 0;
+    gap: 30px;
+  }
+}
+
+
+a .logo-img {
+  display: inline-block;
+  object-fit: inherit;
+  padding: 0 5px;
+  width: 50px;
+
+  @media (min-width: 768px) {
+    width: 60px;
+  }
+}
+
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0;
+  margin: 0;
+  gap: 15px; 
+}
+
+.nav-item {
+  position: relative;
+  .arrow {
+    cursor: pointer;
+    font-size: 0.7rem;
+    color: var(--main-color);
+    padding: 0 10px;
+    user-select: none;
+  }
+  .up-arrow {
+    position: absolute;
+    right: -8px; 
+    top: 2px; 
+    transform: rotate(90deg);
+    transition: transform 0.3s ease;
+  }
+}
+
+.nav-link {
+  font-size: 0.8rem;
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: 500;
+  text-transform: lowercase;
+  padding: 10px 0;
+
+  @media (min-width: 768px) {
+    padding-right: 20px;
+  }
+}
+
+
+.nav-link:hover {
+  color: var(--main-color);
+  font-weight: 500;
+}
+
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  background-color: var(--text-color);
+  border-radius: 5px;
+  list-style: none;
+  min-width: 150px;
+  padding: 0;
+  margin: 0;
+  z-index: 999; 
+}
+
+.dropdown-link {
+  font-size: 0.8rem;
+  padding: 10px;
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+
+.nav-item:hover .dropdown-menu {
+  display: block;
+}
+.nav-item:hover .up-arrow,
+.nav-item.active .up-arrow {
+  transform: rotate(-90deg); 
+}
+@media (max-width: 1440px) {
+
+  .dropdown-menu {
+    right: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+    align-items: flex-end;
+    position: relative;
+    justify-content: flex-end;
+    gap: 7px;
+  }
+
+  .projects{
+    margin-right: 10px;
+  }
+
+  .nav-link {
+    width: 100%;
+    padding: 5px 5px 15px;
+  }
+
+  .dropdown-menu {
+    position: absolute;
+    top: 100%; 
+    background-color: var(--text-color);
+    width: 100%;
+    display: none;
+    z-index: 999;
+  }
+
+  .nav-item:hover .dropdown-menu,
+  .nav-item.active .dropdown-menu {
+    display: block;
+  }
+
+  .dropdown-link {
+    padding: 5px 10px;
+    background-color: var(--text-color);
+  }
+  .nav-item:hover .up-arrow,
+  .nav-item.active .up-arrow {
+    transform: rotate(-90deg);
+  }
+}

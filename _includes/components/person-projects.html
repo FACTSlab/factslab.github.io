@@ -1,0 +1,32 @@
+{%- assign person_projects = site.data.people.people[page.person_id].projects -%}
+{%- if person_projects and person_projects.size > 0 -%}
+{%- assign valid_projects = false -%}
+
+{%- for project_id in person_projects -%}
+{%- assign person_project = projects | where: "project_id", project_id | first -%}
+{%- if person_project -%}
+{%- assign valid_projects = true -%}
+{%- break -%}
+{%- endif -%}
+{%- endfor -%}
+
+{%- if valid_projects -%}
+<div class="people__project">
+  <h2 class="border">Work Over</h2>
+  <div class="projects__grid">
+    {%- for project_id in person_projects -%}
+    {%- assign person_project = projects | where: "project_id", project_id | first -%}
+    {%- if person_project -%}
+    <div class="project-page">
+      <a href="{{ person_project.url }}" class="project-page">
+        <img width="400" style="width: 100%; max-width: 300px; aspect-ratio: 1.4/1; border: 1px solid #00000014;"
+          src="{{ person_project.image }}" alt="{{ person_project.title }}">
+        <p class="project-page__name">{{ person_project.title }}</p>
+      </a>
+    </div>
+    {%- endif -%}
+    {%- endfor -%}
+  </div>
+</div>
+{%- endif -%}
+{%- endif -%}

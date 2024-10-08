@@ -1,0 +1,23 @@
+nav:
+- title: about
+  link: /
+  page_id: about
+- title: people
+  link: /people
+  page_id: people
+- title: projects
+  link: /projects
+  page_id: projects
+  children:
+    - title: Decomp
+      link: /projects/decomp
+      page_id: decomp
+    - title: MegaAttitude
+      link: /projects/megaattitude
+      page_id: megaattitude
+    - title: SuperMereo
+      link: /projects/supermereo
+      page_id: SuperMereo
+    - title: LoFI
+      link: /projects/lofi
+      page_id: lofi

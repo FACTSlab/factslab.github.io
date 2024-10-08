@@ -1,0 +1,216 @@
+.paper-content {
+  font-family: Georgia, Times New Roman, Times, serif;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 20px 1fr;
+  gap: 10px;
+  padding: 7px;
+  border-radius: 5px;
+  padding: 10px;
+  background: #cccccc14;
+  border-radius: 5px;
+  margin-bottom: 10px;
+
+  @media (min-width:375px) {
+    padding: 15px;
+  }
+
+  @media (min-width:500px) {
+    padding: 30px;
+    grid-template-columns: 40px 1fr;
+    gap: 15px;
+  }
+
+}
+
+.papers-title {
+  color: var(--main-color);
+}
+
+.buttons {
+  margin-top: 10px;
+  gap: 10px;
+  display: inline-flex;
+  z-index: 5;
+  margin-bottom: auto;
+  margin-left: 30px;
+
+
+  & a,
+  & button {
+    padding: 0 .6rem 0;
+    font-size: .7rem;
+    line-height: 1.2rem;
+    border-radius: .2rem;
+    border: 1px solid var(--main-color);
+    background-color: transparent;
+    color: var(--main-color);
+    margin-top: 0;
+
+  }
+
+  & a:hover,
+  button:hover {
+    border: 1px solid var(--text-color);
+    background-color: var(--main-color);
+    color: white;
+    cursor: pointer;
+  }
+
+  @media (min-width: 500px) {
+    margin-left: 50px;
+  }
+
+}
+
+.chevron {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-right: 2px solid var(--main-color);
+  border-bottom: 2px solid var(--main-color);
+  transform: rotate(45deg);
+  transition: transform 0.3s ease;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.chevron.down {
+  transform: rotate(45deg);
+  margin-bottom: 5px;
+}
+
+.chevron.up {
+  transform: rotate(-135deg);
+  margin-bottom: 0;
+}
+
+svg {
+  margin-top: 2px;
+  width: 25px;
+
+  @media (min-width:500px) {
+    margin-top: 5px;
+    width: 35px;
+  }
+}
+
+ol.bibliography {
+  list-style: none;
+  word-break: break-word;
+}
+
+.bibliography li {
+  list-style: none;
+
+  @media (max-width:500px) {
+    word-break: break-word;
+  }
+}
+
+.bibliography-container {
+  padding: 5px 9px;
+  text-align: left;
+  z-index: 30;
+  background: white;
+  margin-top: 50px;
+
+  @media (max-width: 345px) {
+    max-width: 250px;
+    margin-left: -30px;
+  }
+
+  @media (max-width: 355px) {
+    max-width: 270px;
+  }
+}
+
+.bib-btn {
+  margin-top: 10px;
+  gap: 10px;
+  display: inline-flex;
+  z-index: 5;
+  margin-bottom: auto;
+  margin-left: 30px;
+
+  @media (max-width: 340px) {
+    margin-left: 5px;
+  }
+
+  & a,
+  & button {
+    padding: 0 .6rem 0;
+    font-size: .7rem;
+    line-height: 1.2rem;
+    border-radius: .2rem;
+    border: 1px solid var(--main-color);
+    background-color: transparent;
+    color: var(--main-color);
+
+  }
+
+  & a:hover,
+  button:hover {
+    border: 1px solid var(--text-color);
+    background-color: var(--main-color);
+    color: white;
+    cursor: pointer;
+  }
+
+  @media (min-width: 500px) {
+    margin-left: 50px;
+  }
+
+}
+
+pre {
+  font-family: 'Courier New', Courier, monospace;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: auto;
+  font-size: 0.7rem;
+  line-height: 1rem;
+}
+
+
+code {
+  font-family: "Courier New", Courier, monospace;
+  background-color: transparent;
+  display: block;
+  overflow-x: auto;
+  word-break: break-word;
+}
+
+
+.bib__buttons {
+  display: flex;
+  align-items: end;
+  gap: 10px;
+  justify-content: end;
+  position: relative;
+}
+
+.btn-save {
+  float: right;
+  font-size: 0.8rem;
+  display: flex;
+
+  &:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
+}
+
+.copy-message {
+  position: absolute;
+  right: 80px;
+  bottom: 5px;
+  color: var(--main-color);
+  font-size: 1rem;
+}
+
+

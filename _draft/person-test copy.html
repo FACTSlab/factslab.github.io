@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+{%- assign projects = site.projects -%}
+<div class="page__header">
+  <div class="container">
+    <h1 class="fade-in fade-up">{{ page.title }}</h1>
+  </div>
+</div>
+
+<div class="page__content">
+  <div class="container">
+    <div class="box__grid">
+      <img width="500" style="max-width: 450px; width: 100%;" src="{{ page.image }}" alt="{{ page.title }}">
+      <div class="page__text">
+        <span><strong>{{ page.position }}</strong></span>
+        <p class="page__desc">{{ page.text }}</p>
+        {%- if page.website -%}
+        <a class="button btn" href="{{ page.website }}">Website</a>
+        {%- endif -%}
+      </div>
+      <img width="500" alt="Logo" class="page__decor" src="{{site.logo}}">
+    </div>
+    {%- if page.projects and page.projects.size > 0 -%}
+    {%- assign valid_projects = false -%}
+    
+    {%- for project_id in page.projects -%}
+      {%- assign person_project = projects | where: "project_id", project_id | first -%}
+      {%- if person_project -%}
+        {%- assign valid_projects = true -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if valid_projects -%}
+      <div class="people__project">
+        <h2 class="border ">Work Over</h2>
+        <div class="projects__grid">
+          {%- for project_id in page.projects -%}
+            {%- assign person_project = projects | where: "project_id", project_id | first -%}
+            {%- if person_project -%}
+              <div class="project-page">
+                <a href="{{ person_project.url }}" class="project-page">
+                  <img width="400" style="width: 100%; max-width: 300px; aspect-ratio: 1.4/1; border: 1px solid #00000014;" src="{{ person_project.image }}" alt="{{ person_project.title }}">
+                  <p class="project-page__name">{{ person_project.title }}</p>
+                </a>
+              </div>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- endif -%}
+  {%- endif -%}
+  {% if page.papers %}
+  <h2 class="border papers-title">Papers
+    <a onclick="togglePapers('papers-section')" id="chevron-papers-section">
+      <span class="chevron down"></span>
+    </a>
+  </h2>
+  <div class="publications" id="papers-section" style="display: none;">
+      {% for paper in page.papers %}
+        <div class="paper-item">
+          <div class="paper-content">
+            {% include svg/papers.svg %}
+            <div class="bibliography-container">
+              {% bibliography --file {{paper}} %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+  </div>
+{% endif %}
+
+
+
+  
+  </div>
+</div>
+
+<script>
+  function togglePapers(sectionId) {
+    let papersDiv = document.getElementById(sectionId); 
+    let chevron = document.getElementById('chevron-' + sectionId).querySelector('.chevron'); 
+
+    if (papersDiv.style.display === "none" || papersDiv.style.display === "") {
+      papersDiv.style.display = "block"; 
+      chevron.classList.remove('down');
+      chevron.classList.add('up');
+    } else {
+      papersDiv.style.display = "none"; 
+      chevron.classList.remove('up'); 
+      chevron.classList.add('down');
+    }
+  }
+</script>

@@ -1,0 +1,22 @@
+{%- assign project_id = page.project_id -%}
+{%- assign all_people = site.data.people.people -%}
+<div class="people__working-project">
+  <div class="people__project">
+    <h2 class="border">Project Members</h2>
+    <div class="people__grid">
+      {%- for person in all_people -%}
+      {%- assign person_data = person[1] -%}
+      {%- if person_data.projects contains project_id -%}
+      {%- assign person_page = site.people | where: "person_id", person[0] | first -%}
+      <div class="person-page">
+        <a href="{{ person_page.url }}" class="person-page">
+          <img src="{{ person_page.image }}" alt="{{ person_page.title }}" style="width: 100%; max-width: 280px;">
+          <p class="person-page__name">{{ person_page.title }}</p>
+        </a>
+      </div>
+      {%- endif -%}
+
+      {%- endfor -%}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,94 @@
+/* All Projects page CSS Start*/
+.people__project{
+  margin: 100px 0 0;
+}
+.people__papers{
+  margin: 100px 0 0;
+}
+
+.projects__grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  row-gap: 30px;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.project-page{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 15px;
+  &:hover img{
+    box-shadow:  4px 4px 6px -1px rgba(0, 0, 0, 0.2),
+     -4px -4px 6px -1px rgba(255, 255, 255, 0.7),
+    -0.5px -0.5px 0px rgba(255, 255, 255, 1),
+    0.5px 0.5px 0px rgba(0, 0, 0, 0.15), 0px 12px 10px -10px rgba(0, 0, 0, 0.05);
+    transform: translateY(-15px);
+    transition: all 0.3s ease-in-out;
+  }
+  &:hover .project-page__name {
+    transform: translateY(-15px);
+    transition: all 0.3s ease-in-out;
+    color: var(--link-color);
+  }
+}
+
+/* All Projects page CSS End*/
+
+
+/* Project page CSS Start*/
+.project__grid {
+  position: relative;
+
+  .project__desc {
+    padding: 0;
+  }
+
+  .button {
+    margin-top: 10px;
+  }
+
+  .page__decor {
+    width: 100%;
+    max-width: 400px;
+    position: absolute;
+    right: -150px;
+    bottom: 200px;
+    opacity: 0.02;
+
+    @media (min-width: 500px) {
+      max-width: 450px;
+      right: -200px;
+      bottom: -60px;
+    }
+  }
+}
+
+.project__papers h2 {
+  margin: 50px 0;
+  border-bottom: 1px solid;
+  padding-bottom: 10px;
+}
+.people__working-project{
+  .people-title{
+    margin: 100px 0 50px;
+  }
+  .people__grid{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    row-gap: 30px;
+    justify-content: center;
+    margin-top: 15px;
+    }
+}
+
+/* Project page CSS End*/
+
+
+
+
+

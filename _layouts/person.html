@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{%- assign page_data = site.data.people.people | where: "person_id", page.person_id | first -%}
+{%- assign all_papers = site.data.papers.papers -%}
+{%- assign projects = site.projects -%}
+{%- assign person = site.data.people.people[page.person_id] -%}
+<div class="page__header">
+  <div class="container">
+    <h1 class="fade-in fade-up">{{ page.title }}</h1>
+  </div>
+</div>
+
+<div class="page__content">
+  <div class="container">
+    <div class="box__grid">
+      <img width="500" style="max-width: 450px; width: 100%;" src="{{ person.image }}" alt="{{ person.name }}">
+      <div class="page__text">
+        <span><strong>{{ page.position }}</strong></span>
+        <p class="page__desc">{{ person.description }}</p>
+        {%- if person.website -%}
+        <a class="button btn" href="{{ person.website }}">Website</a>
+        {%- endif -%}
+      </div>
+      <img width="500" alt="Logo" class="page__decor" src="{{ site.logo }}">
+    </div>
+
+    <!-- Projects Section -->
+    {%- include components/person-projects.html -%}
+    <!-- Papers Section -->
+    {%- include components/person-papers.html -%}
+  </div>
+</div>
+
+<script src="/assets/js/bib.js"></script>
+<script src="/assets/js/paper-arrow.js"></script>

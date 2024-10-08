@@ -1,118 +1,63 @@
-# Base blog settings
-baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
-                              # set to '' in case of hosting on GitHub
-url                          : "http://factslab.io" # the base hostname & protocol for your site
-                                  # `http://factslab.github.io` - for GitHub
-# url                          : 127.0.0.1
+title: FACTS.lab
+email: facts.lab@rochester.edu
+description: >- 
+  Formal And CompuTational Semantics lab at the University of Rochester
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: Aaron Steven White
+logo: /assets/images/facts-logo.png
+footer-logo: /assets/images/facts-logo-white.png
+# Build settings
 
-blog:
-  title                      : FACTS.lab
-  description                : Formal And CompuTational Semantics lab at the University of Rochester
-
-# Layout configuration
-  logo_path                  : "assets/img/FACTS-logo-only-blue.svg" # path to logo file
-  search_path                : # "factslab.io"
-                               # needed for searchbox in archive page
-  hero_layout                : false # turn on hero layout for blog and posts
-  hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
-  excerpts                   : true # show excerpts instead of full post content on blog page
-  inline_footnotes           : true # enable/disable barefoot inline footnotes
-  titles_only                : false # show post titles only on main blog page
-
-# Fonts
-  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
-
-
-# Author info
-author:
-  fullname                  : FACTS.lab
-  rss                       : false # generate RSS feed and show it's icon in header
-  mail                      : facts.lab@rochester.edu # change to your e-mail address
-  #twitter                   : factsemlab
-  github                    : factslab
-  #youtube                   : youtube-user-name
-  #stackoverflow             : stackoverflow-user-name
-  disqus                    : factslab # your disqus site name
-  google_analytics          : 'UA-113465669-1'
-  photo                     : "assets/img/FACTS-logo-only-blue.svg"
-  photo2x                   : "assets/img/FACTS-logo-only-blue.svg"
-
-
-
-## !!
-## Advanced blog settings
-## You should not change anything here unless you know what you are doing
-
-# Gems
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll/scholar
+
 
 # Permalinks
-permalink                    : posts/:slug
+permalink: pretty
 
-# Posts
-excerpt_separator            : <!–-break-–>
-
-# Pagination
-paginate                     : 5
-paginate_path                : '/page-:num/'
-
-# Tags
+# Collections
 collections:
-  my_tags:
+  pages:
     output: true
-    permalink: /tag/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: blog-by-tag
+    permalink: /:path/
+  posts:
+    output: true
+    permalink: /blog/:name/
+  people:
+    output: true
+    permalink: /people/:name/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-# Handling Reading
-exclude                    : ["README.md", "README.html"]
+  
 
-# https://github.com/jekyll/jekyll/issues/4619
-# Markdown and highlighter settings
-markdown: kramdown
-# !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
-# Since Jekyll 3 the default highlighter is Rouge (replaced Pygments.rb in v44)
 highlighter: rouge
 
-# More › http://kramdown.gettalong.org/quickref.html
-# Options › http://kramdown.gettalong.org/options.html
-kramdown:
-  input:          GFM
-  # https://github.com/jekyll/jekyll/pull/4090
-  syntax_highlighter: rouge
+include_dir: "."
 
-  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
-  # span, block element options fall back to global
-  syntax_highlighter_opts:
-    # Rouge Options › https://github.com/jneen/rouge#full-options
-    # css_class: 'highlight'
-    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
+scholar:
+  style: unified-style-sheet-for-linguistics.csl  
+  source: assets/bibliography                 
+  # bibliography: aaronstevenwhite.bib          
+  details_link: true                             
+  locale: en                                    
 
-# Sass settings
-sass:
-  sass_dir                : _sass
-  style                   : compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings               : all
-  endings                 : all
-  comments                : ["<!-- ", " -->"]
-  blanklines              : true
-  profile                 : false
-  ignore:
-  envs                    : [local]
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
