@@ -12,7 +12,7 @@
 
 {%- if valid_projects -%}
 <div class="people__project">
-  <h2 class="border">Work Over</h2>
+  <h2 class="border">Projects</h2>
   <div class="projects__grid">
     {%- for project_id in person_projects -%}
     {%- assign person_project = projects | where: "project_id", project_id | first -%}
