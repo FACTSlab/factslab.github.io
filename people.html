@@ -27,7 +27,7 @@ images: /assets/images/factslab-photo.jpg
         {%- assign sorted_people = filtered_people | sort: 'order' -%}
 
         {%- for p in sorted_people -%}
-        <div class="person-page__grid {{ position | downcase | replace: ' ', '-' }}">
+        <div class="person-page__grid {{ position | downcase | replace: ' ', '-' }}" style="display: {%- case position -%}{%- when 'PhD Alumni','Masters Alumni','Undergrad Alumni' -%}none{%- else -%}block{% endcase %}">
           <a href="{{ p.url }}" class="person-page">
             <img width="400" style="width: 100%; max-width: 280px; aspect-ratio: 1;" src="{{ p.image }}" alt="{{ p.title }}">
             <p class="person-page__name">{{ p.title }}</p>

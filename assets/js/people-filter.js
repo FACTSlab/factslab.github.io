@@ -1,9 +1,20 @@
 function filterSelection(category) {
   let items = document.getElementsByClassName("person-page__grid");
 
+  let alumniCategories = [
+    "phd-alumni", "masters-alumni", "undergrad-alumni"
+  ];
+
   if (category === "all") {
     for (let i = 0; i < items.length; i++) {
-      items[i].style.display = "block";
+      let isNotAlumnus = alumniCategories.every(
+        c => !items[i].classList.contains(c)
+      );
+      if (isNotAlumnus) {
+        items[i].style.display = "block";
+      } else {
+        items[i].style.display = "none";
+      }
     }
   } else {
     for (let i = 0; i < items.length; i++) {
