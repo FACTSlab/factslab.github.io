@@ -61,7 +61,7 @@ people:
     - altshuler_double_2015
     - moon_source_2020
     - fetters_pseudogapping_2017
-    description: Aaron is an Associate Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He directs the FACTS.lab and co-leads the <a href="http://megaattitude.io">MegaAttitude Project</a> and the <a href="http://decomp.io">Decompositional Semantic Initiative</a>.
+    description: Aaron is an Associate Professor in the Department of Linguistics at the University of Rochester, with a secondary appointment in the Department of Computer Science and an affiliation with the Goergen Institute for Data Science. He directs the FACTS.lab.
   jgrove:
     name: Julian Grove
     website: http://juliangrove.github.io
@@ -73,6 +73,16 @@ people:
     - grove_factivity_2024
     - grove_modeling_2024
     description: Julian is a post-doc in the FACTS.lab. He is interested in integrating Bayesian probabilistic models of inference with type-theoretic natural language semantics. He is also interested in characterizing dynamic semantic phenomena, such as presupposition, by relying on theories of effects, and determining how those characterizations should be combined with one another. 
+  gkim:
+    name: Gene Kim
+    website: https://cse.usf.edu/~genekim/
+    image: /assets/images/people/gene-kim.jpg
+    projects:
+    - megaattitude
+    - lofi
+    papers:
+    - kim_montague_2021
+    description: Gene is an Assistant Professor at the University of South Florida's Department of Computer Science and Engineering and Director of the Language GRASP Lab. Gene's dissertation, which he defended in 2022 under the supervision of Len Schubert, focused on the development of underspecified logical representations for modeling language meaning. He also contributed to a number of projects in the FACTS.lab during his PhD, including LoFI.
   svashishtha:
     name: Siddharth Vashishtha
     website: https://sidsvash26.github.io/
@@ -87,7 +97,7 @@ people:
     - vashishtha_temporal_2020
     - white_universal_2020
     - vashishtha_fine-grained_2019
-    description: Sid is a Software Engineer at <a href="https://gemini.google.com/">Google Gemini</a>. Sid's dissertation, which he defended in the summer of 2024, focused on extracting information about events from document collections. He led the <a href="https://github.com/FACTSlab/FAMuS">Frames Across Multiple Sources</a> project as well as various projects focused on temporal relation extraction, including the <a href="https://decomp.io/projects/time/">UDS-Time</a> project.  
+    description: Sid is a Software Engineer at <a href="https://gemini.google.com/">Google Gemini</a>. Sid's dissertation, which he defended in 2024, focused on extracting information about events from document collections. He led the <a href="https://github.com/FACTSlab/FAMuS">Frames Across Multiple Sources</a> project as well as various projects focused on temporal relation extraction, including the <a href="https://decomp.io/projects/time/">UDS-Time</a> project.  
   wgantt:
     name: William Gantt Walden
     website: https://wgantt.github.io/
@@ -105,7 +115,7 @@ people:
     - chen_iterative_2023
     - gantt_decomposing_2022
     - gantt_natural_2020
-    description: Will is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation, which he defended in the summer of 2024, focused on ways of decomposing and describing the structure of events, and he contributed to a number of projects during his PhD, including the <a href="http://decomp.io/">Decompositional Semantics Initative</a> and the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
+    description: Will is a Research Scientist at the <a href="https://hltcoe.jhu.edu/">Human Language Technology Center of Excellence</a> at Johns Hopkins University. Will's dissertation, which he defended in 2024 under the supervision of Aaron Steven White, focused on ways of decomposing and describing the structure of events. He contributed to a number of projects during his PhD, including Decomp and MegaAttitude.
   han:
     name: Hannah An
     website: https://anyhannah.github.io/
@@ -127,7 +137,7 @@ people:
     papers:
     - kane_intensional_2022
     - gantt_natural_2020
-    description: Ben is an Applied Research Scientist at <a href="https://openstream.ai/">OpenStream.AI</a>. Ben's dissertation, which he defended in the spring of 2024, focused on the development of plan-based dialogue systems. He also contributed to a number of projects during his PhD, including the <a href="http://megaattitude.io/">MegaAttitude Project</a>.
+    description: Ben is an Applied Research Scientist at <a href="https://openstream.ai/">OpenStream.AI</a>. Ben's dissertation, which he defended in 2024 under the supervision of <a href="https://www.cs.rochester.edu/~schubert/">Len Schubert</a>, focused on the development of plan-based dialogue systems. He also contributed to a number of projects during his PhD, including MegaAttitude.
   srichter:
     name: Stephanie N. Richter
     website: http://stephrichter.github.io
@@ -196,7 +206,7 @@ people:
     projects:
     - ellipsis
     papers: null
-    description: Carina is a second-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
+    description: Carina is a third-year undergraduate student in Linguistics. Her research interests include referring expression generation and coreference.
   sedinberg:
     name: Samantha Edinberg
     website: null
@@ -220,7 +230,7 @@ people:
     projects:
     - connotate
     papers: null
-    description: Arsal is currently a software engineer at Everlaw. While in the FACTS.lab, his current research focuses on building fully-featured web-based annotation tools for natural language processing. 
+    description: Arsal is currently a software engineer at Everlaw. While in the FACTS.lab, he developed a fully-featured web-based annotation tools for natural language processing as part of Connotate. 
   cnair:
     name: Chandrashekar Nair
     website: https://www.linkedin.com/in/chandrashekar-nair-47a034179/
@@ -228,7 +238,7 @@ people:
     projects:
     - connotate
     papers: null
-    description: Chandrashekar is currently a software engineer at Everlaw. While in the FACTS.lab, his research focused on building fully-featured web-based annotation tools for natural language processing.
+    description: Chandrashekar is currently a software engineer at Everlaw. While in the FACTS.lab, While in the FACTS.lab, he developed a fully-featured web-based annotation tools for natural language processing as part of Connotate.
   zliu:
     name: Zhendong Liu
     website: https://zhendongliu.com/
@@ -281,6 +291,14 @@ people:
     - zulu
     papers: null
     description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
+  pkuchmiichuk:
+    name: Pavlo Kuchmiichuk
+    website: https://www.linkedin.com/in/pkuchmiichuk/
+    image: /assets/images/people/pavlo-kuchmiichuk.jpg
+    projects:
+    - lofi
+    papers: null
+    description: Pavlo Kuchmiichuk is currently a first-year PhD student in Computer Science advised by Aaron White. His research interests include computational semantics, low-resource NLP, and grammatical error correction.
   wchoi:
     name: Woo Jin Choi
     website: https://wchoi20.github.io/
@@ -296,14 +314,6 @@ people:
     - cdae
     papers: null
     description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
-  pkuchmiichuk:
-    name: Pavlo Kuchmiichuk
-    website: https://www.linkedin.com/in/pkuchmiichuk/
-    image: /assets/images/people/pavlo-kuchmiichuk.jpg
-    projects:
-    - lofi
-    papers: null
-    description: Pavlo Kuchmiichuk is currently a first-year PhD student in Computer Science advised by Aaron White. His research interests include computational semantics, low-resource NLP, and grammatical error correction.
 
 groups:
   faculty:
