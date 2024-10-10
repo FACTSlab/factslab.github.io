@@ -2,7 +2,7 @@
 layout: person  
 title: Stephanie N. Richter
 person_id: srichter
-category: Grads
+category: PhD
 position: Graduate Researcher 
 order: 2 
 image: /assets/images/people/stephanie-richter.jpg   

@@ -2,7 +2,7 @@
 layout: person  
 title: Woo Jin Choi
 person_id: wchoi
-category: Grads   
+category: PhD
 position: Graduate Researcher
 order: 6
 image: /assets/images/people/woojin-choi.jpeg

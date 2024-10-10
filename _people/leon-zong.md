@@ -2,7 +2,7 @@
 layout: person  
 title: Leon Zong
 person_id: lzong
-category: Undergrads   
+category: Undergrad   
 position: Undergraduate Researcher
 order: 1
 image: /assets/images/people/leon-zong.jpg

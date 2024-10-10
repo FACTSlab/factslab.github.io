@@ -2,7 +2,7 @@
 layout: person
 person_id: jgrove 
 title: Julian Grove
-category: Postdocs
+category: Postdoc
 position: Postdoctoral Researcher
 image: /assets/images/people/julian-grove.jpg
 order: 1

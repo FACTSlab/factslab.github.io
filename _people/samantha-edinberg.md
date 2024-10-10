@@ -2,7 +2,7 @@
 layout: person  
 title: Samantha Edinberg
 person_id: sedinberg
-category: Undergrads
+category: Undergrad
 position: Undergraduate Researcher  
 order: 2
 image: /assets/images/people/samantha-edinberg.jpg

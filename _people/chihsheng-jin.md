@@ -2,7 +2,7 @@
 layout: person  
 title: Chihsheng Jin
 person_id: cjin
-category: Grads    
+category: Masters
 position: Graduate Researcher
 order: 7
 image: /assets/images/people/chihsheng-jin.jpg

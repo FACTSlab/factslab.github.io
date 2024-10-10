@@ -2,8 +2,8 @@
 layout: person  
 title: Weiwei Gu
 person_id: wgu
-category: Grad Alumni   
-position: Graduate Alumni 
+category: Masters Alumni   
+position: Masters Alumnus 
 order: 7
 image: /assets/images/people/weiwei-gu.jpg
 description: Weiwei is currently a third-year PhD student in Computer Science at Arizona State University. 

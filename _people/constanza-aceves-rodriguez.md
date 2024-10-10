@@ -2,8 +2,8 @@
 layout: person  
 title: Constanza Aceves <br/> Rodriguez
 person_id: cacevesrodriguez
-category: Grads 
-position: Graduate Researcher  
+category: PhD
+position: Graduate Researcher
 order: 3
 projects:
   - megaattitude

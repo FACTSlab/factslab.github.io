@@ -2,7 +2,7 @@
 layout: person 
 person_id: han 
 title: Hannah An
-category: Grads
+category: PhD
 position: Graduate Researcher
 order: 1
 website: https://anyhannah.github.io/
