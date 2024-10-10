@@ -1,10 +1,10 @@
 hero_section:
-  title: The <span style="color:#415DA5">F</span>ormal <span style="color:#415DA5">A</span>nd <span style="color:#415DA5">C</span>ompu<span style="color:#415DA5">T</span>ational <span style="color:#415DA5">S</span>emantics lab <span style="color:#415DA5">(FACTS.lab)</span> at the University of Rochester
+  title: We are the Formal and Computational Semantics lab (FACTS.lab) at the University of Rochester.
 
 grey__section:
   title: Mission
   text: |
-    The human ability to convey information about possible past, present, and future configurations of things in the world is undergirded by systematic relationships between intricately structured linguistic expressions and the dizzying array of conceptual categories available to humans. 
+    The human ability to convey information about possible past, present, and future configurations of things in the world is undergirded by systematic relationships between intricately structured linguistic expressions and the dizzying array of conceptual categories available to humans. The FACTS.lab investigates (a) which of these conceptual categories can be related to which sorts of linguistic expressions, (b) what those relationships look like, and (c) how they can be leveraged for building better natural language understanding (NLU) systems.
 
 about_section:
   title: About
