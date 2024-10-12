@@ -1,5 +1,5 @@
 hero_section:
-  title: We are the Formal and Computational Semantics lab (FACTS.lab) at the University of Rochester.
+  title: "We are the <span style=\"color: #022F78;\">Formal and Computational Semantics lab</span> (FACTS.lab) at the University of Rochester."
 
 grey__section:
   title: Mission
@@ -35,11 +35,13 @@ gear_section:
       alt: sticker
 
 where_section: 
-  title: Where We Are
-  text: |
-    <strong  style="color: #415DA5">See Where we are and <br>Get  directions on the map</strong>
-  subtitle: Location
-  address: Wegmans Hall 4107
+  title: Where we are
+  text: 
+  subtitle: Our lab
+  address: Wegmans Hall 4107<br>
+    University of Rochester<br>
+    500 Joseph C Wilson Blvd.<br>
+    Rochester, NY 14627
 
 contact_section:
   title: Contact Us
