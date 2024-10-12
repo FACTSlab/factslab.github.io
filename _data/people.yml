@@ -291,6 +291,14 @@ people:
     - zulu
     papers: null
     description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. His research interests include natural language processing tools and methods.
+  rchen:
+    name: Robert Chen
+    website: null
+    image: /assets/images/people/robert-chen.jpg
+    projects:
+    - zulu
+    papers: null
+    description: Robert is currently a fourth-year undergraduate student in Linguistics. His research interests include computational phonetics and automatic speech recognition.
   pkuchmiichuk:
     name: Pavlo Kuchmiichuk
     website: https://www.linkedin.com/in/pkuchmiichuk/
@@ -339,6 +347,7 @@ groups:
     name: Undergraduate Researchers
     members:
     - lzong
+    - rchen
     - sedinberg
   gradalumni:
     name: Graduate Alumni
