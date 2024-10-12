@@ -24,6 +24,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.17.0-arm64-darwin)
     ffi (1.17.0-x64-mingw-ucrt)
+    ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.14.6)
@@ -95,11 +96,12 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   arm64-darwin-22
   x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
