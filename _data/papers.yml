@@ -27,6 +27,15 @@ papers:
     save: "/assets/bibliography/grove_modeling_2024.bib"
 
 - citation: "bib"
+  bib_key: "grove_probabilistic_2024"
+  links:
+  - label: "pdf"
+    href: "https://ling.auf.net/lingbuzz/008478/current.pdf"
+  - label: "bib"
+    href: "grove_probibilistic_2024"
+    save: "/assets/bibliography/grove_probabilistic_2024.bib"
+    
+- citation: "bib"
   bib_key: "vashishtha_famus_2024"
   links:
   - label: "pdf"

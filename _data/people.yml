@@ -12,10 +12,12 @@ people:
     - ellipsis
     - zulu
     - connotate
+    - pds
     papers:
     - cao_generating_2024
     - grove_factivity_2024
     - grove_modeling_2024
+    - grove_probabilistic_2024
     - gantt_event_2024
     - gantt_small_2024
     - vashishtha_famus_2024
@@ -70,6 +72,7 @@ people:
     - megaattitude
     - pds
     papers:
+    - grove_probabilistic_2024
     - grove_factivity_2024
     - grove_modeling_2024
     description: Julian is a post-doc in the FACTS.lab. He is interested in integrating Bayesian probabilistic models of inference with type-theoretic natural language semantics. He is also interested in characterizing dynamic semantic phenomena, such as presupposition, by relying on theories of effects, and determining how those characterizations should be combined with one another. 
