@@ -39,6 +39,12 @@ lofi:
   papers:
   - kim_montague_2021
 
+pds:
+  papers:
+  - grove_probabilistic_2024.bib
+  - grove_factivity_2024.bib
+  - grove_modeling_2024.bib
+
 cdae: null
 ellipsis: null
 connotate: null
