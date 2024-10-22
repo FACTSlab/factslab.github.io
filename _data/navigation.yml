@@ -21,3 +21,6 @@ nav:
     - title: LoFI
       link: /projects/lofi
       page_id: lofi
+    - title: PDS
+      link: /projects/pds
+      page_id: pds
