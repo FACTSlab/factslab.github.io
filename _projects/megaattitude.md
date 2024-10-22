@@ -12,5 +12,5 @@ text: |
 permalink: /projects/megaattitude/
 website: https://megaattitude.io/
 published: true
-image: /assets/images/megaattitude-logo.webp
+image: /assets/images/megaattitude-logo.png
 ---
