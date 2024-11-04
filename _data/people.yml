@@ -13,6 +13,7 @@ people:
     - zulu
     - connotate
     papers:
+    - walden_cross-document_2024
     - cao_generating_2024
     - grove_factivity_2024
     - grove_modeling_2024
@@ -108,6 +109,7 @@ people:
     - supermereo
     - cdae
     papers:
+    - walden_cross-document_2024
     - gantt_event_2024
     - gantt_small_2024
     - gantt_multimuc_2024
@@ -172,7 +174,17 @@ people:
     - cdae
     papers:
     - cao_generating_2024
+    - walden_cross-document_2024
     description: Angela is a second-year PhD student in Linguistics advised by Aaron White. Her research interests include using large-scale language data to build models of human reasoning.
+  csun:
+    name: Claire Sun
+    website: null
+    image: /assets/images/people/claire-sun.jpg 
+    projects:
+    - cdae
+    papers:
+    - walden_cross-document_2024
+    description: Claire is a second-year PhD student in Brain and Cognitive Sciences, working under the supervision of [Cora Iordan](https://www2.bcs.rochester.edu/coraline-iordan/). Her research focuses on how humans summarize information, exploring how this cognitive process may align with Event Segmentation. She is particularly interested in the interplay between neural network models and human cognition—how these models can deepen our understanding of cognition, and how insights from neuroscience can guide the development of more biologically plausible neural networks.
   amartin:
     name: Alexander Martin
     website: https://alexmartin1722.github.io/
@@ -180,6 +192,7 @@ people:
     projects:
     - cdae
     papers:
+    - walden_cross-document_2024
     - vashishtha_famus_2024
     - gantt_event_2024
     - barham_megawika_2023
@@ -313,7 +326,8 @@ people:
     image: /assets/images/people/pavlo-kuchmiichuk.jpg
     projects:
     - lofi
-    papers: null
+    papers:
+    - walden_cross-document_2024
     description: Pavlo Kuchmiichuk is currently a first-year PhD student in Computer Science advised by Aaron White. His research interests include computational semantics, low-resource NLP, and grammatical error correction.
   wchoi:
     name: Woo Jin Choi
@@ -328,7 +342,8 @@ people:
     image: /assets/images/people/chihsheng-jin.jpg
     projects:
     - cdae
-    papers: null
+    papers:
+    - walden_cross-document_2024
     description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
 
 groups:
@@ -348,6 +363,7 @@ groups:
     - cacevesrodriguez
     - jvalinsky
     - acao
+    - csun
     - wchoi
     - cjin
     - pkuchmiichuk

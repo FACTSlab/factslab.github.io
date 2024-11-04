@@ -1,5 +1,17 @@
 papers:
 - citation: "bib"
+  bib_key: "walden_cross-document_2024"
+  links:
+  - label: "pdf"
+    href: "https://arxiv.org/pdf/2410.14795"
+  - label: "data + code"
+    href: "https://github.com/wgantt/SEAMuS"
+  - label: "doi"
+    href: "https://doi.org/10.48550/arXiv.2410.14795"
+  - label: "bib"
+    href: "walden_cross-document_2024"
+    save: "/assets/bibliography/walden_cross-document_2024.bib"
+- citation: "bib"
   bib_key: "cao_generating_2024"
   links:
   - label: "pdf"
