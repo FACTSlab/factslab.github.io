@@ -4,7 +4,7 @@ papers:
   links:
   - label: "pdf"
     href: "https://arxiv.org/pdf/2410.14795"
-  - label: "data + code"
+  - label: "data&nbsp;+&nbsp;code"
     href: "https://github.com/wgantt/SEAMuS"
   - label: "doi"
     href: "https://doi.org/10.48550/arXiv.2410.14795"
