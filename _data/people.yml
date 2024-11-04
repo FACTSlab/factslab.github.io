@@ -345,6 +345,15 @@ people:
     papers:
     - walden_cross-document_2024
     description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. His research interests include large language models, information extraction, and machine learning.
+  callen:
+    name: Curisia Allen
+    website: null
+    image: /assets/images/people/curisia-allen.jpg
+    projects:
+    - cdae
+    papers:
+    - walden_cross-document_2024
+    description: Curisia is a second-year undergraduate student in Data Science with a concentration in Linguistics. Her research interests include computation linguistics and natural language processing.
 
 groups:
   faculty:
