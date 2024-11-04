@@ -184,7 +184,7 @@ people:
     - cdae
     papers:
     - walden_cross-document_2024
-    description: Claire is a second-year PhD student in Brain and Cognitive Sciences, working under the supervision of [Cora Iordan](https://www2.bcs.rochester.edu/coraline-iordan/). Her research focuses on how humans summarize information, exploring how this cognitive process may align with Event Segmentation. She is particularly interested in the interplay between neural network models and human cognition—how these models can deepen our understanding of cognition, and how insights from neuroscience can guide the development of more biologically plausible neural networks.
+    description: Claire is a second-year PhD student in Brain and Cognitive Sciences, working under the supervision of <a href="https://www2.bcs.rochester.edu/coraline-iordan/">Cora Iordan</a>. Her research focuses on how humans summarize information, exploring how this cognitive process may align with Event Segmentation. She is particularly interested in the interplay between neural network models and human cognition—how these models can deepen our understanding of cognition, and how insights from neuroscience can guide the development of more biologically plausible neural networks.
   amartin:
     name: Alexander Martin
     website: https://alexmartin1722.github.io/
