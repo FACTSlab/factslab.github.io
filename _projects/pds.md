@@ -8,6 +8,7 @@ text: |
   
   But it also has a second prong: it allows formal semanticists to construct probabilistic models of linguistic inference datasets by inferring the structure of uncertainty directly from data. Moreover, because it ties semantic theory to probabilistic models of linguistic data, it allows semanticists to compare alternative candidate theories of some phenomenon by assessing their relative fits to a given dataset.
 permalink: /projects/pds/
+website: https://probabilistic-dynamic-semantics.github.io/
 published: true
 image: /assets/images/pds-logo.png
 ---

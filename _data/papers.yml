@@ -1,16 +1,48 @@
 papers:
 - citation: "bib"
-  bib_key: "walden_cross-document_2024"
+  bib_key: "walden_cross-document_2025"
   links:
   - label: "pdf"
-    href: "https://arxiv.org/pdf/2410.14795"
+    href: "https://aclanthology.org/2025.xllm-1.19.pdf"
   - label: "data&nbsp;+&nbsp;code"
     href: "https://github.com/wgantt/SEAMuS"
-  - label: "doi"
-    href: "https://doi.org/10.48550/arXiv.2410.14795"
   - label: "bib"
-    href: "walden_cross-document_2024"
-    save: "/assets/bibliography/walden_cross-document_2024.bib"
+    href: "walden_cross-document_2025"
+    save: "/assets/bibliography/walden_cross-document_2025.bib"
+
+- citation: "bib"
+  bib_key: "cao_cause_2025"
+  links:
+  - label: "pdf"
+    href: "https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5821/5602"
+  - label: "doi"
+    href: "https://doi.org/10.3765/elm.3.5821"
+  - label: "bib"
+    href: "cao_cause_2025"
+    save: "/assets/bibliography/cao_cause_2025.bib"
+
+- citation: "bib"
+  bib_key: "grove_factivity_2025"
+  links:
+  - label: "pdf"
+    href: "https://link.springer.com/article/10.1007/s11050-025-09244-9"
+  - label: "doi"
+    href: "https://doi.org/10.1007/s11050-025-09244-9"
+  - label: "bib"
+    href: "grove_factivity_2025"
+    save: "/assets/bibliography/grove_factivity_2025.bib"
+
+- citation: "bib"
+  bib_key: "grove_modeling_2025"
+  links:
+  - label: "pdf"
+    href: "https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5857/5609"
+  - label: "doi"
+    href: "https://doi.org/10.3765/elm.3.5857"
+  - label: "bib"
+    href: "grove_modeling_2025"
+    save: "/assets/bibliography/grove_modeling_2025.bib"
+
 - citation: "bib"
   bib_key: "cao_generating_2024"
   links:
@@ -19,24 +51,6 @@ papers:
   - label: "bib"
     href: "cao_generating_2024"
     save: "/assets/bibliography/cao_generating_2024.bib"
-
-- citation: "bib"
-  bib_key: "grove_factivity_2024"
-  links:
-  - label: "pdf"
-    href: "https://lingbuzz.net/lingbuzz/007450/current.pdf"
-  - label: "bib"
-    href: "grove_factivity_2024"
-    save: "/assets/bibliography/grove_factivity_2024.bib"
-
-- citation: "bib"
-  bib_key: "grove_modeling_2024"
-  links:
-  - label: "pdf"
-    href: "https://ling.auf.net/lingbuzz/008196/current.pdf"
-  - label: "bib"
-    href: "grove_modeling_2024"
-    save: "/assets/bibliography/grove_modeling_2024.bib"
 
 - citation: "bib"
   bib_key: "grove_probabilistic_2024"

@@ -1,12 +1,12 @@
 ---
-layout: person  
+layout: person
 title: Chihsheng Jin
 person_id: cjin
-category: Masters
-position: Graduate Researcher
+category: Masters Alumni
+position: Independent Researcher
 order: 7
 image: /assets/images/people/chihsheng-jin.jpg
-description: Chihsheng Jin is currently a second-year Master's student in Computational Linguistics, advised by Aaron White. 
+description: Chihsheng completed his MS in Computational Linguistics in 2025.
 permalink: /people/chihsheng-jin
 published: true
 ---

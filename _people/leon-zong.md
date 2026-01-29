@@ -1,12 +1,12 @@
 ---
-layout: person  
+layout: person
 title: Leon Zong
 person_id: lzong
-category: Undergrad   
-position: Undergraduate Researcher
+category: Undergraduate Alumni
+position: Alumni
 order: 1
 image: /assets/images/people/leon-zong.jpg
-description: Leon is currently a fourth-year undergraduate student in Computer Science and Biology. 
+description: Leon completed his BS in Computational Biology and BA in Computer Science in 2025.
 permalink: /people/leon-zong
 published: true
 ---

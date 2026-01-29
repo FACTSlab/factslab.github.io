@@ -24,3 +24,6 @@ nav:
     - title: PDS
       link: /projects/pds
       page_id: pds
+    - title: CDAE
+      link: /projects/cdae
+      page_id: cdae

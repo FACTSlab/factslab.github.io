@@ -1,12 +1,12 @@
 ---
-layout: person  
+layout: person
 title: Samantha Edinberg
 person_id: sedinberg
-category: Undergrad
-position: Undergraduate Researcher  
+category: Undergraduate Alumni
+position: Alumni
 order: 4
 image: /assets/images/people/samantha-edinberg.jpg
-description: Samantha is a third-year undergraduate student in Linguistics.
+description: While in the FACTS.lab, Samantha's research focused on annotation of ellipsis phenomena in naturally occurring corpora.
 permalink: /people/samantha-edinberg
 published: true
 ---

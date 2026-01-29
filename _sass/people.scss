@@ -134,12 +134,13 @@
 
 
 .people-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 30px;
-  row-gap: 30px;
-  justify-content: center;
   margin-top: 15px;
+  max-width: 1240px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (max-width: 768px) {

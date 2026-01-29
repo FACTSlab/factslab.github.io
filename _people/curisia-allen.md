@@ -1,12 +1,12 @@
 ---
-layout: person  
-title: Chihsheng Jin
-person_id: cjin
-category: Undergrad
-position: Undergraduate Researcher
+layout: person
+title: Curisia Allen
+person_id: callen
+category: Undergraduate Alumni
+position: Alumni
 order: 3
-image: /assets/images/people/chihsheng-jin.jpg
-description: Curisia is a second-year undergraduate student in Data Science with a concentration in Linguistics. 
+image: /assets/images/people/curisia-allen.jpg
+description: While in the FACTS.lab, Curisia's research focused on annotation of naturally occurring corpora for event structure.
 permalink: /people/curisia-allen
 published: true
 ---
