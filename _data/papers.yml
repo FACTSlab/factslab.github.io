@@ -89,11 +89,11 @@ papers:
   bib_key: "gantt_event_2024"
   links:
   - label: "pdf"
-    href: "https://arxiv.org/pdf/2402.06973.pdf"
+    href: "https://aclanthology.org/2024.findings-emnlp.431.pdf"
   - label: "data"
     href: "https://github.com/wgantt/eks"
   - label: "doi"
-    href: "https://doi.org/10.48550/arXiv.2402.06973"
+    href: "https://doi.org/10.18653/v1/2024.findings-emnlp.431"
   - label: "bib"
     href: "gantt_event_2024"
     save: "/assets/bibliography/gantt_event_2024.bib"
