@@ -317,12 +317,13 @@ people:
     description: While in the FACTS.lab, Robert's research focused on computational phonetics and automatic speech recognition.
   pkuchmiichuk:
     name: Pavlo Kuchmiichuk
-    website: https://www.linkedin.com/in/pkuchmiichuk/
+    website: https://pkuchmiichuk.com/
     image: /assets/images/people/pavlo-kuchmiichuk.jpg
     projects:
     - lofi
     papers:
     - walden_cross-document_2025
+    - gantt_event_2024
     description: Pavlo Kuchmiichuk is a second-year PhD student in Computer Science advised by Aaron White. His research interests include computational semantics, grammar induction, low-resource NLP, and grammatical error correction.
   wchoi:
     name: Woo Jin Choi
