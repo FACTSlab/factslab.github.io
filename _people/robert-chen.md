@@ -2,7 +2,7 @@
 layout: person
 title: Robert Chen
 person_id: rchen
-category: Undergraduate Alumni
+category: Undergrad Alumni
 position: Alumni
 order: 2
 image: /assets/images/people/robert-chen.jpg

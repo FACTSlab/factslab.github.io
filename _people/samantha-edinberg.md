@@ -2,7 +2,7 @@
 layout: person
 title: Samantha Edinberg
 person_id: sedinberg
-category: Undergraduate Alumni
+category: Undergrad Alumni
 position: Alumni
 order: 4
 image: /assets/images/people/samantha-edinberg.jpg
