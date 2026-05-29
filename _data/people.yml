@@ -350,6 +350,14 @@ people:
     papers:
     - walden_cross-document_2025
     description: While in the FACTS.lab, Curisia's research focused on computational linguistics and natural language processing.
+  mkimani:
+    name: Mark Kimani
+    website: https://personal-website.markmugokimani.workers.dev/about-me
+    image: /assets/images/people/mark-kimani.png
+    projects:
+      - zulu
+    papers: null
+    description: Mark is currently a fourth-year undergraduate student pursuing a Data Science degree at the University of Rochester. He is currently a research assistant on the Zulu Embedding Project.
 
 groups:
   faculty:
@@ -367,7 +375,8 @@ groups:
     - pkuchmiichuk
   undergrads:
     name: Undergraduate Researchers
-    members: []
+    members:
+    - mkimani
   postdocalumni:
     name: Postdoc Alumni
     members:
