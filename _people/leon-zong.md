@@ -2,7 +2,7 @@
 layout: person
 title: Leon Zong
 person_id: lzong
-category: Undergraduate Alumni
+category: Undergrad Alumni
 position: Alumni
 order: 1
 image: /assets/images/people/leon-zong.jpg

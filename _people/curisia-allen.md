@@ -2,7 +2,7 @@
 layout: person
 title: Curisia Allen
 person_id: callen
-category: Undergraduate Alumni
+category: Undergrad Alumni
 position: Alumni
 order: 3
 image: /assets/images/people/curisia-allen.jpg
